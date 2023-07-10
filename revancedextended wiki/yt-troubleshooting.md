@@ -28,9 +28,9 @@ If that doesn't work you can try to uninstall Vanced MicroG and reinstall [Vance
 
 
 
-#### **3. "com.deniscerri.ytdl is not installed. Please install it."**
+#### **3. "com.deniscerri.ytdl is not installed."**
 
-Follow the instructions in step 5 of the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_downloader_setup) to understand and set up the download function in YT ReVanced Extended.
+Refer to step 5 of the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_downloader_setup) to understand and set up the download function in YT ReVanced Extended.
 
 
 
@@ -94,7 +94,7 @@ You'll need to patch on a different Android device or on PC.
 
 If you patch with the RVX Manager on a different device make sure to export the patched APK so that you can send it to the device you plan to install it on. To export the APK, tap the three dots in the upper right corner of the screen and then press "Export APK" as shown in [this image](https://imgur.com/a/JqmfzAj). Then press "Save".
 
-If you want to patch on PC, follow the instructions for the desired method in the [GitHub documentation](https://github.com/inotia00/revanced-documentation#wiki).
+If you want to patch on PC, follow the instructions for the desired method in the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation).
 
 
 
@@ -123,7 +123,7 @@ Continue from the middle of step 3 in the [YT guide](https://www.reddit.com/r/re
 
 #### **12. "Error: Patch is not supported for this app version."**
 
-Download an APK of the recommended/suggested version and patch that from storage. Refer to step 2 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_2._downloading_the_yt_apk).
+Download an APK of the recommended/suggepd version and patch that from storage. Refer to step 2 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_2._downloading_the_yt_apk).
 
 
 
@@ -134,11 +134,11 @@ Download an APK of the recommended/suggested version and patch that from storage
 
 **b)** If your device's language was set to a language that reads right-to-left when the failure occurred then set your device's language to English or any language that reads left-to-right. Then fully close the Manager, and try again.
 
-* If it still doesn't work then create a post with a screenshot or logs of the error. Or patch on a different device or use a different patching method.
+* If it still doesn't work then create a post with a screenshot or logs of the error. Alternatively, you can patch on a different device or use a different patching method.
 
-If you patch with the Manager on a different device make sure to export the patched APK so that you can send it to the device you plan to install it on. To export the APK, tap the three dots in the upper right corner of the screen and then press "Export APK" as shown in [this image](https://imgur.com/a/JqmfzAj). Then press "Save".
+If you patch with the RVX Manager on a different device make sure to export the patched APK so that you can send it to the device you plan to install it on. To export the APK, tap the three dots in the upper right corner of the screen and then press "Export APK" as shown in [this image](https://imgur.com/a/JqmfzAj). Then press "Save".
 
-If you want to use a PC to patch then follow one of the PC methods in the [GitHub documentation](https://github.com/inotia00/revanced-documentation#wiki).
+If you want to patch on PC, follow the instructions for the desired method in the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation).
 
 
 
@@ -163,7 +163,7 @@ Patch again and include the `MicroG Support` patch.
 
 #### **16. "App not installed as package conflicts with an existing package."**
 
-**a)** Uninstall the YT ReVanced Extended app that is on your device before trying again. Make sure it is not installed in an alternate user profile or Private Folder that your device features.
+**a)** Uninstall the YT ReVanced Extended app that is already on your device before trying again. Make sure it is not installed in an alternate user profile or private folder that your device features.
 
 **b)** Open the RVX Manager > Patcher > Select an application > Storage > Select the **patched** APK that you were trying to install.
 

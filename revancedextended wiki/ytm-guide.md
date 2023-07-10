@@ -5,7 +5,7 @@
 
 **a)** This guide is for patching and installing YT Music ReVanced Extended. (If you want to install YT ReVanced Extended, go to the [YT ReVanced Extended guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/).)
 
-**b)** This guide will use the RVX Manager method. Check the [GitHub documentation](https://github.com/inotia00/revanced-documentation) for info on the other patching methods.
+**b)** This guide will use the RVX Manager method. Check the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on the other patching methods.
 
 **c)** There is a [YTM troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/) which you should check if you get stuck at any point during this tutorial.
 
@@ -16,7 +16,7 @@
 
 **a)** Your device must be running Android 8.0+.
 
-**b)** Your device must be non-rooted. If it is rooted, look at the [GitHub documentation](https://github.com/inotia00/revanced-documentation) for a rooted guide.
+**b)** Your device must be non-rooted. If it is rooted, look at the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for a rooted guide.
 
 **c)** Your device must use the arm64-v8a architecture. (If you aren't sure what yours is, you will be able to check shortly in the tutorial. If it is not arm64-v8a (ie: armeabi-v7a), refer to the [YTM troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for instructions.)
 
@@ -28,7 +28,7 @@
 
 **b)** Download and install the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
-(If you get an error saying "App not installed as app isn't compatible with your phone/tablet." or "App not installed.", it likely means that your device is not supported by the RVX Manager. Refer to the [YTM troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for further instructions.)
+(If you get an error saying "App not installed as app isn't compatible with your device." or "App not installed.", it likely means that your device is not supported by the RVX Manager. Refer to the [YTM troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for further instructions.)
 
 
 
@@ -37,7 +37,7 @@
 
 Install [YT Music from the Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music). If you already have it installed, make sure it is up-to-date.
 
-(If you are patching to install the patched APK on a non-armv64-v8a device, download (but do not install) one of the newer YTM APKs from [APKMirror.com](https://www.apkmirror.com/apk/google-inc/youtube-music/). Make sure to download the variant that matches the device you plan on installing the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS).)
+(If you are patching to install the patched APK on a non-armv64-v8a device, download (but do not install) one of the newer YTM APKs from [APKMirror.com](https://www.apkmirror.com/apk/google-inc/youtube-music/). Make sure to download the variant that matches the architecture of the device you plan on installing the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). If an Android device is not arm64-v8a it is almost certainly armeabi-v7a.)
 
 (If you cannot install from the Play Store, download and install one of the newer YTM APKs from [APKMirror.com](https://www.apkmirror.com/apk/google-inc/youtube-music/). Make sure to install the arm64-v8a variant, as demonstrated [here](https://imgur.com/a/9QhPBBo).)
 
@@ -46,7 +46,9 @@ Install [YT Music from the Play Store](https://play.google.com/store/apps/detail
 
 ### **3. Patching YT Music**
 
-Open RVX Manager. Open the Patcher > Select an application > **YouTube Music**.
+Open the RVX Manager and press Patcher > Select an application > **YouTube Music**.
+
+(If you are patching to install the patched APK on a non-armv64-v8a device, open the RVX Manager and press Patcher > Select an application > **Storage** > and then select the YTM APK file that you downloaded from APKMirror.)
 
 Now press "Select patches", and then select the patches that you want. It is suggested to use the Default patches selection in order to get the most features without breaking stuff. To do so, press the "Default" button at the top of the patches selection screen.
 
@@ -157,7 +159,7 @@ Nevertheless, here is the setup:
 
 **c)** Fully close the app.
 
-Now when you press the Share button it will open try to open Seal to download the media. If you want to use a different downloader you can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several downloaders. (Keep in mind that PowerTube is no longer functioning for YT Music downloads.)
+Now when you press the Share button it will try to open Seal to download the media. If you want to use a different downloader you can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several downloaders. (Keep in mind that PowerTube is no longer functioning for YT Music downloads.)
 
 After you installed the downloader that you like, open YTM Extended > Profile picture > Settings > ReVanced Extended > Package name of downloader. Then enter the package name of the downloader that you use. Make sure that there are no empty spaces. Then press "OK" and restart the app.
 

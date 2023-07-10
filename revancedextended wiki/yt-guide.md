@@ -8,7 +8,7 @@
 
 **b)** This guide is for patching and installing YouTube ReVanced Extended. (If you want to install YT Music ReVanced Extended, go to the [YTM Extended guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/).)
 
-**c)** This guide will use the RVX Manager method. Refer to the [GitHub documentation](https://github.com/inotia00/revanced-documentation) for info on the other patching methods.
+**c)** This guide will use the RVX Manager method. Refer to the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on the other patching methods.
 
 **d)** There is a [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/) which you should check if you get stuck at any point during this tutorial.
 
@@ -19,7 +19,7 @@
 
 **a)** Your device must be running Android 8.0+.
 
-**b)** Your device must be non-rooted. If it is rooted, look at the [GitHub documentation](https://github.com/inotia00/revanced-documentation) for a rooted guide.
+**b)** Your device must be non-rooted. If it is rooted, look at the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for a rooted guide.
 
 **c)** Your device must use the arm64-v8a architecture. (If you aren't sure what yours is, you will be able to check it shortly in the tutorial. If it is not arm64-v8a (ie: armeabi-v7a), refer to the [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for instructions.)
 
@@ -32,14 +32,14 @@
 
 **b)** Download and install the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
-(If you get an error saying "App not installed as app isn't compatible with your phone/tablet." or "App not installed.", it likely means that your device is not supported by the RVX Manager. Refer to the [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for further instructions.)
+(If you get an error saying "App not installed as app isn't compatible with your device." or "App not installed.", it likely means that your device is not supported by the RVX Manager. Refer to the [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for further instructions.)
 
 
 
 
 ### **2. Downloading The YT APK**
 
-We will now check which version of YouTube we will need to download for us to patch it. If you have stock YouTube installed, open RVX Manager and press Patcher > Select an application. It will say the currently suggested version in the YouTube box, as shown [here](https://imgur.com/a/IzqCViD).
+We will now check which version of YouTube we will need to download for us to patch it. If you have stock YouTube installed, open the RVX Manager and press Patcher > Select an application. It will say the currently suggested version in the YouTube box, as shown [here](https://imgur.com/a/IzqCViD).
 
 You can also check the suggested version [here in the GitHub](https://github.com/inotia00/revanced-patches/tree/revanced-extended#readme). (Press **"Details"** underneath **"com.google.android.youtube"** and look at the target version column. [Here is an image demonstration](https://imgur.com/a/qFHifJz).)
 
@@ -62,7 +62,7 @@ Do not bother installing the YT APK when it has finished downloading.
 
 ### **3. Patching The APK**
 
-Open the RVX Manager. Open the Patcher > Select an application > **STORAGE**, and then select the YouTube APK that you just downloaded from APKMirror. (It will probably be in your downloads folder.)
+Open the RVX Manager and press Patcher > Select an application > **STORAGE**, and then select the YouTube APK that you just downloaded from APKMirror. (It will probably be in your downloads folder.)
 
 Now press "Select patches", and then select the patches that you want. It is suggested to use the Default patches selection in order to get the most features without breaking stuff. To do so, press the "Default" button at the top of the patches selection screen.
 
@@ -130,9 +130,9 @@ There are three important things to know about downloading in YT ReVanced Extend
 
 **b)** The ReVanced Extended download function is separate from the built-in download button which is reserved for YT Premium members. The ReVanced Extended download button can be enabled by going into Settings > ReVanced Extended > Overlay buttons > Show download button, **On**. The download button will appear beside the full-screen button in the video player.
 
-**c)** To download videos you need a 3rd party downloader app installed on your device, such as Seal, YTDLnis, or NewPipe. To install a downloader, open up YT ReVanced Extended and navigate to Settings > ReVanced Extended > Overlay buttons > Downloader settings. Now select the downloader that you want to use and then press "Install". It will direct you to the GitHub page, where you can download and install the downloader.
+**c)** To download videos you need a 3rd party downloader app installed on your device, such as Seal, YTDLnis, or NewPipe. To install a downloader, open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Overlay buttons > Downloader settings. Now select the downloader that you want to use and then press "Install". It will direct you to the GitHub page, where you can download and install the downloader.
 
-After it is installed and working, open up YT ReVanced Extended again and navigate to Settings > ReVanced Extended > Overlay buttons > Downloader settings, and select the downloader that you installed. Press "Save". Now when you press the download button it will open a pop-up from the downloader so that you can easily download videos.
+After it is installed and working, open YT ReVanced Extended again and navigate to Settings > ReVanced Extended > Overlay buttons > Downloader settings, and select the downloader that you installed. Press "Save". Now when you press the download button it will open a pop-up from the downloader so that you can easily download videos.
 
 
 
