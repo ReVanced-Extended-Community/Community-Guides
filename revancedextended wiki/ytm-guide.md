@@ -145,7 +145,7 @@ If this does not work you can use an [old version of Vanced Music](https://www.a
 
 #### **Downloader Setup**
 
-The download function in YTM Extended works by changing the Share button into a download button that calls upon the downloader of your choice to download the song. The default downloader is NewPipe, which you can download and install from [here](https://github.com/TeamNewPipe/NewPipe/releases/latest).
+The download function in YTM Extended works by changing the Share button into a download button that calls upon the downloader of your choice to download the song. The default downloader is [Seal](https://github.com/JunkFood02/Seal/releases/latest).
 
 **Note:** There is currently a bug that makes it so that when you press the Share button for any song it will act as though you pressed the Share button for the currently playing song. Therefore you can only download the currently playing song.
 
@@ -157,7 +157,7 @@ Nevertheless, here is the setup:
 
 **c)** Fully close the app.
 
-Now when you press the Share button it will open try to open [Seal](https://github.com/JunkFood02/Seal/releases/latest) to download the media. If you want to use a different downloader you can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several downloaders. (Keep in mind that PowerTube is no longer functioning for YT Music downloads.)
+Now when you press the Share button it will open try to open Seal to download the media. If you want to use a different downloader you can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several downloaders. (Keep in mind that PowerTube is no longer functioning for YT Music downloads.)
 
 After you installed the downloader that you like, open YTM Extended > Profile picture > Settings > ReVanced Extended > Package name of downloader. Then enter the package name of the downloader that you use. Make sure that there are no empty spaces. Then press "OK" and restart the app.
 
