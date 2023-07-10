@@ -116,7 +116,7 @@ Make sure you are using the latest [RVX Manager](https://github.com/inotia00/rev
 
 **c)** Open the RVX Manager > Patcher > Select an application > YouTube.
 
-Continue from the middle of step 4 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_3._patching_the_apk).
+Continue from the middle of step 3 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_3._patching_the_apk).
 
 
 
