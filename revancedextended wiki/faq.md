@@ -34,7 +34,7 @@ Due to legal reasons, ReVanced Extended cannot be directly distributed. Anyone d
 
 ##### **6. What features are different between ReVanced Extended and ReVanced?**
 
-ReVanced and ReVanced Extended are constantly updating their features so the answer to this question is always changing. The best way to answer this is by installing ReVanced Extended and comparing it to ReVanced. You can also compare the list of patches between the [ReVanced Extended GitHub](https://github.com/inotia00/revanced-patches/tree/revanced-extended#readme) and the [ReVanced GitHub](https://github.com/revanced/revanced-patches#readme), but keep in mind that some patches can contain several features and options within, so just looking at the patches doesn't tell the full story.
+ReVanced and ReVanced Extended are constantly updating their features so the answer to this question is always changing. The best way to answer this is by installing ReVanced Extended and comparing it to ReVanced. You can also compare the list of patches between the [ReVanced Extended GitHub](https://github.com/inotia00/revanced-patches/tree/revanced-extended#readme) and the [ReVanced site](https://revanced.app/patches?pkg=com.google.android.youtube), but keep in mind that some patches can contain several features and options within, so just looking at the patches doesn't tell the full story.
 
 
 
