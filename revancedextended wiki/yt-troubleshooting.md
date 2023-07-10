@@ -30,7 +30,7 @@ If that doesn't work you can try to uninstall Vanced MicroG and reinstall [Vance
 
 #### **3. "com.deniscerri.ytdl is not installed. Please install it."**
 
-Follow the instructions in step 6 of the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_downloader_setup) to understand and set up the download function in YT ReVanced Extended.
+Follow the instructions in step 5 of the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_downloader_setup) to understand and set up the download function in YT ReVanced Extended.
 
 
 
