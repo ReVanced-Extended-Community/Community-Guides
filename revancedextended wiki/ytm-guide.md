@@ -7,7 +7,7 @@
 
 **b)** This guide will use the RVX Manager method. Check the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on the other patching methods.
 
-**c)** There is a [YTM troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/) which you should check if you get stuck at any point during this tutorial.
+**c)** There is a [YTM troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) which you should check if you get stuck at any point during this tutorial.
 
 
 
@@ -51,6 +51,8 @@ Open the RVX Manager and press Patcher > Select an application > **YouTube Music
 (If you are patching to install the patched APK on a non-armv64-v8a device, open the RVX Manager and press Patcher > Select an application > **Storage** > and then select the YTM APK file that you downloaded from APKMirror.)
 
 Now press "Select patches", and then select the patches that you want. It is suggested to use the Default patches selection in order to get the most features without breaking stuff. To do so, press the "Default" button at the top of the patches selection screen.
+
+You can see examples of what all of the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation).
 
 If you decide not to use the default selection, keep the following things in mind:
 
