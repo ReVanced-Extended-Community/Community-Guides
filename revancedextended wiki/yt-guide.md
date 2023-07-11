@@ -10,7 +10,7 @@
 
 **c)** This guide will use the RVX Manager method. Refer to the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on the other patching methods.
 
-**d)** There is a [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/) which you should check if you get stuck at any point during this tutorial.
+**d)** There is a [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) which you should check if you get stuck at any point during this tutorial.
 
 
 
@@ -66,12 +66,13 @@ Open the RVX Manager and press Patcher > Select an application > **STORAGE**, an
 
 Now press "Select patches", and then select the patches that you want. It is suggested to use the Default patches selection in order to get the most features without breaking stuff. To do so, press the "Default" button at the top of the patches selection screen.
 
+You can see examples of what all of the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation).
 
 If you decide not to use the default selection, keep the following things in mind:
 
 **a)** You **must** include the `MicroG Support` patch.
 
-**b)** You can select which custom branding icon you want to use, but make sure to **only select one** custom branding icon patch. You can view a preview of the 3 icons [here on Imgur](https://imgur.com/a/Irofd2F). You can exclude all custom branding icon patches to get the YouTube icon.
+**b)** You can select which custom branding icon you want to use, but make sure to **only select one** custom branding icon patch. You can view a preview of the 3 icons [here on Imgur](https://imgur.com/a/qlelvZk). You can exclude all custom branding icon patches to get the YouTube icon.
 
 **c)** Make sure to look through all of the patches so you don't accidentally exclude features.
 
@@ -96,7 +97,7 @@ Press "Install" and wait for it to finish installing. You may get a pop-up sayin
 
 # **5. Additional Setup**
 
-Aside from the detailed setup instructions below that are for the more complex configurations, many settings / patches can be enabled/disabled in the YT ReVanced Extended app. If there is something that is hidden that you want to unhide, or if there is something extra that you want to remove, you can most likely change it in one of these settings menus.
+Aside from the detailed setup instructions below that are for the more complex configurations, many settings / patches can be enabled/disabled in the YT ReVanced Extended app. You can see what all of the settings do [here](https://github.com/kazimmt/RVX-Features#youtube-revanced-extended-features).
 
 To find the ReVanced Extended settings, open the YT ReVanced Extended app > Profile picture > Settings > ReVanced Extended.
 
