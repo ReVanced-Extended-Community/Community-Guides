@@ -5,7 +5,7 @@ If you know of a guide that should be added, please open an issue or pull reques
 ### Index
 
 - [General guides](https://github.com/ReVanced-Extended-Community/Community-Guides/tree/main/general-guides)
-  - [community wiki pages](https://github.com/ReVanced-Extended-Community/Community-Guides/tree/main/general-guides/community-wiki)
+  - [Community wiki pages](https://github.com/ReVanced-Extended-Community/Community-Guides/tree/main/general-guides/community-wiki)
 - [YouTube](https://github.com/ReVanced-Extended-Community/Community-Guides/tree/main/youtube)
   - [Guide for beginners](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/youtube/guide-for-beginners.md)
 - [YT Music](https://github.com/ReVanced-Extended-Community/Community-Guides/tree/main/yt-music)
