@@ -4,7 +4,7 @@
 ‎ 
 [‎ ](LineBreak)
 ‎
-###**Originally created by /u/KobeW50**.
+### **Originally created by /u/KobeW50**.
 
 ‎[‎ ](LineBreak)
 
@@ -26,9 +26,9 @@
 
 ‎[‎ ](LineBreak)
 
-#**For New Users:**
+# **For New Users:**
 
-###**Things To Know Before You Begin...**
+### **Things To Know Before You Begin...**
 
 * Read the [Frequently Asked Questions](https://www.reddit.com/r/revancedextended/wiki/faq/).
 
@@ -123,7 +123,7 @@ Alternatively there's an option in the Miscellaneous settings page inside the Re
 ___
 ‎[‎ ](LineBreak)
 
-#**More Info/Troubleshooting**
+# **More Info/Troubleshooting**
 
 Read the bottom of the [(under updates) comprehensive Installation Guide](https://www.reddit.com/r/revancedextended/wiki/guide/#wiki_installation_troubleshooting) for troubleshooting help with patching and installation.
 
