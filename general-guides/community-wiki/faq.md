@@ -5,7 +5,7 @@
 ##### **1. What is ReVanced and ReVanced Extended?**
 [ReVanced](https://revanced.app/) is a free modular patcher for Android apps such as YouTube. It can be used to create a YouTube application that has extra features and customizability, similar to how a browser extension works, but for an app.
 
-ReVanced Extended is a derivative project of ReVanced of just patches made specifically for YouTube, YouTube Music, Vanced MicroG, and Reddit. ReVanced Extended has some extra features on top of what ReVanced offers and is developed independently by inotia00. ReVanced Extended is not affiliated with ReVanced.
+ReVanced Extended is a derivative project of ReVanced of just patches made for YouTube, YT Music, MicroG, and Reddit. ReVanced Extended has some extra features on top of what ReVanced offers and is developed independently by inotia00. ReVanced Extended is not affiliated with ReVanced.
 
 
 
