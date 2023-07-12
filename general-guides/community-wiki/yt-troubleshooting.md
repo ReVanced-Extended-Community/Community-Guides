@@ -39,9 +39,9 @@ Refer to step 5 of the [YT guide](https://www.reddit.com/r/revancedextended/wiki
 
 Make sure you YT ReVanced Extended is up-to-date.
 
-If buffering persists open YT ReVanced Extended, tap the profile picture > Settings > ReVanced Extended > Miscellaneous > Spoof player parameter, ON. Restart the app.
+If buffering persists, open YT ReVanced Extended, tap the profile picture > Settings > ReVanced Extended > Miscellaneous > Spoof player parameter, ON. Restart the app.
 
-Then go to Settings > ReVanced Extended > Miscellaneous > Spoof player parameter type, ON.
+If buffering persists, go to Settings > ReVanced Extended > Miscellaneous > Spoof player parameter type, ON.
 
 
 
