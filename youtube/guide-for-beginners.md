@@ -1,6 +1,5 @@
 # Notice: ⚠️ [From now on use the new RVX Manager created specially for ReVanced Extended patches.](https://github.com/inotia00/revanced-manager/releases/latest)
 
-.
 
 **This guide is intended as a detailed starting point for first-time users.**
 
