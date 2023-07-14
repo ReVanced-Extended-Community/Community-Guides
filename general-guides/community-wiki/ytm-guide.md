@@ -18,7 +18,7 @@
 
 **b)** Your device must be non-rooted. If it is rooted, look at the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for a rooted guide.
 
-**c)** Your device must use the arm64-v8a architecture. (If you aren't sure what yours is, you will be able to check shortly in the tutorial. If it is not arm64-v8a (ie: armeabi-v7a), refer to the [YTM troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for instructions.)
+**c)** Your device must use the arm64-v8a architecture. (If you aren't sure what yours is, you will find out soon enough in the tutorial. If it is not arm64-v8a (ie: armeabi-v7a), refer to the [YTM troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for instructions.)
 
 
 
@@ -100,7 +100,7 @@ Aside from the detailed setup instructions below that are for the more complex c
 
 #### **Open Links By Default**
 
-Follow these steps so that when you click a YouTube Music link it will open in the YTM Extended app instead of the official YouTube Music app.
+Follow these steps so that when you open a YouTube Music link it will open in the YTM Extended app instead of the official YouTube Music app.
 
 (If you are using MIUI, you'll need to use the [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on Manage applications. Then continue with the steps below.)
 
