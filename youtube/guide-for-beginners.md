@@ -65,14 +65,14 @@ When you are done selecting the patches press "**Done**" and then press "**Patch
 Wait for the patching to be complete. It usually takes 2-5 minutes. Do not leave the app or it may cancel. Make sure no errors occur during this step.
 
 
-* **Optional - Highly Recommended:**
+#### **Optional - Highly Recommended:**
 
 When patching is finished you can save the APK as a file so that you have it for later in case you have trouble installing it or want to share it. To do this, tap the three dots in the upper right corner of the screen and then press "Export APK" as shown in [this image](https://imgur.com/a/JqmfzAj).
 
 Press "Install" and wait for it to finish installing. You may get a message saying that the installation was blocked because it is an unknown app. Tap "**More details**" and then "**Install anyway**" as shown [here](https://imgur.com/a/iLP2m7l).
 
 
-* **Optional - Link Association:**
+#### **Optional - Link Association:**
 
 Follow these steps so that when you open a YouTube link it will open in the YT ReVanced Extended app instead of the official YouTube app:
 
