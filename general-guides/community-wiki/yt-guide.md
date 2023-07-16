@@ -131,9 +131,11 @@ There are three important things to know about downloading in YT ReVanced Extend
 
 **b)** The ReVanced Extended download function is separate from the built-in download button which is reserved for YT Premium members. The ReVanced Extended download button can be enabled by going into Settings > ReVanced Extended > Overlay buttons > Show download button, **On**. The download button will appear beside the full-screen button in the video player.
 
-**c)** To download videos you need a 3rd party downloader app installed on your device, such as Seal, YTDLnis, or NewPipe. To install a downloader, open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Overlay buttons > Downloader settings. Now select the downloader that you want to use and then press "Install". It will direct you to the GitHub page, where you can download and install the downloader.
+**c)** When you press the download button it will attempt to open [YTDLnis](https://github.com/deniscerri/ytdlnis/releases/latest) to download the media. You can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several other downloaders you can use. 
 
-After it is installed and working, open YT ReVanced Extended again and navigate to Settings > ReVanced Extended > Overlay buttons > Downloader settings, and select the downloader that you installed. Press "Save". Now when you press the download button it will open a pop-up from the downloader so that you can easily download videos.
+After you install a downloader, open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Overlay buttons > Downloader settings. 
+
+If your downloader is on the list, tap on it and press "Save". Then restart the app. If your downloader is not on the list, manually enter the package name and then restart the app. 
 
 
 

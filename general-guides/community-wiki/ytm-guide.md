@@ -161,10 +161,9 @@ Nevertheless, here is the setup:
 
 **c)** Fully close the app.
 
-Now when you press the Share button it will try to open Seal to download the media. If you want to use a different downloader you can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several downloaders. (Keep in mind that PowerTube is no longer functioning for YT Music downloads.)
+Now when you press the Share button it will attempt to open [Seal](https://github.com/JunkFood02/Seal/releases/latest) to download the media. You can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several other downloaders you can use. (Keep in mind that PowerTube is no longer functioning for YT Music downloads.)
 
-After you installed the downloader that you like, open YTM Extended > Profile picture > Settings > ReVanced Extended > Package name of downloader. Then enter the package name of the downloader that you use. Make sure that there are no empty spaces. Then press "OK" and restart the app.
-
+After you install a downloader, open YTM Extended > Profile picture > Settings > ReVanced Extended > Package name of downloader. Then enter the package name of the downloader that you use. Make sure that there are no empty spaces. Then press "OK" and restart the app.
 
 
 
