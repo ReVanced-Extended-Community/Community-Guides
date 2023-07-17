@@ -16,7 +16,7 @@ Yes. MicroG, official patching tools, and the patches are all open-source. You c
 
 ##### **3. How do I get ReVanced Extended?**
 
-You can follow the [wiki guides](https://www.reddit.com/r/revancedextended/wiki/guide/) for installation instructions. You can also find other guides in the subreddit.
+You can follow the [pinned guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners/) for YT ReVanced Extended installation or the [wiki guides](https://www.reddit.com/r/revancedextended/wiki/guide/) for other ReVanced Extended guides.
 
 
 
