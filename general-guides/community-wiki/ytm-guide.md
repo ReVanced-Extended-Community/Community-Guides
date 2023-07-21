@@ -58,7 +58,7 @@ If you decide not to use the default selection, keep the following things in min
 
 **a)** You must **exclude** the `Custom Branding Music Name` patch.
 
-**b)** You must **include the `Music MicroG Support` patch.
+**b)** You must **include** the `Music MicroG Support` patch.
 
 **c)** The 4 major patches are:
 
