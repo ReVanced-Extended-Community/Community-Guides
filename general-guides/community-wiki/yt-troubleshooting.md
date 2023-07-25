@@ -75,7 +75,7 @@ This likely means that the SponsorBlock servers are down. You can check the serv
 
 
 
-#### **8. Watch history isn't being saved on YouTube**
+#### **8. Watch history isn't being saved**
 
 Whitelist `s.youtube.com` in your ad-blocker.
 
@@ -114,7 +114,7 @@ Make sure you are using the latest [RVX Manager](https://github.com/inotia00/rev
 
 **b)**  Install the YouTube APK that you downloaded while following step 2 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_2._downloading_the_yt_apk).
 
-**c)** Open the RVX Manager > Patcher > Select an application > **YouTube**.
+**c)** Open the RVX Manager > Select an application > **YouTube**.
 
 Continue from the middle of step 3 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_3._patching_the_apk).
 
@@ -128,7 +128,7 @@ Download an APK of the recommended/suggested version and patch that from storage
 
 
 
-#### **13. Patcher is Aborting / Failing to apply patches**
+#### **13. Patcher is Aborting / failing to apply patches**
 
 **a)** Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
@@ -165,7 +165,7 @@ Patch again and include the `MicroG Support` patch.
 
 **a)** Uninstall the YT ReVanced Extended app that is already on your device before trying again. Make sure it is not installed in an alternate user profile or private folder that your device features.
 
-**b)** Open the RVX Manager > Patcher > Select an application > Storage > Select the **patched** APK that you were trying to install.
+**b)** Open the RVX Manager > Select an application > Storage > Select the **patched** APK that you were trying to install.
 
 Now check what it says the package name is near the top (in parenthesis). Make sure the package name starts with "app.rvx" like in [this image](https://imgur.com/a/TUBgLLt). If it says something else, then you'll need to patch again, (using an unpatched APK of the suggested version,) and apply the `MicroG Support` patch this time.
 
@@ -182,7 +182,7 @@ This error most often means that you are trying to install an app that is an old
 
 **b)** Your patched YT APK that you are installing was exported from the RVX Manager but does not have the `MicroG Support` patch applied to it. You can verify if this is the case by doing the following:
 
-Open the RVX Manager > Patcher > Select an application > Storage > Select the **patched** APK that you were trying to install.
+Open the RVX Manager > Select an application > Storage > Select the **patched** APK that you were trying to install.
 
 Now check what it says the package name is near the top (in parenthesis). Check if the package name starts with "app.rvx" like in [this image](https://imgur.com/a/TUBgLLt). If it says something else, then you'll need to patch again, (using an unpatched APK of the suggested version,) and apply the `MicroG Support` patch this time.
 

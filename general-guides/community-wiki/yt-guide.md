@@ -39,13 +39,13 @@
 
 ### **2. Downloading The YT APK**
 
-We will now check which version of YouTube we will need to download for us to patch it. If you have stock YouTube installed, open the RVX Manager and press Patcher > Select an application. It will say the currently suggested version in the YouTube box, as shown [here](https://imgur.com/a/IzqCViD).
+We will now check which version of YouTube we will need to download for us to patch it. If you have stock YouTube installed, open the RVX Manager and press Select an application. It will say the currently suggested version in the YouTube box, as shown [here](https://imgur.com/a/IzqCViD).
 
 You can also check the suggested version [here in the GitHub](https://github.com/inotia00/revanced-patches/tree/revanced-extended#readme). (Press **"Details"** underneath **"com.google.android.youtube"** and look at the target version column. [Here is an image demonstration](https://imgur.com/a/qFHifJz).)
 
-(Keep in mind that the recommended version is constantly changing so the version it shows for you is different than the one shown in these images. Also, the suggested version for YT ReVanced Extended is usually not the same as the version suggested for official YT ReVanced.)
+(Keep in mind that the recommended version is constantly changing so the version it shows for you is different than the one shown in these images. Also, the suggested version for YT ReVanced Extended is usually different than the version suggested for official YT ReVanced.)
 
-Now head to [APKMirror.com](https://www.apkmirror.com) and search for YouTube APK of the suggested version.
+Now head to [APKMirror.com](https://www.apkmirror.com) and search for YouTube APKs of the suggested version.
 
 After you have found the suggested version, download the `nodpi` variant of that APK. Here are some screenshots to demonstrate that.
 
@@ -62,7 +62,7 @@ Do not bother installing the YT APK when it has finished downloading.
 
 ### **3. Patching The APK**
 
-Open the RVX Manager and press Patcher > Select an application > **STORAGE**, and then select the YouTube APK that you just downloaded from APKMirror. (It will probably be in your downloads folder.)
+Open the RVX Manager and press Select an application > **STORAGE**, and then select the YouTube APK that you just downloaded from APKMirror. (It will probably be in your downloads folder.)
 
 Now press "Select patches", and then select the patches that you want. It is suggested to use the Default patches selection in order to get the most features without breaking stuff. To do so, press the "Default" button at the top of the patches selection screen.
 
