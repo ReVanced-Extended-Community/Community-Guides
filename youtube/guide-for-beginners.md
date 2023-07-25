@@ -7,7 +7,7 @@
 
 **Looking for screenshots/more information about the ReVanced Extended patches? [Check out this repository!](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation)**
 
-**Last updated by /u/SpacellaryUS on 09/July/2023.**
+**Last updated by /u/SpacellaryUS on 24/July/2023.**
 
 *Please know that this guide is updated manually when I get the chance, so it may not be completely up-to-date right after a new patch has been released, but I try my best to do so as soon as possible.*
 
@@ -35,7 +35,7 @@
 
 **a)** If you do not have Vanced MicroG installed, download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). Or you can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest).
 
-**b)** Download, BUT DO NOT INSTALL the **YouTube** `v18.25.40` (`nodpi`) APK from [this page](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-25-40-release/youtube-18-25-40-android-apk-download/).
+**b)** Download, BUT DO NOT INSTALL the **YouTube** `v18.27.35` (`nodpi`) APK from [this page](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-27-35-release/youtube-18-27-35-android-apk-download/).
 
 **c)** Download and install the **RVX Manager** APK from [here](https://github.com/inotia00/revanced-manager/releases/latest). It is inotia00's fork of the official Manager made to be compatible with ReVanced Extended patches.
 
@@ -75,7 +75,7 @@ Press "Install" and wait for it to finish installing. You may get a message sayi
 
 Follow these steps so that when you open a YouTube link it will open in the YT ReVanced Extended app instead of the official YouTube app:
 
-(For MIUI users, use the [Hidden Settings For MIUI]((https://play.google.com/store/apps/details?id=com.ceyhan.sets)) app, and use its Manage Applications menu to do these steps.)
+(For MIUI users, use the [Hidden Settings For MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets) app, and use its Manage Applications menu to do these steps.)
 
 Go to the *App Info* of YT ReVanced Extended > Set as default > Open supported links, **On**. Then go back to the previous page. Tap "Supported web addresses" > turn them all **On**. You may also need to manually disable these settings for stock YouTube, or just disable/uninstall stock YouTube entirely. 
 
