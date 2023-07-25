@@ -77,11 +77,9 @@ If you want to patch on PC, follow the instructions for the desired method in th
 
 **a)** Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
-**b)** Make sure you aren't using a YTM version that is older than 5.21.52 or newer than 6.10.52.
+**b)** Make sure you aren't using a YTM version that is older than 5.21.52.
 
-**c)** Make sure to exclude the `Custom Branding Music Name` patch.
-
-**d)** If your device's language was set to a language that reads right-to-left when the failure occurred then set your device's language to English or any language that reads left-to-right. Then fully close the Manager, and try again.
+**c)** If your device's language was set to a language that reads right-to-left when the failure occurred then set your device's language to English or any language that reads left-to-right. Then fully close the Manager, and try again.
 
 * If it still doesn't work then create a post with a screenshot or logs of the error. Alternatively, you can patch on a different device or use a different patching method.
 
@@ -96,20 +94,26 @@ If you want to patch on PC, follow the instructions for the desired method in th
 
 #### **11. "Error: Non-root install is not possible with the current patches selection."**
 
-Patch again and include the `Music MicroG Support` patch.
+Patch again and include the `MicroG Support` patch.
 
 
 
 
 #### **8. "App not installed."**
 
-**a)** If there was a google play protect pop-up when trying to install it then you must press **"More details"** and then tap the **"Install anyway"** button. If you press the "Got it" button it will not install. [Here](https://imgur.com/a/Ck8nfhn) is an image demonstrating this.
+**a)** If there was a Google Play Protect pop-up when trying to install it then you must press **"More details"** and then tap the **"Install anyway"** button. If you press the "Got it" button it will not install. [Here](https://imgur.com/a/Ck8nfhn) is an image demonstrating this.
 
 **b)** Ensure that you have ample available storage on your device.
 
 **c)** Uninstall the YT Music Extended app that is already on your device before trying again. Make sure it is not installed in an alternate user profile or private folder that your device features.
 
-**d)** If the error message was **"App not installed as app isn't compatible with your device."** refer to troubleshooting issue **#11**.
+**d)** Your patched YTM APK that you are installing was exported from the RVX Manager but does not have the `MicroG Support` patch applied to it. You can verify if this is the case by doing the following:
+
+Open the RVX Manager > Patcher > Select an application > Storage > Select the **patched** APK that you were trying to install.
+
+Now check what it says the package name is near the top (in parenthesis). Make sure the package name starts with "app.rvx" like in [this image](https://imgur.com/a/AlYepUa). If it says something else, then you'll need to patch again and apply the `MicroG Support` patch this time.
+
+**e)** If the error message was **"App not installed as app isn't compatible with your device."** refer to troubleshooting issue **#11**.
 
 
 
@@ -118,9 +122,11 @@ Patch again and include the `Music MicroG Support` patch.
 
 **a)** Uninstall the YT Music Extended app that is already on your device before trying again. Make sure it is not installed in an alternate user profile or private folder that your device features.
 
-**b)** Open the RVX Manager > Patcher > Select an application > Storage > Select the **patched** APK that you were trying to install.
+**b)** Your patched YTM APK that you are installing was exported from the RVX Manager but does not have the `MicroG Support` patch applied to it. You can verify if this is the case by doing the following:
 
-Now check what it says the package name is near the top (in parenthesis). Make sure the package name starts with "app.rvx" like in [this image](https://imgur.com/a/AlYepUa). If it says something else, then you'll need to patch again and include the `Music MicroG Support` patch this time.
+Open the RVX Manager > Patcher > Select an application > Storage > Select the **patched** APK that you were trying to install.
+
+Now check what it says the package name is near the top (in parenthesis). Make sure the package name starts with "app.rvx" like in [this image](https://imgur.com/a/AlYepUa). If it says something else, then you'll need to patch again and apply the `MicroG Support` patch this time.
 
 **c)** Create a detailed post if you are still having trouble.
 
@@ -133,11 +139,11 @@ This error most often means that you are trying to install an app that is an old
 
 **a)** You are installing the unpatched YT Music APK that you downloaded from APKMirror.com. It is not necessary to install it. Refer to step 2 and 3 in the [YTM guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/#wiki_2._getting_an_unpatched_yt_music) for info on handling the YTM APK.
 
-**b)** Your patched YTM APK that you are installing was exported from the RVX Manager but does not have the `Music MicroG Support` patch applied to it. You can verify if this is the case by doing the following:
+**b)** Your patched YTM APK that you are installing was exported from the RVX Manager but does not have the `MicroG Support` patch applied to it. You can verify if this is the case by doing the following:
 
 Open the RVX Manager > Patcher > Select an application > Storage > Select the **patched** APK that you were trying to install.
 
-Now check what it says the package name is near the top (in parenthesis). Make sure the package name starts with "app.rvx" like in [this image](https://imgur.com/a/AlYepUa). If it says something else, then you'll need to patch again and include the `Music MicroG Support` patch this time.
+Now check what it says the package name is near the top (in parenthesis). Make sure the package name starts with "app.rvx" like in [this image](https://imgur.com/a/AlYepUa). If it says something else, then you'll need to patch again and apply the `MicroG Support` patch this time.
 
 **c)** You are installing a patched YTM Extended APK that is an older version than the YTM Extended that is currently installed. Uninstall YTM Extended before installing the older version.
 
@@ -157,7 +163,7 @@ The APK doesn't match your device's architecture. Refer to step 2 in the [YTM gu
 
 3 common causes:
 
-**a)** You do not have Vanced MicroG installed, download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). Or you can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest).
+**a)** You do not have Vanced MicroG installed. Download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). Or you can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest).
 
 **b)** There was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#7** if this occured.
 

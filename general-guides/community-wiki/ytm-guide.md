@@ -35,22 +35,20 @@
 
 ### **2. Getting An Unpatched YT Music**
 
-Download and install the YT Music APK, version `6.10.52` from [APKMirror.com](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-10-52-release/#downloads). Make sure to install the arm64-v8a variant, as demonstrated [here](https://imgur.com/a/9QhPBBo). If you already have a newer YT Music app installed on your device you don't need to install the APK that you downloaded.
+Install [YT Music from the Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music). If you already have it installed, make sure it is up-to-date.
 
-(If you are patching to install the patched APK on a non-armv64-v8a device, download (but do not install) the YT Music APK, version `6.10.52` from [APKMirror.com](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-10-52-release/#downloads). Make sure to download the variant that matches the architecture of the device you plan on installing the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). If an Android device is not arm64-v8a it is almost certainly armeabi-v7a.)
+(If you are patching to install the patched APK on a non-armv64-v8a device, download (but do not install) one of the newer YTM APKs from [APKMirror.com](https://www.apkmirror.com/apk/google-inc/youtube-music/). Make sure to download the variant that matches the architecture of the device you plan on installing the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). If an Android device is not arm64-v8a it is almost certainly armeabi-v7a.)
+
+(If you cannot install from the Play Store, download and install one of the newer YTM APKs from [APKMirror.com](https://www.apkmirror.com/apk/google-inc/youtube-music/). Make sure to install the arm64-v8a variant, as demonstrated [here](https://imgur.com/a/9QhPBBo).)
 
 
 
 
-### **3. Patching YT Music**
+### **3. Patching YT Music** 
 
-* **If you have the `6.10.52` APK installed on your device:** 
+Open the RVX Manager and press Select an application > **YouTube Music**. 
 
-Open the RVX Manager and press Patcher > Select an application > **YouTube Music**. 
-
-* **If you do not have the `6.10.52` APK installed on your device:**
-
-Open the RVX Manager and press Patcher > Select an application > **Storage** > and then select the YTM APK file that you downloaded from APKMirror.
+(If you are patching to install the patched APK on a non-armv64-v8a device, open the RVX Manager and press Select an application > **Storage** > and then select the YTM APK file that you downloaded from APKMirror.)
 
 After YouTube Music is selected (whether from the list or from selecting the APK file), press "Select patches", and then select the patches that you want. It is suggested to use the Default patches selection in order to get the most features without breaking stuff. To do so, press the "Default" button at the top of the patches selection screen.
 
@@ -58,11 +56,9 @@ You can see examples of what all of the patches do [here](https://github.com/ReV
 
 If you decide not to use the default selection, keep the following things in mind:
 
-**a)** You must **exclude** the `Custom Branding Music Name` patch.
+**a)** You must **include** the `MicroG Support` patch.
 
-**b)** You must **include** the `Music MicroG Support` patch.
-
-**c)** The 4 major patches are:
+**b)** The 4 major patches are:
 
 1] **Background Play** (Enables background playback.)
 
@@ -73,7 +69,7 @@ If you decide not to use the default selection, keep the following things in min
 4] **Spoof App Version** (Allows users to bypass the radio-only restriction that is in Canada and some other countries. Additional setup is in step 5 of the guide.)
 
 
-You can select which custom branding icon you want to use, but make sure to only select one custom branding icon patch. You can view a preview of the 3 icons [here on Imgur](https://imgur.com/a/tjuLog1). **And remember to exclude the** `Custom Branding Music Name` **patch!**
+You can select which custom branding icon you want to use, but make sure to only select one custom branding icon patch. You can view a preview of the 3 icons [here on Imgur](https://imgur.com/a/tjuLog1).
 
 When you are done selecting the patches that you want, press "Done" and then press "Patch". Patching generally takes 2-5 minutes. If you leave the app it may cancel without warning. Take screenshots of any errors / failures that occur to make troubleshooting easier.
 

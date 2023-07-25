@@ -37,11 +37,11 @@ Refer to step 5 of the [YT guide](https://www.reddit.com/r/revancedextended/wiki
 
 #### **4. Videos stop and buffer infinitely**
 
-Make sure you YT ReVanced Extended is up-to-date.
+Make sure your YT ReVanced Extended is up-to-date.
 
-If buffering persists, open YT ReVanced Extended, tap the profile picture > Settings > ReVanced Extended > Miscellaneous > Spoof player parameter, ON. Restart the app.
+If buffering persists, open YT ReVanced Extended and tap the profile picture > Settings > ReVanced Extended > Miscellaneous > Spoof player parameter, **On**. Restart the app.
 
-If buffering persists, go to Settings > ReVanced Extended > Miscellaneous > Spoof player parameter type, ON.
+If buffering persists, go to Settings > ReVanced Extended > Miscellaneous > Spoof player parameter type, **On**. Restart the app.
 
 
 
@@ -63,7 +63,7 @@ Go to Settings > ReVanced Extended > Navigation > Hide shorts button, **Off**.
 
 **a)** Make sure you don't have it set to never go away in the Accessibility settings. To check, navigate to Settings > Accessibility. Either disable accessibility settings or lower the timer so that it goes away sooner.
 
-**b)** If that wasn't the issue, simply close and restart the app.
+**b)** If that wasn't the issue, simply restart the app.
 
 
 
@@ -114,7 +114,7 @@ Make sure you are using the latest [RVX Manager](https://github.com/inotia00/rev
 
 **b)**  Install the YouTube APK that you downloaded while following step 2 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_2._downloading_the_yt_apk).
 
-**c)** Open the RVX Manager > Patcher > Select an application > YouTube.
+**c)** Open the RVX Manager > Patcher > Select an application > **YouTube**.
 
 Continue from the middle of step 3 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_3._patching_the_apk).
 
@@ -123,7 +123,7 @@ Continue from the middle of step 3 in the [YT guide](https://www.reddit.com/r/re
 
 #### **12. "Error: Patch is not supported for this app version."**
 
-Download an APK of the recommended/suggepd version and patch that from storage. Refer to step 2 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_2._downloading_the_yt_apk).
+Download an APK of the recommended/suggested version and patch that from storage. Refer to step 2 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_2._downloading_the_yt_apk).
 
 
 
@@ -152,7 +152,7 @@ Patch again and include the `MicroG Support` patch.
 
 #### **15. "App not installed."**
 
-**a)** If there was a google play protect pop-up when trying to install it then you must press **"More details"** and then tap the **"Install anyway"** button. If you press the "Got it" button it will not install. [Here](https://imgur.com/a/Ck8nfhn) is an image demonstrating this.
+**a)** If there was a Google Play Protect pop-up when trying to install it then you must press **"More details"** and then tap the **"Install anyway"** button. If you press the "Got it" button it will not install. [Here](https://imgur.com/a/Ck8nfhn) is an image demonstrating this.
 
 **b)** Ensure that you have enough free storage. Depending on the device, it may require more than 1.5 gigabytes to install without issue.
 
@@ -167,7 +167,7 @@ Patch again and include the `MicroG Support` patch.
 
 **b)** Open the RVX Manager > Patcher > Select an application > Storage > Select the **patched** APK that you were trying to install.
 
-Now check what it says the package name is near the top (in parenthesis). Make sure the package name starts with "app.rvx" like in [this image](https://imgur.com/a/TUBgLLt). If it says something else, then you'll need to patch again, (using an unpatched APK of the suggested version,) and include the `MicroG Support` patch this time.
+Now check what it says the package name is near the top (in parenthesis). Make sure the package name starts with "app.rvx" like in [this image](https://imgur.com/a/TUBgLLt). If it says something else, then you'll need to patch again, (using an unpatched APK of the suggested version,) and apply the `MicroG Support` patch this time.
 
 **c)** Create a detailed post if you are still having trouble.
 
@@ -184,7 +184,7 @@ This error most often means that you are trying to install an app that is an old
 
 Open the RVX Manager > Patcher > Select an application > Storage > Select the **patched** APK that you were trying to install.
 
-Now check what it says the package name is near the top (in parenthesis). Check if the package name starts with "app.rvx" like in [this image](https://imgur.com/a/TUBgLLt). If it says something else, then you'll need to patch again, (using an unpatched APK of the suggested version,) and include the `MicroG Support` patch this time.
+Now check what it says the package name is near the top (in parenthesis). Check if the package name starts with "app.rvx" like in [this image](https://imgur.com/a/TUBgLLt). If it says something else, then you'll need to patch again, (using an unpatched APK of the suggested version,) and apply the `MicroG Support` patch this time.
 
 **c)** You are installing a patched YT ReVanced Extended APK that is an older version than the YT ReVanced Extended that is currently installed. Uninstall YT ReVanced Extended before installing the older version. Refer to the Exporting The Settings section in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_exporting_the_settings) for info on how to backup your settings from the installed YT ReVanced Extended so that you won't lose it all when you uninstall it.
 
@@ -195,8 +195,4 @@ Now check what it says the package name is near the top (in parenthesis). Check 
 
 #### **18. App crashes on startup**
 
-Common causes:
-
-**a)** There was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#13** if this happened.
-
-**b)** Make sure you selected the APK from storage and did not select the YouTube app, which can be an unsupported split-APK.
+What most likely happened was there was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#13** if this happened.
