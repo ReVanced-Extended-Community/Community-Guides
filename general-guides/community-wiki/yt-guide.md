@@ -143,19 +143,23 @@ If your downloader is on the list, tap on it and press "Save". Then restart the 
 
 # **Updating ReVanced Extended**
 
-The RVX Manager does not yet feature an easy way to update existing ReVanced Extended apps that are on your device. For now, you must patch a new APK and then install the new APK in place of the old APK as an update. Installing it as an update will preserve your settings configuration.
+The RVX Manager does not feature an easy way to update existing ReVanced Extended apps that are on your device. To update you must patch a new APK and then install the newly patched APK on top of the old ReVanced Extended app as an update. Installing it as an update will preserve your settings configuration.
 
-Normally, you do not need to uninstall your old YT ReVanced Extended app before installing the new one. However, there are two exceptions.
+Normally, you do not need to uninstall your old YT ReVanced Extended app before installing the new one. However, there are two things to note.
 
 **1)** Some bugs can persist if you do not do a fresh install.
 
-**2)** If the new and old YT ReVanced Extended APKs were not signed using the same keystore file, the new YT ReVanced Extended APK will not be able to be installed without uninstalling the old YT ReVanced Extended app first.
+**2)** If the new and old YT ReVanced Extended APKs were not signed using the same keystore file, the new YT ReVanced Extended APK cannot be installed without uninstalling the old YT ReVanced Extended app first.
 
-Here are two common scenarios where the keystores wouldn't be the same:
 
-**a)** You uninstalled the RVX Manager sometime after you patched your old YT ReVanced Extended APK. When you uninstalled the RVX Manager the keystore file was deleted. You then patched a new YT ReVanced Extended APK.
 
-**b)** The new and old YT ReVanced Extended APKs were not patched on the same device. Every RVX Manager app uses a uniquely generated keystore file.
+
+#### **Keystore Info**
+
+The keystore is a file that the RVX Manager (and any other ReVanced patcher) uses to sign the patched APK. If the new YT ReVanced Extended APK was signed with the same keystore as the old YT ReVanced Extended APK then you will be able to install it as an update to the old YT ReVanced Extended.
+
+If you uninstall the RVX Manager or clear the app data, the keystore file will be deleted. So be sure export/backup the keystore before uninstalling or clearing the data of the Manager. You can export and import the keystore file from the RVX Manager settings.
+
 
 
 
