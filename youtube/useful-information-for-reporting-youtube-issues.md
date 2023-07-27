@@ -3,7 +3,7 @@ ___
 
 #### Start by taking a look at the Troubleshooting page (wiki):
 
-→ **https://reddit.com/r/revancedextended/wiki/yt-troubleshooting**
+**https://reddit.com/r/revancedextended/wiki/yt-troubleshooting**
 ___
 
 #### Have you followed the steps in our 📌 [Pinned Beginner's Guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/_/) and used all the correct resources as provided there?
