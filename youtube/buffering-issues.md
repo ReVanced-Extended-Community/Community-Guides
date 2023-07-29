@@ -16,10 +16,14 @@ ___
 
 ### I ask that when reporting issues please provide the minimum relevant information below after reading and trying the [item #4 in the Troubleshooting page of the Wiki](https://reddit.com/r/revancedextended/wiki/yt-troubleshooting):
 
-#### → ReVanced Extended **YouTube/Music application version**:
+#### 1. ReVanced Extended **YouTube/Music application version**:
 
-#### → Version of the **rvx-patches** applied:
+#### 2. Version of the **rvx-patches** applied:
 
-#### → **Patching Tool used** and **version** of said tool:
+#### 3. Patching Tool used and **version** of said tool:
 
-##### Please check in the "Patches information" menu in the "Miscellaneous" settings page mentioned before for this information.
+#### 4. Is "Spoof player parameter" enabled? A: Yes/No
+
+#### 5. Mode of "Spoof parameter type"? A: Incognito/Shorts
+
+###### You can check 3, 4 and 5 in the "Patches information" menu and the "Spoof player parameter" options in the "Miscellaneous" settings page mentioned in the post for this information, near the bottom
