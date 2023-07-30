@@ -7,7 +7,7 @@
 
 **Looking for screenshots/more information about the ReVanced Extended patches? [Check out this repository!](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation)**
 
-**Last updated by /u/SpacellaryUS on 26/July/2023.**
+**Last updated by /u/SpacellaryUS on 29/July/2023.**
 
 *Please know that this guide is updated manually when I get the chance, so it may not be completely up-to-date right after a new patch has been released, but I try my best to do so as soon as possible.*
 
