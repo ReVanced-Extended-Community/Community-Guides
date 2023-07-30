@@ -35,7 +35,7 @@
 
 **a)** If you do not have Vanced MicroG installed, download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). Or you can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest).
 
-**b)** Download, BUT DO NOT INSTALL the **YouTube** `v18.27.36` (`nodpi`) APK from [this page](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-27-36-release/youtube-18-27-36-android-apk-download/).
+**b)** Download, BUT DO NOT INSTALL the **YouTube** `v18.29.38` (`nodpi`) APK from [this page](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-29-38-release/youtube-18-29-38-android-apk-download/).
 
 **c)** Download and install the **RVX Manager** APK from [here](https://github.com/inotia00/revanced-manager/releases/latest). It is inotia00's fork of the official Manager made to be compatible with ReVanced Extended patches.
 
