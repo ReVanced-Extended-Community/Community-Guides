@@ -41,8 +41,6 @@ Make sure your YT ReVanced Extended is up-to-date.
 
 If buffering persists, open YT ReVanced Extended and tap the profile picture > Settings > ReVanced Extended > Miscellaneous > Spoof player parameter, **On**. Restart the app.
 
-If buffering persists, go to Settings > ReVanced Extended > Miscellaneous > Spoof player parameter type, **On**. Restart the app.
-
 
 
 
