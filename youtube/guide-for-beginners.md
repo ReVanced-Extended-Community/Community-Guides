@@ -175,7 +175,7 @@ Check the [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wi
 
 
 
-Read the [YT ReVanced Extended wiki guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/) for info on downloader setup and updating YT ReVanced Extended.
+Read the [YT ReVanced Extended wiki guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/) for info on setting up a downloader.
 
 
 
