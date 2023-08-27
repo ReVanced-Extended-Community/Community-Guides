@@ -22,11 +22,6 @@
 
 
 
-*Please know that this guide is updated manually when I get the chance, so it may not be completely up-to-date right after a new patch has been released, but I try my best to do so as soon as possible.*
-
-
-
-
 
 ### **Things To Know Before You Begin**
 
