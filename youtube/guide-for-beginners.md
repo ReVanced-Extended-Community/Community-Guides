@@ -18,7 +18,7 @@
 
 
 
-**Last updated by /u/SpacellaryUS on 04/August/2023.**
+**Last updated by /u/SpacellaryUS on 28/August/2023.**
 
 
 
@@ -85,7 +85,7 @@
 
 
 
-# **2. Patching & Installing**
+# **2. Patching**
 
 
 
@@ -127,7 +127,7 @@ Wait for the patching to be complete. It usually takes 2-5 minutes. Do not leave
 
 
 
-#### **3. Installing:**
+## **3. Installing**
 
 
 
