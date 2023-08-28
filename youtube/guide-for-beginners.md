@@ -127,7 +127,7 @@ Wait for the patching to be complete. It usually takes 2-5 minutes. Do not leave
 
 
 
-#### **Optional - Highly Recommended:**
+#### **3. Installing:**
 
 
 
