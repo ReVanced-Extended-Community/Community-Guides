@@ -108,8 +108,7 @@ Select the YouTube APK file that you just downloaded from APKMirror from your do
 The application will be selected and if it is your first time patching the Default list of patches will be selected. If you want to make sure the Default patches are selected, press the Default button at the top of the patches selection menu.
 
 
-
-* If you don't want to use the Default selection you **must** at least include the `MicroG Support` patch.
+If you don't want to use the Default selection you **must** at least include the `MicroG Support` patch.
 
 
 
