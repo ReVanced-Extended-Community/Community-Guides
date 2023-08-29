@@ -119,29 +119,14 @@ On non-root devices you must use a full (non-bundle) APK when patching. Refer to
 
 
 
-#### **13. Nothing happens when I select the YT APK from storage**
-
-Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest). If you already are using the correct version, continue with the following steps:
-
-**a)** Uninstall the stock YouTube app. If your device doesn't allow you to uninstall it then go to the App info of stock YouTube > Options menu (as shown in [this image](https://imgur.com/a/0js3AZR)) > Uninstall updates.
-
-**b)**  Install the YouTube APK that you downloaded while following step 1 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_apk).
-
-**c)** Open the RVX Manager > Select an application > **YouTube**.
-
-Continue from the middle of step 2 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_2._patching_the_apk).
-
-
-
-
-#### **14. "Error: Patch is not supported for this app version."**
+#### **13. "Error: Patch is not supported for this app version."**
 
 Download an APK of the recommended/suggested version and patch that from storage. Refer to steps 1 and 2 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_apk).
 
 
 
 
-#### **15. Patcher is Aborting / failing to apply patches**
+#### **14. Patcher is Aborting / failing to apply patches**
 
 **a)** Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
@@ -160,14 +145,14 @@ If you want to patch on PC, follow the instructions for the desired method in th
 
 
 
-#### **16. "Error: Non-root install is not possible with the current patches selection."**
+#### **15. "Error: Non-root install is not possible with the current patches selection."**
 
 Patch again and include the `MicroG Support` patch.
 
 
 
 
-#### **17. "App not installed."**
+#### **16. "App not installed."**
 
 **a)** If there was a Google Play Protect pop-up when trying to install it then you must press **"More details"** and then tap the **"Install anyway"** button. If you press the "Got it" button it will not install. [Here](https://imgur.com/a/Ck8nfhn) is an image demonstrating this.
 
@@ -178,7 +163,7 @@ Patch again and include the `MicroG Support` patch.
 
 
 
-#### **18. "App not installed as package conflicts with an existing package."**
+#### **17. "App not installed as package conflicts with an existing package."**
 
 **a)** Uninstall the YT ReVanced Extended app that is already on your device before trying again. Make sure it is not installed in an alternate user profile or private folder that your device features.
 
@@ -191,7 +176,7 @@ Now check what it says the package name is near the top (in parenthesis). Check 
 
 
 
-#### **19. "App not installed as package appears to be invalid."**
+#### **18. "App not installed as package appears to be invalid."**
 
 This error most often means that you are trying to install an app that is an older version than the already installed version. Android doesn't allow app downgrading. In the context of installing YT ReVanced Extended, here are some possible scenarios and solutions:
 
@@ -210,6 +195,6 @@ Now check what it says the package name is near the top (in parenthesis). Check 
 
 
 
-#### **20. App crashes on startup**
+#### **19. App crashes on startup**
 
 What most likely happened was there was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#15** if this happened.
