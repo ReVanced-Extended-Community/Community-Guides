@@ -44,7 +44,7 @@
 
 Open the RVX Manager and press Select an application > **STORAGE** > and then select the YTM APK file that you downloaded from APKMirror. (It will probably be in your downloads folder.)
 
-Now press "Select patches", and then select the patches that you want. It is suggested to use the Default patches selection.. To do so, press the "Default" button at the top of the patches selection screen.
+Now press "Select patches", and then select the patches that you want. I suggest using the Default patches selection except for the `Hide Upgrade Button` patch. To use the Default patches except for this patch, press the "Default" button at the top of the patches selection screen and then scroll down and uncheck the `Hide Upgrade Button` patch.
 
 You can see examples of what all of the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#youtube-music).
 
