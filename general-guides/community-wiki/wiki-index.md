@@ -12,6 +12,6 @@
 
 [Settings Documentation With Screenshots](https://github.com/kazimmt/RVX-Features#youtube-revanced-extended-features)
 
-[GitHub Issue Center](https://github.com/inotia00/ReVanced_Extended)
+[inotia00's GitHub](https://github.com/inotia00)
 
 If you found an issue or want to suggest an improvement to this wiki, you can do so [here](https://github.com/ReVanced-Extended-Community/Community-Guides).

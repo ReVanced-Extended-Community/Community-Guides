@@ -3,7 +3,9 @@
 
 ### **Things To Know Before You Begin**
 
-**a)** This guide is for patching and installing YT Music ReVanced Extended. (If you want to install YT ReVanced Extended, go to the [YT ReVanced Extended guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/).)
+**a)** **Development of ReVanced Extended has been discontinued.** You can check out [YT ReX](https://github.com/YT-Advanced/revanced-documentation/wiki), a continuation of ReVanced Extended by another developer.
+
+**b)** This guide is for patching and installing YT Music ReVanced Extended. (If you want to install YT ReVanced Extended, go to the [YT ReVanced Extended guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/).)
 
 **b)** This guide will use the RVX Manager method. Check the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on the other patching methods.
 
@@ -14,7 +16,7 @@
 
 ### **Requirements**
 
-**a)** Your device must be running Android 8.0+.
+**a)** Your device must be running Android 8.0 or newer.
 
 **b)** Your device must be non-rooted. If it is rooted, look at the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for a rooted guide.
 
@@ -22,7 +24,7 @@
 
 
 
-### **1. Installing RVX Manager & Vanced MicroG**
+### **1. Downloading Vanced MicroG, RVX Manager, & YT Music APK**
 
 **a)** If you do not have Vanced MicroG installed, download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). Or you can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest).
 
@@ -30,29 +32,21 @@
 
 (If you get an error saying "App not installed as app isn't compatible with your device." or "App not installed.", it likely means that your device is not supported by the RVX Manager. Refer to the [YTM troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for further instructions.)
 
+**c)** Go to [this page](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-15-52-release/youtube-music-6-15-52-android-apk-download/) and download the arm64-v8a variant of a YT Music `6.15.52` APK.
 
-
-
-### **2. Getting An Unpatched YT Music**
-
-Install [YT Music from the Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music). If you already have it installed, make sure it is up-to-date.
-
-(If you are patching to install the patched APK on a non-armv64-v8a device, download (but do not install) one of the newer YTM APKs from [APKMirror.com](https://www.apkmirror.com/apk/google-inc/youtube-music/). Make sure to download the variant that matches the architecture of the device you plan on installing the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). If an Android device is not arm64-v8a it is almost certainly armeabi-v7a.)
-
-(If you cannot install from the Play Store, download and install one of the newer YTM APKs from [APKMirror.com](https://www.apkmirror.com/apk/google-inc/youtube-music/). Make sure to install the arm64-v8a variant, as demonstrated [here](https://imgur.com/a/9QhPBBo).)
+(If you are patching to install the patched APK on a non-armv64-v8a device, go to [this page](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-15-52-release/#downloads) and download the variant of a `6.15.52` YT Music APK that matches the architecture of the device you plan on installing the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). If an Android device is not arm64-v8a it is most likely armeabi-v7a.)
 
 
 
 
-### **3. Patching YT Music** 
 
-Open the RVX Manager and press Select an application > **YouTube Music**. 
+### **2. Patching The APK**
 
-(If you are patching to install the patched APK on a non-armv64-v8a device, open the RVX Manager and press Select an application > **Storage** > and then select the YTM APK file that you downloaded from APKMirror.)
+Open the RVX Manager and press Select an application > **STORAGE** > and then select the YTM APK file that you downloaded from APKMirror. (It will probably be in your downloads folder.)
 
-After YouTube Music is selected (whether from the list or from selecting the APK file), press "Select patches", and then select the patches that you want. It is suggested to use the Default patches selection in order to get the most features without breaking stuff. To do so, press the "Default" button at the top of the patches selection screen.
+Now press "Select patches", and then select the patches that you want. It is suggested to use the Default patches selection.. To do so, press the "Default" button at the top of the patches selection screen.
 
-You can see examples of what all of the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation).
+You can see examples of what all of the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#youtube-music).
 
 If you decide not to use the default selection, keep the following things in mind:
 
@@ -62,34 +56,32 @@ If you decide not to use the default selection, keep the following things in min
 
 1] **Background Play** (Enables background playback.)
 
-2] **Certificate Spoof** (Adds support for Android Auto. Additional setup info is in step 5 of the guide.)
+2] **Certificate Spoof** (Adds support for Android Auto. Additional setup info is in step 4 of the guide.)
 
 3] **Hide Music Ads** (Removes the video ads between songs.)
 
-4] **Spoof App Version** (Allows users to bypass the radio-only restriction that is in Canada and some other countries. Additional setup is in step 5 of the guide.)
+4] **Spoof App Version** (Allows users to bypass the radio-only restriction that is in Canada and some other countries. Additional setup is in step 4 of the guide.)
 
 
-You can select which custom branding icon you want to use, but make sure to only select one custom branding icon patch. You can view a preview of the 3 icons [here on Imgur](https://imgur.com/a/tjuLog1).
+You can select which custom branding icon you want to use, but make sure to only select one custom branding icon patch. You can view a preview of the 3 icons [here on Imgur](https://imgur.com/a/tjuLog1). You can exclude all custom branding icon patches to get the YT Music icon.
 
 When you are done selecting the patches that you want, press "Done" and then press "Patch". Patching generally takes 2-5 minutes. If you leave the app it may cancel without warning. Take screenshots of any errors / failures that occur to make troubleshooting easier.
 
-* **Optional but recommended:**
-
-When it is finished patching you can save the APK as a file so that you can send in to a different device or to save you the trouble of needing to patch again if you get an installation error. To save the APK, tap the three dots in the upper right corner of the screen and then press "Export APK" as shown in [this image](https://imgur.com/a/JqmfzAj). Then press "Save".
 
 
 
+### **3. Installation**
 
-### **4. Installation**
+When patching is finished I do not recommend using the "Install" button in the Manager. Instead, tap the three dots in the upper right corner of the screen and then press "Export APK" as shown in [this image](https://imgur.com/a/JqmfzAj). Save it, and then install the exported APK from your file manager.
 
-Press "Install" and wait for it to finish installing. You may get a pop-up saying that the installation was blocked because it is an unknown app. Tap **"More details"** and then press **"Install anyway"** as shown [here](https://imgur.com/a/iLP2m7l).
+You may get a pop-up saying that the installation was blocked because it is an unknown app. Tap **"More details"** and then **"Install anyway"** as shown [here](https://imgur.com/a/iLP2m7l).
 
-(If you get an "App not installed." error, tap the three dots in the upper right corner of the Manager screen and then press "Export APK", as shown in [this image](https://imgur.com/a/JqmfzAj). Then press "Save". This will save you time when following the [YTM troubleshooting help](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation).)
+(If you get an installation error see the [YTM troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation).)
 
 
 
 
-# **5. Additional Setup**
+# **4. Additional Setup**
 
 Aside from the detailed setup instructions below that are for the more complex configurations, many settings / patches can be enabled/disabled in the YTM Extended app. To find these settings, open the YTM Extended app > Profile picture > Settings > ReVanced Extended.
 
@@ -149,7 +141,7 @@ If this does not work you can use an [old version of Vanced Music](https://www.a
 
 The download function in YTM Extended works by changing the Share button into a download button that calls upon the downloader of your choice to download the song. The default downloader is [Seal](https://github.com/JunkFood02/Seal/releases/latest).
 
-**Note:** There is currently a bug that makes it so that when you press the Share button for any song it will act as though you pressed the Share button for the currently playing song. Therefore you can only download the currently playing song.
+**Note:** There is a bug that when you press the Share button for any song it will act as though you pressed the Share button for the currently playing song. Therefore you can only download the currently playing song.
 
 Nevertheless, here is the setup:
 
@@ -168,7 +160,7 @@ After you install a downloader, open YTM Extended > Profile picture > Settings >
 
 # **Updating ReVanced Extended**
 
-The RVX Manager does not feature an easy way to update existing ReVanced Extended apps that are on your device. To update you must patch a new APK and then install the newly patched APK on top of the old ReVanced Extended app as an update. Installing it as an update will preserve your settings configuration.
+To update YTM Extended you must patch a new APK and then install the newly patched APK on top of the old YTM Extended app as an update. Installing it as an update will preserve your settings configuration.
 
 Normally, you do not need to uninstall your old YTM Extended app before installing the new one. However, there are two things to note.
 
@@ -192,6 +184,6 @@ If you uninstall the RVX Manager or clear the app data, the keystore file will b
 
 Check the [YTM troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/) for troubleshooting help.
 
-Read the [Frequently Asked Questions](https://www.reddit.com/r/revancedextended/wiki/faq/) for the what, why, and how of ReVanced Extended.
+Check the [Frequently Asked Questions](https://www.reddit.com/r/revancedextended/wiki/faq/).
 
 Check out [inotia00's GitHub](https://github.com/inotia00).

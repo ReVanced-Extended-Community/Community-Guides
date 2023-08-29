@@ -4,20 +4,22 @@
 
 ### **Things To Know Before You Begin**
 
-**a)** Check out the [Frequently Asked Questions](https://www.reddit.com/r/revancedextended/wiki/faq/).
+**a)** **Development of ReVanced Extended has been discontinued.** You can check out [YT ReX](https://github.com/YT-Advanced/revanced-documentation/wiki), a continuation of ReVanced Extended by another developer. 
 
-**b)** This guide is for patching and installing YouTube ReVanced Extended. (If you want to install YT Music ReVanced Extended, go to the [YTM Extended guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/).)
+**b)** Check out the [Frequently Asked Questions](https://www.reddit.com/r/revancedextended/wiki/faq/).
 
-**c)** This guide will use the RVX Manager method. Refer to the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on the other patching methods.
+**c)** This guide is for patching and installing YouTube ReVanced Extended. (If you want to install YT Music ReVanced Extended, go to the [YTM Extended guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/).)
 
-**d)** There is a [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) which you should check if you get stuck at any point during this tutorial.
+**d)** This guide will use the RVX Manager method. Refer to the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on the other patching methods.
+
+**e)** There is a [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) which you should check if you get stuck at any point during this tutorial.
 
 
 
 
 ### **Requirements**
 
-**a)** Your device must be running Android 8.0+.
+**a)** Your device must be running Android 8.0 or newer.
 
 **b)** Your device must be non-rooted. If it is rooted, look at the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for a rooted guide.
 
@@ -26,7 +28,7 @@
 
 
 
-### **1. Installing RVX Manager & Vanced MicroG**
+### **1. Downloading Vanced MicroG, RVX Manager, & YT APK**
 
 **a)** If you do not have Vanced MicroG installed, download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). Or you can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest).
 
@@ -34,68 +36,44 @@
 
 (If you get an error saying "App not installed as app isn't compatible with your device." or "App not installed.", it likely means that your device is not supported by the RVX Manager. Refer to the [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for further instructions.)
 
-
-
-
-### **2. Downloading The YT APK**
-
-We will now check which version of YouTube we will need to download for us to patch it. If you have stock YouTube installed, open the RVX Manager and press Select an application. It will say the currently suggested version in the YouTube box, as shown [here](https://imgur.com/a/IzqCViD).
-
-You can also check the suggested version [here in the GitHub](https://github.com/inotia00/revanced-patches/tree/revanced-extended#readme). (Press **"Details"** underneath **"com.google.android.youtube"** and look at the target version column. [Here is an image demonstration](https://imgur.com/a/qFHifJz).)
-
-(Keep in mind that the recommended version is constantly changing so the version it shows for you is different than the one shown in these images. Also, the suggested version for YT ReVanced Extended is usually different than the version suggested for official YT ReVanced.)
-
-Now head to [APKMirror.com](https://www.apkmirror.com) and search for YouTube APKs of the suggested version.
-
-After you have found the suggested version, download the `nodpi` variant of that APK. Here are some screenshots to demonstrate that.
-
-[Find the APK for the recommended version.](https://imgur.com/a/x8UwR5S)
-
-[Select the `nodpi` version to download.](https://imgur.com/a/cK3yhZV)
-
-[Press the big red "Download APK" button.](https://imgur.com/a/VOulscb)
-
-Do not bother installing the YT APK when it has finished downloading.
+**c)** Download (but do **not** bother installing) a [18.30.37 YouTube APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-30-37-release/youtube-18-30-37-2-android-apk-download/).
 
 
 
 
-### **3. Patching The APK**
+### **2. Patching The APK**
 
-Open the RVX Manager and press Select an application > **STORAGE**, and then select the YouTube APK that you just downloaded from APKMirror. (It will probably be in your downloads folder.)
+Open the RVX Manager and press Select an application > **STORAGE**, and then select the YouTube APK that you downloaded from APKMirror. (It will probably be in your downloads folder.)
 
-Now press "Select patches", and then select the patches that you want. It is suggested to use the Default patches selection in order to get the most features without breaking stuff. To do so, press the "Default" button at the top of the patches selection screen.
+Now press "Select patches", and then select the patches that you want. It is suggested to use the Default patches selection. To do so, press the "Default" button at the top of the patches selection screen.
 
-You can see examples of what all of the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation).
+You can see examples of what all the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#youtube).
 
 If you decide not to use the default selection, keep the following things in mind:
 
 **a)** You **must** include the `MicroG Support` patch.
 
-**b)** You can select which custom branding icon you want to use, but make sure to **only select one** custom branding icon patch. You can view a preview of the 3 icons [here on Imgur](https://imgur.com/a/qlelvZk). You can exclude all custom branding icon patches to get the YouTube icon.
+**b)** You can select which custom branding icon you want to use, but make sure to only select one custom branding icon patch. You can view a preview of the 3 icons [here on Imgur](https://imgur.com/a/qlelvZk). You can exclude all custom branding icon patches to get the YouTube icon.
 
 **c)** Make sure to look through all of the patches so you don't accidentally exclude features.
 
 When you are done selecting the patches that you want, press "Done" and then press "Patch". Patching generally takes 2-5 minutes. If you leave the app it may cancel without warning. Take screenshots of any errors / failures that occur to make troubleshooting easier.
 
 
-* **Optional but recommended:**
-
-When it is finished patching you can save the APK as a file so that you have it for later use, such as sharing it or to save you the trouble of needing to patch again if you get an installation error. To save the APK, tap the three dots in the upper right corner of the screen and then press "Export APK" as shown in [this image](https://imgur.com/a/JqmfzAj). Then press "Save".
 
 
+### **3. Installation**
 
+When patching is finished I do not recommend using the "Install" button in the Manager. Instead, tap the three dots in the upper right corner of the screen and then press "Export APK" as shown in [this image](https://imgur.com/a/JqmfzAj). Save it, and then install the exported APK from your file manager.
 
-### **4. Installation**
+You may get a pop-up saying that the installation was blocked because it is an unknown app. Tap **"More details"** and then **"Install anyway"** as shown [here](https://imgur.com/a/iLP2m7l).
 
-Press "Install" and wait for it to finish installing. You may get a pop-up saying that the installation was blocked because it is an unknown app. Tap **"More details"** and then **"Install anyway"** as shown [here](https://imgur.com/a/iLP2m7l).
-
-(If you get an "App not installed." error, tap the three dots in the upper right corner of the Manager screen and then press "Export APK", as shown in [this image](https://imgur.com/a/JqmfzAj). Then press "Save". This will save you time when following the [YT troubleshooting help](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation).)
+(If you get an installation error see the [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation).)
 
 
 
 
-# **5. Additional Setup**
+# **4. Additional Setup**
 
 Aside from the detailed setup instructions below that are for the more complex configurations, many settings / patches can be enabled/disabled in the YT ReVanced Extended app. You can see what all of the settings do [here](https://github.com/kazimmt/RVX-Features#youtube-revanced-extended-features).
 
@@ -103,7 +81,7 @@ To find the ReVanced Extended settings, open the YT ReVanced Extended app > Prof
 
 To find the SponsorBlock settings: Profile picture > Settings > SponsorBlock.
 
-To find the  Return YouTube Dislike settings: Profile picture > Settings > Return YouTube Dislike.
+To find the Return YouTube Dislike settings: Profile picture > Settings > Return YouTube Dislike.
 
 
 
@@ -112,7 +90,7 @@ To find the  Return YouTube Dislike settings: Profile picture > Settings > Retur
 
 Follow these steps so that when you open a YouTube link it will open in the YT ReVanced Extended app instead of the official YouTube app.
 
-(If you are using MIUI, you'll need to use the [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on Manage applications. Then continue with the steps below.)
+(If you are using MIUI, you'll need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on Manage applications. Then continue with the steps below.)
 
 **a)** Uninstall or disable the official YouTube app. Or go to the App info of official YouTube, tap on Set as default / Open by default > Open supported links, **Off**.
 
@@ -143,7 +121,7 @@ If your downloader is on the list, tap on it and press "Save". Then restart the 
 
 # **Updating ReVanced Extended**
 
-The RVX Manager does not feature an easy way to update existing ReVanced Extended apps that are on your device. To update you must patch a new APK and then install the newly patched APK on top of the old ReVanced Extended app as an update. Installing it as an update will preserve your settings configuration.
+To update YT ReVanced Extended you must patch a new APK and then install the newly patched APK on top of the old YT ReVanced Extended app as an update. Installing it as an update will preserve your settings configuration.
 
 Normally, you do not need to uninstall your old YT ReVanced Extended app before installing the new one. However, there are two things to note.
 
@@ -186,6 +164,6 @@ The built-in YouTube settings will still need to be configured, as well as any s
 
 Check the [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/) for troubleshooting help.
 
-Read the [Frequently Asked Questions](https://www.reddit.com/r/revancedextended/wiki/faq/) for the what, why, and how of ReVanced Extended.
+Check the [Frequently Asked Questions](https://www.reddit.com/r/revancedextended/wiki/faq/).
 
 Check out [inotia00's GitHub](https://github.com/inotia00).
