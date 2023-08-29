@@ -14,7 +14,7 @@ ReVanced Extended is a derivative project of ReVanced of just patches made for Y
 
 You can read inotia00's announcement regarding the discontinuation [here](https://github.com/inotia00/revanced-documentation/wiki/Announcement). 
 
-You can check out [YT ReX](https://github.com/YT-Advanced/revanced-documentation/wiki), a continuation of ReVanced Extended by another developer.
+You can check out [ReX](https://github.com/YT-Advanced/revanced-documentation/wiki), a continuation of ReVanced Extended by another developer.
 
 
 

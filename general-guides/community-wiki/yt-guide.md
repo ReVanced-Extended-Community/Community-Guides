@@ -4,7 +4,7 @@
 
 ### **Things To Know Before You Begin**
 
-**a)** **Development of ReVanced Extended has been discontinued.** You can check out [YT ReX](https://github.com/YT-Advanced/revanced-documentation/wiki), a continuation of ReVanced Extended by another developer. 
+**a)** **Development of ReVanced Extended has been discontinued.** You can check out [ReX](https://github.com/YT-Advanced/revanced-documentation/wiki), a continuation of ReVanced Extended by another developer. 
 
 **b)** Check out the [Frequently Asked Questions](https://www.reddit.com/r/revancedextended/wiki/faq/).
 
