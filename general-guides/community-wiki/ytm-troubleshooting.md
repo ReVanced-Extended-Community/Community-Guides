@@ -71,30 +71,27 @@ Refer to step 4 of the [YTM guide](https://www.reddit.com/r/revancedextended/wik
 
 You'll need to patch on a different Android device or on PC.
 
-When patching on a different device or PC be sure to patch the APK variant that was built for the architecture of the device you plan to **install** the patched APK on. Refer to step 1 in the [YTM guide](todo) for info on downloading an APK for a specific architecture.
+When patching on a different device or PC be sure to patch the APK variant that was built for the architecture of the device you plan to **install** the patched APK on. Refer to step 1 in the [YTM guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_music_apk) for info on downloading an APK for a specific architecture.
 
 If you patch with the RVX Manager on a different device make sure to export the patched APK so that you can send it to the device you plan to install it on. To export the APK, tap the three dots in the upper right corner of the screen and then press "Export APK" as shown in [this image](https://imgur.com/a/JqmfzAj). Then press "Save".
 
 If you want to patch on PC, follow the instructions for the desired method in the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation).
 
 
-#### **8. Nothing happens when I select the YT APK from storage**
 
-todo
-
-#### **9. Patcher is aborting / failing to apply patches**
+#### **8. Patcher is aborting / failing to apply patches**
 
 **a)** Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
 **b)** Try fully closing the Manager and trying again. (There is a common bug that this fixes)
 
-**c)** Make sure you aren't using a YTM version that is older than todo or newer than 6.15.52.
+**c)** Make sure you aren't using a YTM version that is very old or newer than 6.15.52.
 
 **d)** If your device's language was set to a language that reads right-to-left when the failure occurred then set your device's language to English or any language that reads left-to-right. Then fully close the Manager, and try again.
 
 * If it still doesn't work you can try searching the sub for your error. Alternatively, you can patch on a different device or use a different patching method.
 
-If you patch on a different device or use a different patching method be sure to patch the APK variant that was built for the architecture of the device you plan to **install** the patched APK on. Refer to step 2 in the [YTM guide](todo) for info on downloading an APK for a specific architecture.
+If you patch on a different device or use a different patching method be sure to patch the APK variant that was built for the architecture of the device you plan to **install** the patched APK on. Refer to step 2 in the [YTM guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/#wiki_2._patching_the_apk) for info on downloading an APK for a specific architecture.
 
 If you patch with the RVX Manager on a different device make sure to export the patched APK so that you can send it to the device you plan to install it on. To export the APK, tap the three dots in the upper right corner of the screen and then press "Export APK" as shown in [this image](https://imgur.com/a/JqmfzAj). Then press "Save".
 
@@ -103,14 +100,14 @@ If you want to patch on PC, follow the instructions for the desired method in th
 
 
 
-#### **10. "Error: Non-root install is not possible with the current patches selection."**
+#### **9. "Error: Non-root install is not possible with the current patches selection."**
 
 Patch again and include the `MicroG Support` patch.
 
 
 
 
-#### **11. "App not installed."**
+#### **10. "App not installed."**
 
 **a)** If there was a Google Play Protect pop-up when trying to install it then you must press **"More details"** and then tap the **"Install anyway"** button. If you press the "Got it" button it will not install. [Here](https://imgur.com/a/Ck8nfhn) is an image demonstrating this.
 
@@ -123,7 +120,7 @@ Patch again and include the `MicroG Support` patch.
 
 
 
-#### **12. "App not installed as package conflicts with an existing package."**
+#### **11. "App not installed as package conflicts with an existing package."**
 
 **a)** Uninstall the YT Music Extended app that is already on your device before trying again. Make sure it is not installed in an alternate user profile or private folder that your device features.
 
@@ -136,11 +133,11 @@ Now check what it says the package name is near the top (in parenthesis). Make s
 
 
 
-#### **13. "App not installed as package appears to be invalid."**
+#### **12. "App not installed as package appears to be invalid."**
 
 This error most often means that you are trying to install an app that is an older version than the already installed version. Android doesn't allow app downgrading. In the context of installing YTM Extended, here are some possible scenarios and solutions:
 
-**a)** You are installing the unpatched YT Music APK that you downloaded from APKMirror.com. It is not necessary to install it. Refer to step 2 in the [YTM guide](todo) for info on selecting the YTM APK from storage.
+**a)** You are installing the unpatched YT Music APK that you downloaded from APKMirror.com. It is not necessary to install it. Refer to step 2 in the [YTM guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/#wiki_2._patching_the_apk) for info on selecting the YTM APK from storage.
 
 **b)** Your patched YTM APK that you are installing was exported from the RVX Manager but does not have the `MicroG Support` patch applied to it. You can verify if this is the case by doing the following:
 
@@ -155,14 +152,14 @@ Now check what it says the package name is near the top (in parenthesis). Make s
 
 
 
-#### **14. "App not installed as app isn't compatible with your device"**
+#### **13. "App not installed as app isn't compatible with your device"**
 
-The APK doesn't match your device's architecture. Refer to step 1 in the [YTM guide](todo) for info on downloading the correct APK/app.
-
-
+The APK doesn't match your device's architecture. Refer to step 1 in the [YTM guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_music_apk) for info on downloading the correct APK/app.
 
 
-#### **15. App crashes on startup**
+
+
+#### **14. App crashes on startup**
 
 3 common causes:
 
