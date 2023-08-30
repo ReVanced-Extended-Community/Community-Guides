@@ -147,7 +147,7 @@ Nevertheless, here is the setup:
 
 **b)** Open YTM Extended. Tap on the profile picture > Settings > ReVanced Extended > Hook share button, **On**.
 
-**c)** Fully close the app.
+**c)** Fully close and restart the app.
 
 Now when you press the Share button it will attempt to open [Seal](https://github.com/JunkFood02/Seal/releases/latest) to download the media. You can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several other downloaders you can use. (Keep in mind that PowerTube is no longer functioning for YT Music downloads.)
 
