@@ -14,7 +14,7 @@
 
 ### **Requirements**
 
-**a)** Your device must be running Android 8.0 or newer.
+**a)** Your device must be running Android 8 or newer.
 
 **b)** Your device must be non-rooted. If it is rooted, look at the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for a rooted guide.
 
