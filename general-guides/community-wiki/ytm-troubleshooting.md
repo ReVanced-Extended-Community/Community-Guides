@@ -1,6 +1,4 @@
-# **YT Music Troubleshooting**
-
-(For troubleshooting help related to YT ReVanced Extended click [here](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/).)
+# **YT Music Extended Troubleshooting**
 
 
 
@@ -83,9 +81,9 @@ If you want to patch on PC, follow the instructions for the desired method in th
 
 **a)** Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
-**b)** Try fully closing the Manager and trying again. (There is a common bug that this fixes)
+**b)** Fully close the Manager and try again. (There is a common bug that this fixes.)
 
-**c)** Make sure you aren't using a YTM version that is very old or newer than 6.15.52.
+**c)** Make sure you aren't using a YTM version that is older than `5.47.51` or newer than `6.15.52`.
 
 **d)** If your device's language was set to a language that reads right-to-left when the failure occurred then set your device's language to English or any language that reads left-to-right. Then fully close the Manager, and try again.
 
@@ -165,6 +163,6 @@ The APK doesn't match your device's architecture. Refer to step 1 in the [YTM gu
 
 **a)** You do not have Vanced MicroG installed. Download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). Or you can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest).
 
-**b)** There was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#9** if this occured.
+**b)** There was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#8** if this occured. (Remember to not use a YTM version newer than `6.15.52`.)
 
 **c)** The email you are signing in with has parental control restrictions.

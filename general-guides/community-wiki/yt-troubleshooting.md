@@ -1,7 +1,5 @@
 # **YT ReVanced Extended Troubleshooting**
 
-(For troubleshooting help related to YT **Music** Extended click [here](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/).)
-
 
 
 # **Issues Within YT ReVanced Extended**
@@ -62,11 +60,11 @@ This is a side-effect of the player parameter spoof. If you disable the player p
 
 **To hide/unhide Shorts in feeds:**
 
-Go to Settings > ReVanced Extended > Shorts > Hide shorts shelf, **Off**.
+Go to Settings > ReVanced Extended > Shorts > Hide shorts shelf, **On/Off**.
 
 **To hide/unhide the Shorts button:**
 
-Go to Settings > ReVanced Extended > Navigation > Hide shorts button, **Off**.
+Go to Settings > ReVanced Extended > Navigation > Hide shorts button, **On/Off**.
 
 
 
@@ -130,7 +128,7 @@ Download an APK of the recommended/suggested version and patch that from storage
 
 **a)** Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
-**b)** Try fully closing the Manager and trying again. (There is a common bug that this fixes)
+**b)** Fully close the Manager and try again. (There is a common bug that this fixes.)
 
 **c)** Make sure you selected the suggested APK from storage. Refer to steps 1 and 2 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_apk).
 
@@ -197,4 +195,4 @@ Now check what it says the package name is near the top (in parenthesis). Check 
 
 #### **19. App crashes on startup**
 
-What most likely happened was there was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#15** if this happened.
+What most likely happened was there was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#14** if this happened.

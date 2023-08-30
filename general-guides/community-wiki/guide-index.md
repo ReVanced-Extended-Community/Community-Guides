@@ -1,4 +1,4 @@
-**What guide are you looking for?**
+**Which guide are you looking for?**
 
 [YouTube ReVanced Extended](https://www.reddit.com/r/revancedextended/wiki/yt-guide/)
 
