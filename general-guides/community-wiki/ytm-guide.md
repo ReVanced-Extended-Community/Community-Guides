@@ -42,13 +42,13 @@
 
 Open the RVX Manager and press Select an application > **STORAGE** > and then select the YTM APK file that you downloaded from APKMirror. (It will probably be in your downloads folder.)
 
-Now press "Select patches", and then select the patches that you want. I suggest using the Default patches selection except for the `Hide Upgrade Button` patch. To use the Default patches except for this patch, press the "Default" button at the top of the patches selection screen and then scroll down and uncheck the `Hide Upgrade Button` patch.
+Now press "Select patches", and then the patches you want. I suggest using the Default patches selection except for the `Hide Upgrade Button` patch. To use the Default patches except for this patch, press the "Default" button at the top of the patches selection screen and then scroll down and uncheck the `Hide Upgrade Button` patch.
 
 You can see examples of what all of the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#youtube-music).
 
 If you decide not to use the default selection, keep the following things in mind:
 
-**a)** You must **include** the `MicroG Support` patch.
+**a)** You **must** include the `MicroG Support` patch.
 
 **b)** The 4 major patches are:
 
@@ -63,7 +63,7 @@ If you decide not to use the default selection, keep the following things in min
 
 You can select which custom branding icon you want to use, but make sure to only select one custom branding icon patch. You can view a preview of the 3 icons [here on Imgur](https://imgur.com/a/tjuLog1). You can exclude all custom branding icon patches to get the YT Music icon.
 
-When you are done selecting the patches that you want, press "Done" and then press "Patch". Patching generally takes 2-5 minutes. If you leave the app it may cancel without warning. Take screenshots of any errors / failures that occur to make troubleshooting easier.
+When you are done selecting the patches that you want, press "Done" and then "Patch". Patching generally takes 2-5 minutes. If you leave the app it may cancel without warning. Take screenshots of any errors / failures that occur to make troubleshooting easier.
 
 
 
