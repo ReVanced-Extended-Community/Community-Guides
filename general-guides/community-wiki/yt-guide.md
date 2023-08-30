@@ -43,7 +43,7 @@
 
 Open the RVX Manager and press Select an application > **STORAGE**, and then select the YouTube APK that you downloaded from APKMirror. (It will probably be in your downloads folder.)
 
-Now press "Select patches", and select the patches that you want. It is suggested to use the Default patches selection. To do so, press the "Default" button at the top of the patches selection screen.
+Now press "Select patches", and select the patches you want. It is suggested to use the Default patches selection. To do so, press the "Default" button at the top of the patches selection screen.
 
 You can see examples of what all the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#youtube).
 
