@@ -186,6 +186,6 @@ Now check what it says the package name is near the top (in parenthesis). Check 
 
 
 
-#### **19. App crashes on startup**
+#### **18. App crashes on startup**
 
 What most likely happened was there was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#13** if this happened.
