@@ -44,7 +44,7 @@
 
 Open the RVX Manager and press Select an application > **STORAGE**, and then select the YouTube APK that you downloaded from APKMirror. (It will probably be in your downloads folder.)
 
-Now press "Select patches", and then select the patches that you want. It is suggested to use the Default patches selection. To do so, press the "Default" button at the top of the patches selection screen.
+Now press "Select patches", and select the patches that you want. It is suggested to use the Default patches selection. To do so, press the "Default" button at the top of the patches selection screen.
 
 You can see examples of what all the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#youtube).
 
@@ -54,9 +54,8 @@ If you decide not to use the default selection, keep the following things in min
 
 **b)** You can select which custom branding icon you want to use, but make sure to only select one custom branding icon patch. You can view a preview of the 3 icons [here on Imgur](https://imgur.com/a/qlelvZk). You can exclude all custom branding icon patches to get the YouTube icon.
 
-**c)** Make sure to look through all of the patches so you don't accidentally exclude features.
 
-When you are done selecting the patches that you want, press "Done" and then press "Patch". Patching generally takes 2-5 minutes. If you leave the app it may cancel without warning. Take screenshots of any errors / failures that occur to make troubleshooting easier.
+When you are done selecting the patches you want, press "Done" and then "Patch". Patching generally takes 2-5 minutes. If you leave the app it may cancel without warning. Take screenshots of any errors / failures that occur to make troubleshooting easier.
 
 
 
