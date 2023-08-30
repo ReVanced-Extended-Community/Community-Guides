@@ -28,7 +28,7 @@
 
 **b)** Download and install the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
-(If you get an error saying "App not installed as app isn't compatible with your device." or "App not installed.", it likely means that the RVX Manager is not supported by your device. Refer to the [YTM troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for further instructions.)
+(If you get an error saying "App not installed as app isn't compatible with your device." or "App not installed.", it likely means that your device isn't supported by the RVX Manager. Refer to the [YTM troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for further instructions.)
 
 **c)** Go to [this page](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-15-52-release/youtube-music-6-15-52-android-apk-download/) and download the arm64-v8a variant of a YT Music `6.15.52` APK.
 
