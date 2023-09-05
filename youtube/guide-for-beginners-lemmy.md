@@ -6,7 +6,7 @@
 * This guide is for non-rooted devices.
 
 
-* This guide will use the RVX Manager patching method. Check the [documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on the other patching methods.
+* This guide will use the RVX Manager patching method. Check the [documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for other patching methods.
 
 ___
 
