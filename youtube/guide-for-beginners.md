@@ -1,4 +1,4 @@
-### Notice: ⚠️ [From now on use the new RVX Manager created specially for ReVanced Extended patches.](https://github.com/inotia00/revanced-manager/releases/latest)
+### [Use the new RVX Manager created specially for ReVanced Extended patches.](https://github.com/inotia00/revanced-manager/releases/latest)
 
 
 
