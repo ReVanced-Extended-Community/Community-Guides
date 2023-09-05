@@ -1,7 +1,4 @@
-# ReVanced Extended has been discontinued indefinitely.
-
 ### Notice: ⚠️ [From now on use the new RVX Manager created specially for ReVanced Extended patches.](https://github.com/inotia00/revanced-manager/releases/latest)
-
 
 
 
@@ -18,7 +15,7 @@
 
 
 
-**Last updated by /u/SpacellaryUS on 28/August/2023.**
+**Last updated by /u/SpacellaryUS on 05/September/2023.**
 
 
 
@@ -69,7 +66,7 @@
 
 
 
-**b)** Download, BUT DO NOT INSTALL the **YouTube** `v18.30.37` (`nodpi`) APK from [this page](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-30-37-release/youtube-18-30-37-2-android-apk-download/).
+**b)** Download, BUT DO NOT INSTALL the **YouTube** `v18.31.40` (`nodpi`) APK from [this page](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-31-40-release/youtube-18-31-40-android-apk-download/).
 
 
 
@@ -78,8 +75,6 @@
 
 
 (*If you get an error saying* "App not installed as app isn't compatible with your device." *or* "App not installed.", *it likely means that your device is not supported by the RVX Manager. Refer to the [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for further instructions.*)
-
-
 
 
 
