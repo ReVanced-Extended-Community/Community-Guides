@@ -6,7 +6,7 @@
 * This guide is for non-rooted devices.
 
 
-* This guide will use the RVX Manager patching method. Check the [documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for other patching methods.
+* This guide will use the RVX Manager patching method. Check the [documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on the other patching methods.
 
 ___
 
@@ -19,7 +19,7 @@ ___
 * Your device must use the arm64-v8a architecture.
 
 
-##### **Downloading MicroG, YouTube APK, & the RVX Manager:**
+##### **Downloading MicroG, YouTube APK, &amp; the RVX Manager:**
 
 
 
@@ -87,7 +87,7 @@ When patching is finished you can save the APK as a file so that you have it for
 
 Press "Install" and wait for it to finish installing. You may get a message saying that the installation was blocked because it is an unknown app. Tap "**More details**" and then "**Install anyway**" as shown [here](https://imgur.com/a/iLP2m7l).
 
-
+___
 
 #### **Optional - Link Association:**
 
