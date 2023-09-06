@@ -120,7 +120,7 @@ Now check what it says the package name is near the top (in parenthesis). Make s
 
 
 
-#### **12. "App not installed as package appears to be invalid."**
+#### **11. "App not installed as package appears to be invalid."**
 
 This error most often means that you are trying to install an app that is an older version than the already installed version. Android doesn't allow app downgrading. In the context of installing YTM Extended, here are some possible scenarios and solutions:
 
@@ -139,19 +139,19 @@ Now check what it says the package name is near the top (in parenthesis). Make s
 
 
 
-#### **13. "App not installed as app isn't compatible with your device"**
+#### **12. "App not installed as app isn't compatible with your device"**
 
 The APK doesn't match your device's architecture. Refer to step 1 in the [YTM guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_music_apk) for info on downloading the correct APK/app.
 
 
 
 
-#### **14. App crashes on startup**
+#### **13. App crashes on startup**
 
 3 common causes:
 
 **a)** You do not have Vanced MicroG installed. Download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). Or you can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest).
 
-**b)** There was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#8** if this occured. (Remember to not use a YTM version newer than `6.17.52`.)
+**b)** There was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#7** if this occured. (Remember to not use a YTM version newer than `6.17.52`.)
 
 **c)** The email you are signing in with has parental control restrictions.
