@@ -6,15 +6,13 @@
 
 [ReVanced](https://revanced.app/) is a free modular patcher for Android apps such as YouTube. It can be used to create applications that have extra features and customizability, similar to how a browser extension works, but for an app.
 
-ReVanced Extended is a derivative project of ReVanced of just patches made for YouTube, YT Music, and Reddit. ReVanced Extended has some extra features on top of what ReVanced offers and was developed independently by inotia00 until it was discontinued. ReVanced Extended is not affiliated with ReVanced.
+ReVanced Extended is a derivative project of ReVanced of just patches made for YouTube, YT Music, and Reddit. ReVanced Extended has some extra features on top of what ReVanced offers and is developed independently by inotia00. ReVanced Extended is not affiliated with ReVanced.
 
 
 
-##### **2. Why was ReVanced Extended discontinued?**
+##### **2. Is ReVanced Extended discontinued?**
 
-You can read inotia00's announcement regarding the discontinuation [here](https://github.com/inotia00/revanced-documentation/wiki/Announcement). 
-
-You can check out [ReX](https://github.com/YT-Advanced/revanced-documentation/wiki), a continuation of ReVanced Extended by another developer.
+inotia00 announced on August 5th that the project was being discontinued. However, on September 5th he made a return and said he will be doing bug fixes for YT ReVanced Extended and adding features and fixes for YTM Extended. You can read his August 5th announcement [here](https://github.com/inotia00/revanced-documentation/wiki/Announcement). 
 
 
 
@@ -44,7 +42,7 @@ Due to legal reasons, ReVanced Extended cannot be directly distributed. Anyone d
 
 ##### **7. What features are different between ReVanced Extended and ReVanced?**
 
-The best way to answer this is by installing ReVanced Extended and comparing it to ReVanced. However, you can check what all of the patches do on [this page](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation). Or you can check what the all of the toggles in YT ReVanced Extended do on [this page](https://github.com/kazimmt/RVX-Features#youtube-revanced-extended-features). Alternateively, you can compare the list of patches between the [ReVanced Extended GitHub](https://github.com/inotia00/revanced-patches/tree/revanced-extended#readme) and the [ReVanced site](https://revanced.app/patches?pkg=com.google.android.youtube), but keep in mind that some patches can contain several features and options within, so just looking at the patches doesn't tell the full story.
+The best way to answer this is by installing ReVanced Extended and comparing it to ReVanced. However, you can check what all of the patches do on [this page](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation). Or you can check what the all of the toggles in YouTube and YT Music Extended do on [this page](https://kazimmt.github.io/RVX-Features/). Alternateively, you can compare the list of patches between the [ReVanced Extended GitHub](https://github.com/inotia00/revanced-patches/tree/revanced-extended#readme) and the [ReVanced site](https://revanced.app/patches?pkg=com.google.android.youtube), but keep in mind that some patches can contain several features and options within, so just looking at the patches doesn't tell the full story.
 
 
 
