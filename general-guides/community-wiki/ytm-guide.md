@@ -30,9 +30,9 @@
 
 (If you get an error saying "App not installed as app isn't compatible with your device." or "App not installed.", it likely means that your device isn't supported by the RVX Manager. Refer to the [YTM troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for further instructions.)
 
-**c)** Go to [this page](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-15-52-release/youtube-music-6-15-52-android-apk-download/) and download the arm64-v8a variant of a YT Music `6.15.52` APK.
+**c)** Go to [this page](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-17-52-release/#downloads) and download the arm64-v8a variant of a YT Music `6.17.52` APK. You do not need to install it.
 
-(If you are patching to install the patched APK on a non-armv64-v8a device, download the variant of a `6.15.52` YT Music APK that matches the architecture of the device you plan to install the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). If an Android device is not arm64-v8a it is most likely armeabi-v7a.)
+(If you are patching to install the patched APK on a non-armv64-v8a device, download the variant of a `6.17.52` YT Music APK that matches the architecture of the device you plan to install the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). If an Android device is not arm64-v8a it is most likely armeabi-v7a.)
 
 
 
@@ -40,9 +40,9 @@
 
 ### **2. Patching The APK**
 
-Open the RVX Manager and press Select an application > **STORAGE** > and then select the YTM APK file that you downloaded from APKMirror. (It will probably be in your downloads folder.)
+Open the RVX Manager and press Patcher > Select an application > **STORAGE** > and then select the YTM APK file that you downloaded from APKMirror. (It will probably be in your downloads folder.)
 
-Now press "Select patches", and select the patches you want. I suggest using the Default patches selection except for the `Hide Upgrade Button` patch. To use the Default patches except for this patch, press the "Default" button at the top of the patches selection screen and then scroll down and uncheck the `Hide Upgrade Button` patch.
+Now press "Select patches", and select the patches you want. It is suggested to use the Default patches selection. To do so, press the "Default" button at the top of the patches selection screen.
 
 You can see examples of what all of the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#youtube-music).
 
@@ -50,18 +50,10 @@ If you decide not to use the default selection, keep the following things in min
 
 **a)** You **must** include the `MicroG Support` patch.
 
-**b)** The 4 major patches are:
+**b)** You can select which custom branding icon you want to use, but make sure to only select one custom branding icon patch. You can view a preview of the 3 icons [here on Imgur](https://imgur.com/a/tjuLog1). You can exclude all custom branding icon patches to get the YT Music icon.
 
-1] **Background Play** (Enables background playback.)
+**c)** If you are from Canada, include the `Spoof App Version` patch, which allows users to bypass the radio-only restriction that is in Canada and some other countries. Additional setup is in step 4 of the guide.
 
-2] **Certificate Spoof** (Adds support for Android Auto. Additional setup info is in step 4 of the guide.)
-
-3] **Hide Music Ads** (Removes the video ads between songs.)
-
-4] **Spoof App Version** (Allows users to bypass the radio-only restriction that is in Canada and some other countries. Additional setup is in step 4 of the guide.)
-
-
-You can select which custom branding icon you want to use, but make sure to only select one custom branding icon patch. You can view a preview of the 3 icons [here on Imgur](https://imgur.com/a/tjuLog1). You can exclude all custom branding icon patches to get the YT Music icon.
 
 When you are done selecting the patches that you want, press "Done" and then "Patch". Patching generally takes 2-5 minutes. If you leave the app it may cancel without warning. Take screenshots of any errors / failures that occur to make troubleshooting easier.
 
@@ -70,7 +62,7 @@ When you are done selecting the patches that you want, press "Done" and then "Pa
 
 ### **3. Installation**
 
-When patching is finished I do not recommend using the "Install" button in the Manager. Instead, tap the three dots in the upper right corner of the screen and then press "Export APK" as shown in [this image](https://imgur.com/a/JqmfzAj). Save it, and then install the exported APK from your file manager.
+When patching is finished I do not recommend using the "Install" button in the Manager. Instead, export the APK by tapping the save icon as shown in [this image](https://imgur.com/a/FKD0okE). Save it, and then install the exported APK from your file manager.
 
 You may get a pop-up saying that the installation was blocked because it is an unknown app. Tap **"More details"** and then **"Install anyway"** as shown [here](https://imgur.com/a/iLP2m7l).
 
@@ -81,7 +73,9 @@ You may get a pop-up saying that the installation was blocked because it is an u
 
 # **4. Additional Setup**
 
-Aside from the detailed setup instructions below that are for the more complex configurations, many settings / patches can be enabled/disabled in the YTM Extended app. To find these settings, open the YTM Extended app > Profile picture > Settings > ReVanced Extended.
+Aside from the detailed setup instructions below that are for the more complex configurations, many settings / patches can be enabled/disabled in the YTM Extended app. To find these settings, open YT Music Extended > Profile picture > Settings > ReVanced Extended.
+
+You can see what all of the settings do [here](https://kazimmt.github.io/RVX-Features/rvx-features/ytm-rvx-features/).
 
 
 
@@ -126,7 +120,7 @@ Here's how to set it up:
 
 **a)** You need to have included the `Spoof App Version` patch when you patched the app.
 
-**b)** Open YTM Extended > Profile picture > Settings > ReVanced Extended > Spoof app version, on.
+**b)** Open YTM Extended > Profile picture > Settings > ReVanced Extended > Miscellaneous > Spoof app version, **On**.
 
 **c)** Fully close and restart the app.
 
@@ -137,21 +131,13 @@ If this does not work you can use an [old version of Vanced Music](https://www.a
 
 #### **Downloader Setup**
 
-The download function in YTM Extended works by changing the Share button into a download button that calls upon the downloader of your choice to download the song. The default downloader is [Seal](https://github.com/JunkFood02/Seal/releases/latest).
+**a)** You need to have included the `Hook Download Button` patch when you patched the app.
 
-**Note:** There is a bug that when you press the Share button for any song it will act as though you pressed the Share button for the currently playing song. Therefore you can only download the currently playing song.
+**b)** Open YTM Extended. Tap on the profile picture > Settings > ReVanced Extended > Button Container > Hook download button, **On**. Fully close and restart the app.
 
-Nevertheless, here is the setup:
+Now when you press the Download button it will attempt to open [Seal](https://github.com/JunkFood02/Seal/releases/latest) to download the media. You can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several other downloaders you can use. (Keep in mind that PowerTube is no longer functioning for YT Music downloads.)
 
-**a)** You need to have included the `Share Button Hook` patch when you patched the app.
-
-**b)** Open YTM Extended. Tap on the profile picture > Settings > ReVanced Extended > Hook share button, **On**.
-
-**c)** Fully close and restart the app.
-
-Now when you press the Share button it will attempt to open [Seal](https://github.com/JunkFood02/Seal/releases/latest) to download the media. You can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several other downloaders you can use. (Keep in mind that PowerTube is no longer functioning for YT Music downloads.)
-
-After you install a downloader, open YTM Extended > Profile picture > Settings > ReVanced Extended > Package name of downloader. Then enter the package name of the downloader that you use. Make sure that there are no empty spaces. Then press "OK" and restart the app.
+If you want to use a downloader other than Seal, install the downloader and open YTM Extended and navigate to Settings > ReVanced Extended > Button Container > External downloader package name. Then enter the package name of the downloader and then restart the app.
 
 
 

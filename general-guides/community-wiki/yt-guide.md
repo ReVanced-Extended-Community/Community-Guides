@@ -34,14 +34,14 @@
 
 (If you get an error saying "App not installed as app isn't compatible with your device." or "App not installed.", it likely means that your device isn't supported by the RVX Manager. Refer to the [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for further instructions.)
 
-**c)** Download (but do **not** bother installing) a [`18.30.37` YouTube APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-30-37-release/youtube-18-30-37-2-android-apk-download/).
+**c)** Download (but do **not** bother installing) a [`18.31.40` YouTube APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-31-40-release/youtube-18-31-40-android-apk-download/).
 
 
 
 
 ### **2. Patching The APK**
 
-Open the RVX Manager and press Select an application > **STORAGE**, and then select the YouTube APK that you downloaded from APKMirror. (It will probably be in your downloads folder.)
+Open the RVX Manager and press Patcher > Select an application > **STORAGE**, and then select the YouTube APK that you downloaded from APKMirror. (It will probably be in your downloads folder.)
 
 Now press "Select patches", and select the patches you want. It is suggested to use the Default patches selection. To do so, press the "Default" button at the top of the patches selection screen.
 
@@ -61,7 +61,7 @@ When you are done selecting the patches you want, press "Done" and then "Patch".
 
 ### **3. Installation**
 
-When patching is finished I do not recommend using the "Install" button in the Manager. Instead, tap the three dots in the upper right corner of the screen and then press "Export APK" as shown in [this image](https://imgur.com/a/JqmfzAj). Save it, and then install the exported APK from your file manager.
+When patching is finished I do not recommend using the "Install" button in the Manager. Instead, export the APK by tapping the save icon as shown in [this image](https://imgur.com/a/FKD0okE). Save it, and then install the exported APK from your file manager.
 
 You may get a pop-up saying that the installation was blocked because it is an unknown app. Tap **"More details"** and then **"Install anyway"** as shown [here](https://imgur.com/a/iLP2m7l).
 
@@ -72,14 +72,15 @@ You may get a pop-up saying that the installation was blocked because it is an u
 
 # **4. Additional Setup**
 
-Aside from the detailed setup instructions below that are for the more complex configurations, many settings / patches can be enabled/disabled in the YT ReVanced Extended app. You can see what all of the settings do [here](https://github.com/kazimmt/RVX-Features#youtube-revanced-extended-features).
+Aside from the detailed setup instructions below that are for the more complex configurations, many settings / patches can be enabled/disabled in the YT ReVanced Extended app.
 
-To find the ReVanced Extended settings, open the YT ReVanced Extended app > Profile picture > Settings > ReVanced Extended.
+To find the ReVanced Extended settings, open YT ReVanced Extended > Profile picture > Settings > ReVanced Extended.
 
 To find the SponsorBlock settings: Profile picture > Settings > SponsorBlock.
 
 To find the Return YouTube Dislike settings: Profile picture > Settings > Return YouTube Dislike.
 
+You can see what all of the settings do [here](https://kazimmt.github.io/RVX-Features/rvx-features/yt-rvx-features/).
 
 
 
@@ -108,9 +109,7 @@ There are three important things to know about downloading in YT ReVanced Extend
 
 **c)** When you press the download button it will attempt to open [YTDLnis](https://github.com/deniscerri/ytdlnis/releases/latest) to download the media. You can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several other downloaders you can use. 
 
-After you install a downloader, open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Overlay buttons > Downloader settings. 
-
-If your downloader is on the list, tap on it and press "Save". Then restart the app. If your downloader is not on the list, manually enter the package name and then restart the app. 
+If you want to use a downloader other than YTDLnis, install the downloader and open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Overlay buttons > External downloader settings. Then enter the package name of the downloader and then restart the app. 
 
 
 
