@@ -1,3 +1,6 @@
+This announcement by inotia00 isn't valid anymore and is knly stored here for history.
+___
+
 Announcement
 ==
 As I announced before, RVX has been discontinued since _August 5, 2023_
