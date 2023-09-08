@@ -1,4 +1,4 @@
-This announcement by inotia00 isn't valid anymore and is knly stored here for history.
+This announcement by inotia00 isn't valid anymore and is only stored here for history.
 ___
 
 Announcement
