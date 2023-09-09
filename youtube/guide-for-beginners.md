@@ -11,11 +11,11 @@
 
 
 
-**Looking for screenshots/more information about the ReVanced Extended patches? [Check out this repository!](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation)**
+**Looking for screenshots/more information about the ReVanced Extended patches? [Check out this repository! (under updates)](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation)**
 
 
 
-**Last updated by /u/SpacellaryUS on 05/September/2023.**
+**Last updated by /u/SpacellaryUS on 09/September/2023.**
 
 
 
@@ -74,7 +74,7 @@
 
 
 
-(*If you get an error saying* "App not installed as app isn't compatible with your device." *or* "App not installed.", *it likely means that your device is not supported by the RVX Manager. Refer to the [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for further instructions.*)
+(If you get an error saying *"App not installed as app isn't compatible with your device."* or *"App not installed."*, it likely means that your device is not supported by the RVX Manager. Refer to the [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for further instructions.)
 
 
 
@@ -107,7 +107,7 @@ If you don't want to use the Default selection you **must** at least include the
 
 
 
-[Check out this repository to see what all the patches do!](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation)
+[Check out this repository to see what the patches do! (under updates)](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation)
 
 
 
