@@ -72,7 +72,7 @@ If you want to patch on PC, follow the instructions for the desired method in th
 
 **a)** Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
-**b)** Make sure you aren't using a YTM version that is older than `5.47.51` or newer than `6.17.52`.
+**b)** Make sure you aren't using a YTM version that is older than `5.47.51` or newer than `6.19.51`.
 
 **c)** If your device's language was set to a language that reads right-to-left when the failure occurred then set your device's language to English or any language that reads left-to-right. Then fully close the Manager, and try again.
 
