@@ -28,9 +28,9 @@
 
 (If you get an error saying "App not installed as app isn't compatible with your device." or "App not installed.", it likely means that your device isn't supported by the RVX Manager. Refer to the [YTM troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for further instructions.)
 
-**c)** Go to [this page](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-17-52-release/#downloads) and download the arm64-v8a variant of a YT Music `6.17.52` APK. You do not need to install it.
+**c)** Go to [this page](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-19-51-release/#downloads) and download the arm64-v8a variant of a YT Music `6.19.51` APK. You do not need to install it.
 
-(If you are patching to install the patched APK on a non-armv64-v8a device, download the variant of a `6.17.52` YT Music APK that matches the architecture of the device you plan to install the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). If an Android device is not arm64-v8a it is most likely armeabi-v7a.)
+(If you are patching to install the patched APK on a non-armv64-v8a device, download the variant of a `6.19.51` YT Music APK that matches the architecture of the device you plan to install the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). If an Android device is not arm64-v8a it is most likely armeabi-v7a.)
 
 
 
