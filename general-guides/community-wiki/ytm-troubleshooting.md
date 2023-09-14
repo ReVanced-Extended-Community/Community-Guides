@@ -72,13 +72,13 @@ If you want to patch on PC, follow the instructions for the desired method in th
 
 **a)** Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
-**b)** Make sure you aren't using a YTM version that is older than `5.47.51` or newer than `6.19.51`.
+**b)** Make sure you are using the suggested YT Music version given in step 1 of the [YTM guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_music_apk).
 
 **c)** If your device's language was set to a language that reads right-to-left when the failure occurred then set your device's language to English or any language that reads left-to-right. Then fully close the Manager, and try again.
 
 * If it still doesn't work you can try searching the sub for your error. Alternatively, you can patch on a different device or use a different patching method.
 
-If you patch on a different device or use a different patching method be sure to patch the APK variant that was built for the architecture of the device you plan to **install** the patched APK on. Refer to step 2 in the [YTM guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/#wiki_2._patching_the_apk) for info on downloading an APK for a specific architecture.
+If you patch on a different device or use a different patching method be sure to patch the APK variant that was built for the architecture of the device you plan to **install** the patched APK on. Refer to step 1 in the [YTM guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_music_apk) for info on downloading an APK for a specific architecture.
 
 If you patch with the RVX Manager on a different device make sure to export the patched APK so that you can send it to the device you plan to install it on. To export the APK, tap the save icon when patching is completed as shown in [this image](https://imgur.com/a/FKD0okE). Then press "Save".
 
@@ -102,7 +102,7 @@ Patch again and include the `MicroG Support` patch.
 
 **c)** Uninstall the YT Music Extended app that is already on your device before trying again. Make sure it is not installed in an alternate user profile or private folder that your device features.
 
-**d)** If the error message was **"App not installed as app isn't compatible with your device."** refer to troubleshooting issue **#14**.
+**d)** If the error message was **"App not installed as app isn't compatible with your device."** refer to troubleshooting issue **#12**.
 
 
 
@@ -141,7 +141,7 @@ Now check what it says the package name is near the top (in parenthesis). Make s
 
 #### **12. "App not installed as app isn't compatible with your device"**
 
-The APK doesn't match your device's architecture. Refer to step 1 in the [YTM guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_music_apk) for info on downloading the correct APK/app.
+The YT Music you patched APK doesn't match your device's architecture. Refer to step 1 in the [YTM guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_music_apk) for info on downloading the correct APK/app.
 
 
 
@@ -152,6 +152,6 @@ The APK doesn't match your device's architecture. Refer to step 1 in the [YTM gu
 
 **a)** You do not have Vanced MicroG installed. Download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). Or you can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest).
 
-**b)** There was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#7** if this occured. (Remember to not use a YTM version newer than `6.17.52`.)
+**b)** There was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#7** if this occured.
 
 **c)** The email you are signing in with has parental control restrictions.
