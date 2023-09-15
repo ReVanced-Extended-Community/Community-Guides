@@ -9,5 +9,3 @@ If you know of a guide that should be added, please open an issue or pull reques
 - [YouTube](https://github.com/ReVanced-Extended-Community/Community-Guides/tree/main/youtube)
   - [Guide for Beginners](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/youtube/guide-for-beginners.md)
 - [YT Music](https://github.com/ReVanced-Extended-Community/Community-Guides/tree/main/yt-music)
-- [Reddit](https://github.com/ReVanced-Extended-Community/Community-Guides/tree/main/reddit)
-- [MicroG](https://github.com/ReVanced-Extended-Community/Community-Guides/tree/main/microg)
