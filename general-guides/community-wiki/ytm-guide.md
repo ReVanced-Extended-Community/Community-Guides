@@ -3,7 +3,7 @@
 
 ### **Things To Know Before You Begin**
 
-**a)** This guide will use the RVX Manager method. Check the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on the other patching methods.
+**a)** This guide will use the non-root RVX Manager method. Check the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on root installs and the other patching methods.
 
 **b)** There is a [YTM troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) which you should check if you get stuck at any point during this tutorial.
 
@@ -14,9 +14,7 @@
 
 **a)** Your device must be running Android 8 or newer.
 
-**b)** Your device must be non-rooted. If it is rooted, look at the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for a rooted guide.
-
-**c)** Your device must use the arm64-v8a architecture. (If you aren't sure what yours is, you will find out soon enough in the tutorial. If it is not arm64-v8a (ie: armeabi-v7a), refer to the [YTM troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for instructions.)
+**b)** Your device must use the arm64-v8a architecture. (If you aren't sure what yours is, you will find out soon enough in the tutorial. If it is not arm64-v8a (ie: armeabi-v7a), refer to the [YTM troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for instructions.)
 
 
 
@@ -164,7 +162,7 @@ If you uninstall the RVX Manager or clear the app data, the keystore file will b
 
 
 
-#### **Exporting The Settings**
+#### **Exporting / Importing The Settings**
 
 If you need or want to uninstall the old YTM Extended APK and install the new APK as a fresh install, you can still export the settings from the old YT ReVanced Extended app and then import them into the new app so that you won't need to reconfigure all of your settings.
 

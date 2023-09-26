@@ -185,7 +185,7 @@ Open the RVX Manager > Patcher > Select an application > Storage > Select the **
 
 Now check what it says the package name is near the top (in parenthesis). Check if the package name starts with "app.rvx" like in [this image](https://imgur.com/a/TUBgLLt). If it says something else, then you'll need to patch again, (using an unpatched APK of the suggested version,) and apply the `MicroG Support` patch this time.
 
-**c)** You are installing a patched YT ReVanced Extended APK that is an older version than the YT ReVanced Extended that is currently installed. Uninstall YT ReVanced Extended before installing the older version. Refer to the Exporting The Settings section in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_exporting_the_settings) for info on how to backup your settings from the installed YT ReVanced Extended so that you won't lose it all when you uninstall it.
+**c)** You are installing a patched YT ReVanced Extended APK that is an older version than the YT ReVanced Extended that is currently installed. Uninstall YT ReVanced Extended before installing the older version. Refer to the "Exporting / Importing The Settings" section in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_exporting_the_settings) for info on how to backup your settings from the installed YT ReVanced Extended so that you won't lose it all when you uninstall it.
 
 **d)** You are installing an older version of Vanced MicroG than the one you already have installed. To uninstall the one you currently have installed, open your device Settings > Apps > Vanced MicroG > Uninstall.
 
