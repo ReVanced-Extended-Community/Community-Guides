@@ -131,11 +131,11 @@ If this does not work you can use an [old version of Vanced Music](https://www.a
 
 **a)** You need to have included the `Hook Download Button` patch when you patched the app.
 
-**b)** Open YTM Extended. Tap on the profile picture > Settings > ReVanced Extended > Button Container > Hook download button, **On**. Fully close and restart the app.
+**b)** Open YTM Extended. Tap on the profile picture > Settings > ReVanced Extended > Action Bar > Hook download button, **On**. Fully close and restart the app.
 
-Now when you press the Download button it will attempt to open [Seal](https://github.com/JunkFood02/Seal/releases/latest) to download the media. You can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several other downloaders you can use. (Keep in mind that PowerTube is no longer functioning for YT Music downloads.)
+Now when you press the Download button it will attempt to open [YTDLnis](https://github.com/deniscerri/ytdlnis/releases/latest) to download the media. You can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several other downloaders you can use. (Keep in mind that PowerTube is no longer functioning for YT Music downloads.)
 
-If you want to use a downloader other than Seal, install the downloader and open YTM Extended and navigate to Settings > ReVanced Extended > Button Container > External downloader package name. Then enter the package name of the downloader and then restart the app.
+If you want to use a downloader other than YTDLnis, install the downloader and open YTM Extended and navigate to Settings > ReVanced Extended > Action Bar > External downloader package name. Then enter the package name of the downloader and restart the app.
 
 
 
