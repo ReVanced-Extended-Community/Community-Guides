@@ -111,7 +111,7 @@ Make sure you are using the latest [RVX Manager](https://github.com/inotia00/rev
 
 **b)**  Install the YouTube APK that you downloaded while following step 1 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_apk).
 
-**c)** Open the RVX Manager > Select an application > **YouTube**.
+**c)** Open the RVX Manager > Patcher > Select an application > **YouTube**.
 
 Continue from the middle of step 2 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_2._patching_the_apk).
 

@@ -69,15 +69,13 @@ If you want to patch on PC, follow the instructions for the desired method in th
 
 
 
-#### **7. Nothing happens when I select the YT APK from storage**
+#### **7. Nothing happens when I select the YT Music APK from storage**
 
 Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest). If you already are using the correct version, continue with the following steps:
 
-**a)** Uninstall the stock YouTube app. If your device doesn't allow you to uninstall it then go to the App info of stock YouTube > Options menu (as shown in [this image](https://imgur.com/a/0js3AZR)) > Uninstall updates.
+**a)** Uninstall the vanilla YT Music app. Install the YT Music APK that you downloaded while following step 1 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_apk).
 
-**b)**  Install the YouTube APK that you downloaded while following step 1 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_apk).
-
-**c)** Open the RVX Manager > Select an application > **YouTube**.
+**b)** Open the RVX Manager > Patcher > Select an application > **YT Music**.
 
 Continue from the middle of step 2 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_2._patching_the_apk).
 
