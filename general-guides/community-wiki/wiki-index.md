@@ -1,14 +1,10 @@
-[YouTube ReVanced Extended Installation Guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide)
-
-[YT Music ReVanced Extended Installation Guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/)
+[Installation Guides](https://www.reddit.com/r/revancedextended/wiki/guide/)
 
 [Troubleshooting](https://www.reddit.com/r/revancedextended/wiki/troubleshooting)
 
 [Frequently Asked Questions](https://www.reddit.com/r/revancedextended/wiki/faq)
 
 [inotia00's GitHub](https://github.com/inotia00)
-
-[GitHub Documentation](https://github.com/inotia00/revanced-documentation/wiki)
 
 [Patch Documentation With Screenshots](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation)
 
