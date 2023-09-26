@@ -72,11 +72,7 @@ You may get a pop-up saying that the installation was blocked because it is an u
 
 Aside from the detailed setup instructions below that are for the more complex configurations, many settings / patches can be enabled/disabled in the YT ReVanced Extended app.
 
-To find the ReVanced Extended settings, open YT ReVanced Extended > Profile picture > Settings > ReVanced Extended.
-
-To find the SponsorBlock settings: Profile picture > Settings > SponsorBlock.
-
-To find the Return YouTube Dislike settings: Profile picture > Settings > Return YouTube Dislike.
+To find these settings, open YT Music Extended > Profile picture > Settings. From there you can configure the ReVanced Extended, Return YouTube Dislike, and SponsorBlock settings (if you include the necessary patches).
 
 You can see what all of the settings do [here](https://kazimmt.github.io/RVX-Features/rvx-features/yt-rvx-features/).
 

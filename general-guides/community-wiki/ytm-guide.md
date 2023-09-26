@@ -71,7 +71,9 @@ You may get a pop-up saying that the installation was blocked because it is an u
 
 # **4. Additional Setup**
 
-Aside from the detailed setup instructions below that are for the more complex configurations, many settings / patches can be enabled/disabled in the YTM Extended app. To find these settings, open YT Music Extended > Profile picture > Settings > ReVanced Extended.
+Aside from the detailed setup instructions below that are for the more complex configurations, many settings / patches can be enabled/disabled in the YTM Extended app. 
+
+To find these settings, open YT Music Extended > Profile picture > Settings. From there you can configure the ReVanced Extended, Return YouTube Dislike, and SponsorBlock settings (if you include the necessary patches).
 
 You can see what all of the settings do [here](https://kazimmt.github.io/RVX-Features/rvx-features/ytm-rvx-features/).
 
