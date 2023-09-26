@@ -135,17 +135,15 @@ If you uninstall the RVX Manager or clear the app data, the keystore file will b
 
 If you need or want to uninstall the old YT ReVanced Extended APK and install the new APK as a fresh install, you can still export the settings from the old YT ReVanced Extended app and then import that file into the new app so that you won't need to reconfigure all of your settings.
 
-To do this, open the old YT ReVanced Extended app and tap on the profile picture > Settings > ReVanced Extended > Miscellaneous > Import/Export settings > Export settings > Save.
+To do this, open the old YT ReVanced Extended app > Profile picture > Settings > ReVanced Extended > Miscellaneous > Import/Export settings > Export settings > Save.
 
-You'll probably also want to export the SponsorBlock settings as well. Tap on the profile picture > Settings > SponsorBlock > Import/Export settings. Now copy all of the text and save it until you are ready to paste it into the new YT ReVanced Extended app.
-
-You can now uninstall the old YT ReVanced Extended app.
+You'll probably also want to export the SponsorBlock settings as well. Tap on the profile picture > Settings > SponsorBlock > Import/Export settings. Now use the copy button or manually copy all of the text and save it until you are ready to paste it into the new YT ReVanced Extended app.
 
 After installing the new YT ReVanced Extended app, open it and tap on the profile picture > Settings > ReVanced Extended > Miscellaneous > Import/Export settings > Import settings. Now select the settings file that you exported from the old app.
 
 Now for the SponsorBlock settings. Tap on the profile picture > Settings > SponsorBlock > Import/Export settings. Now remove all of the text and paste in the text that you copied from the SponsorBlock settings in the old app.
 
-The built-in YouTube settings will still need to be configured, as well as any settings for features that your old app didn't have.
+The standard YouTube and Return YouTube Dislike settings will still need to be configured, as well as any settings for features that your old app didn't have.
 
 
 
