@@ -37,26 +37,12 @@ Refer to step 4 of the [YT guide](https://www.reddit.com/r/revancedextended/wiki
 
 Make sure your YT ReVanced Extended is up-to-date.
 
-If buffering persists, open YT ReVanced Extended and tap the profile picture > Settings > ReVanced Extended > Miscellaneous > Spoof player parameter, **On**. Restart the app.
+If buffering persists, open YT ReVanced Extended and tap the profile picture > Settings > ReVanced Extended > Miscellaneous > Spoof player parameter, **On**. Restart the app. 
 
 
 
 
-#### **5. Videos I didn't watch are being saved to my Watch history**
-
-Disable playback in feeds to avoid this. Tap the profile picture > Settings > General > Playback in feeds, **Off**. 
-
-
-
-
-#### **6. Seekbar previews are hidden**
-
-This is a side-effect of the player parameter spoof. If you disable the player parameter spoof videos will likely buffer infinitely.
-
-
-
-
-#### **7. YouTube Shorts are/aren't hidden**
+#### **5. YouTube Shorts are/aren't hidden**
 
 **To hide/unhide Shorts in feeds:**
 
@@ -69,7 +55,7 @@ Go to Settings > ReVanced Extended > Navigation > Hide shorts button, **On/Off**
 
 
 
-#### **8. The player UI doesn't go away**
+#### **6. The player UI doesn't go away**
 
 **a)** Make sure you don't have it set to never go away in the Accessibility settings. To check, navigate to Settings > Accessibility. Either disable accessibility settings or lower the timer so that it goes away sooner.
 
@@ -78,14 +64,14 @@ Go to Settings > ReVanced Extended > Navigation > Hide shorts button, **On/Off**
 
 
 
-#### **9. SponsorBlock is not working**
+#### **7. SponsorBlock is not working**
 
 This likely means that the SponsorBlock servers are down. You can check the server status [here](https://status.sponsor.ajay.app/).
 
 
 
 
-#### **10. Watch history isn't being saved**
+#### **8. Watch history isn't being saved**
 
 Whitelist `s.youtube.com` in your ad-blocker.
 
@@ -99,13 +85,35 @@ Whitelist `s.youtube.com` in your ad-blocker.
 # **Issues With Patching & Installation**
 
 
-#### **11. My device is not supported**
+#### **9. My device is not supported**
 
 You'll need to patch on a different Android device or on PC.
 
 If you patch with the RVX Manager on a different device make sure to export the patched APK so that you can send it to the device you plan to install it on. To export the APK, tap the save icon when patching is completed as shown in [this image](https://imgur.com/a/FKD0okE). Then press "Save".
 
 If you want to patch on PC, follow the instructions for the desired method in the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation).
+
+
+
+
+#### **10. "Feature not implemented: This application is a split APK and cannot be selected."**
+
+On non-root devices you must use a full (non-bundle) APK when patching. Refer to steps 1 and 2 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_apk) to download and select the full APK from storage.
+
+
+
+
+#### **11. Nothing happens when I select the YT APK from storage**
+
+Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest). If you already are using the correct version, continue with the following steps:
+
+**a)** Uninstall the stock YouTube app. If your device doesn't allow you to uninstall it then go to the App info of stock YouTube > Options menu (as shown in [this image](https://imgur.com/a/0js3AZR)) > Uninstall updates.
+
+**b)**  Install the YouTube APK that you downloaded while following step 1 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_apk).
+
+**c)** Open the RVX Manager > Select an application > **YouTube**.
+
+Continue from the middle of step 2 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_2._patching_the_apk).
 
 
 
