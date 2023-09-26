@@ -1,9 +1,9 @@
 **What are you looking for?**
 
-[YouTube ReVanced Extended guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/)
+[Beginner YouTube ReVanced Extended guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners/)
 
-[Alternative YouTube ReVanced Extended guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners/)
+[In-depth YouTube ReVanced Extended guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-guide.md)
 
-[YT Music ReVanced Extended guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/)
+[YT Music ReVanced Extended guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-guide.md)
 
-[The guides on GitHub](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation)
+[inotia00's general guides](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation)
