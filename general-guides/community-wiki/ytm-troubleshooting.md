@@ -68,7 +68,22 @@ If you want to patch on PC, follow the instructions for the desired method in th
 
 
 
-#### **7. Patcher is aborting / failing to apply patches**
+
+#### **7. Nothing happens when I select the YT APK from storage**
+
+Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest). If you already are using the correct version, continue with the following steps:
+
+**a)** Uninstall the stock YouTube app. If your device doesn't allow you to uninstall it then go to the App info of stock YouTube > Options menu (as shown in [this image](https://imgur.com/a/0js3AZR)) > Uninstall updates.
+
+**b)**  Install the YouTube APK that you downloaded while following step 1 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_apk).
+
+**c)** Open the RVX Manager > Select an application > **YouTube**.
+
+Continue from the middle of step 2 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_2._patching_the_apk).
+
+
+
+#### **8. Patcher is aborting / failing to apply patches**
 
 **a)** Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
@@ -87,14 +102,14 @@ If you want to patch on PC, follow the instructions for the desired method in th
 
 
 
-#### **8. "Error: Non-root install is not possible with the current patches selection."**
+#### **9. "Error: Non-root install is not possible with the current patches selection."**
 
 Patch again and include the `MicroG Support` patch.
 
 
 
 
-#### **9. "App not installed."**
+#### **10. "App not installed."**
 
 **a)** If there was a Google Play Protect pop-up when trying to install it then you must press **"More details"** and then tap the **"Install anyway"** button. If you press the "Got it" button it will not install. [Here](https://imgur.com/a/Ck8nfhn) is an image demonstrating this.
 
@@ -107,7 +122,7 @@ Patch again and include the `MicroG Support` patch.
 
 
 
-#### **10. "App not installed as package conflicts with an existing package."**
+#### **11. "App not installed as package conflicts with an existing package."**
 
 **a)** Uninstall the YT Music Extended app that is already on your device before trying again. Make sure it is not installed in an alternate user profile or private folder that your device features.
 
@@ -120,7 +135,7 @@ Now check what it says the package name is near the top (in parenthesis). Make s
 
 
 
-#### **11. "App not installed as package appears to be invalid."**
+#### **12. "App not installed as package appears to be invalid."**
 
 This error most often means that you are trying to install an app that is an older version than the already installed version. Android doesn't allow app downgrading. In the context of installing YTM Extended, here are some possible scenarios and solutions:
 
@@ -139,19 +154,19 @@ Now check what it says the package name is near the top (in parenthesis). Make s
 
 
 
-#### **12. "App not installed as app isn't compatible with your device"**
+#### **13. "App not installed as app isn't compatible with your device"**
 
 The YT Music you patched APK doesn't match your device's architecture. Refer to step 1 in the [YTM guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_music_apk) for info on downloading the correct APK/app.
 
 
 
 
-#### **13. App crashes on startup**
+#### **14. App crashes on startup**
 
 3 common causes:
 
 **a)** You do not have Vanced MicroG installed. Download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). Or you can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest).
 
-**b)** There was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#7** if this occured.
+**b)** There was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#8** if this occured.
 
 **c)** The email you are signing in with has parental control restrictions.
