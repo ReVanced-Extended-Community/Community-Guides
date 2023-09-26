@@ -6,13 +6,13 @@
 
 [ReVanced](https://revanced.app/) is a free modular patcher for Android apps such as YouTube. It can be used to create applications that have extra features and customizability, similar to how a browser extension works, but for an app.
 
-ReVanced Extended is a derivative project of ReVanced of just patches made for YouTube, YT Music, and Reddit. ReVanced Extended has some extra features on top of what ReVanced offers and is developed independently by inotia00. ReVanced Extended is not affiliated with ReVanced.
+ReVanced Extended is a derivative project of ReVanced mainly of just patches made for YouTube, YT Music, and Reddit. ReVanced Extended patches have some extra features on top of what ReVanced offers and is developed independently by inotia00. ReVanced Extended is not affiliated with ReVanced.
 
 
 
 ##### **2. Is ReVanced Extended discontinued?**
 
-inotia00 announced on August 5th that the project was being discontinued. However, on September 5th he made a return and said he will be doing bug fixes for YT ReVanced Extended and adding features and fixes for YTM Extended. You can read his August 5th announcement [here](https://github.com/inotia00/revanced-documentation/wiki/Announcement). 
+inotia00 announced on August 5th that the project was being discontinued. However, on September 5th he made a return and said he will be doing bug fixes for YT ReVanced Extended and adding features and fixes for YTM Extended.
 
 
 
@@ -24,13 +24,13 @@ Yes. MicroG, official patching tools, and the patches are all open-source. You c
 
 ##### **4. How do I get ReVanced Extended?**
 
-For YT ReVanced Extended you can follow either the [pinned guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners/) or the [wiki guide](https://www.reddit.com/r/revancedextended/wiki/guide/). There is also a YT Music Extended guide in the wiki. You can also find guides on [inotia00's GitHub](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation).
+Refer to the [index of guides](https://www.reddit.com/r/revancedextended/wiki/guide/).
 
 
 
 ##### **5. Is revancedextended.com or revanced.io legitimate?**
 
-No. All sites that distribute pre-patched / ready-to-use ReVanced Extended APKs are unofficial and unsafe. If you signed-in to Google using an APK from revancedextended.com, revanced.io, or any similar site, you should change your password and remove any devices that are signed in.
+No. All sites that distribute pre-patched / ready-to-use ReVanced Extended APKs are unofficial. If you signed-in to Google using an APK from revancedextended.com, revanced.io, or any similar site, we recommend that you change your password and remove any devices that are signed in.
 
 
 
@@ -42,7 +42,7 @@ Due to legal reasons, ReVanced Extended cannot be directly distributed. Anyone d
 
 ##### **7. What features are different between ReVanced Extended and ReVanced?**
 
-The best way to answer this is by installing ReVanced Extended and comparing it to ReVanced. However, you can check what all of the patches do on [this page](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation). Or you can check what the all of the toggles in YouTube and YT Music Extended do on [this page](https://kazimmt.github.io/RVX-Features/). Alternateively, you can compare the list of patches between the [ReVanced Extended GitHub](https://github.com/inotia00/revanced-patches/tree/revanced-extended#readme) and the [ReVanced site](https://revanced.app/patches?pkg=com.google.android.youtube), but keep in mind that some patches can contain several features and options within, so just looking at the patches doesn't tell the full story.
+The best way to answer this is by installing ReVanced Extended and comparing it to ReVanced. However, you can check what all of the patches do on [this page](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation). Or you can check what the all of the toggles in YouTube and YT Music Extended do on [this page](https://kazimmt.github.io/RVX-Features/). Alternateively, you can compare the list of patches between the [ReVanced Extended GitHub](https://github.com/inotia00/revanced-patches/tree/revanced-extended#readme) and the [ReVanced site](https://revanced.app/patches), but keep in mind that some patches can contain several features and options within, so just looking at the patches list doesn't tell the full story.
 
 
 
@@ -54,7 +54,7 @@ If you patch with the non-root method, YT ReVanced Extended and YTM Extended wil
 
 ##### **9. How do I update ReVanced Extended?**
 
-Refer to the "Updating ReVanced Extended" section in the [YT ReVanced Extended installation guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_updating_revanced_extended) or in the [YTM Extended installation guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/#wiki_updating_revanced_extended) for info on updating your ReVanced Extended app.
+Generally, you update by patching the currently suggested version of the app you want to patch and then install it on top of the existing ReVanced Extended app as an update. You can refer to the "Updating ReVanced Extended" section in the [YT ReVanced Extended community guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-guide.md#updating-revanced-extended) or in the [YTM Extended community guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-guide.md#updating-revanced-extended) for in-depth info.
 
 
 
