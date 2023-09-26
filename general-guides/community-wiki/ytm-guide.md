@@ -33,7 +33,6 @@
 
 
 
-
 ### **2. Patching The APK**
 
 Open the RVX Manager and press Patcher > Select an application > **STORAGE** > and then select the YTM APK file that you downloaded from APKMirror. (It will probably be in your downloads folder.)
