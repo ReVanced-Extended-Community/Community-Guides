@@ -32,7 +32,7 @@
 
 
 
-* This guide is for non-rooted devices.
+* This guide is for non-root installs.
 
 
 
@@ -40,7 +40,7 @@
 
 
 
-* Check the [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) if you get stuck during this guide.
+* Check this [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) if you get stuck during this guide.
 
 
 
@@ -74,7 +74,7 @@
 
 
 
-(If you get an error saying *"App not installed as app isn't compatible with your device."* or *"App not installed."*, it likely means that your device is not supported by the RVX Manager. Refer to the [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for further instructions.)
+(If you get an error saying *"App not installed as app isn't compatible with your device."* it means that your device is not supported by the RVX Manager. Refer to this [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for instructions.)
 
 
 
@@ -125,7 +125,7 @@ Wait for the patching to be complete. It usually takes 2-5 minutes. Do not leave
 
 
 
-When patching is finished you can save the APK as a file so that you have it for later in case you have trouble installing it or want to share it. To do this, tap the three dots in the upper right corner of the screen and then press "Export APK" as shown in [this image](https://imgur.com/a/JqmfzAj).
+When patching is finished you can save the APK as a file so that you have it for later in case you have trouble installing it or want to share it. To do this, tap save icon in the lower left corner of the screen as shown [here](https://imgur.com/a/FKD0okE).
 
 
 
@@ -165,16 +165,16 @@ ___
 
 
 
-Check the [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/#wiki_issues_with_patching_.26amp.3B_installation) for help with patching and installation.
+Check this [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for help with patching and installation.
 
 
 
-Read the [YT ReVanced Extended wiki guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/) for info on setting up a downloader.
+Read the "Downloader Setup" section in the [YT ReVanced Extended community guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-guide.md#downloader-setup) for info on setting up a downloader.
 
 
 
-Check out [this repository](https://github.com/kazimmt/RVX-Features#youtube-revanced-extended-features) to see what all of the YT ReVanced Extended settings do!
+Check out [this site](https://kazimmt.github.io/RVX-Features/rvx-features/yt-rvx-features/) to see what all of the YT ReVanced Extended settings do!
 
 
 
-Read the [YTM ReVanced Extended wiki guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/) if you want to install YTM Extended.
+Check out the [YTM ReVanced Extended community guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-guide.md) if you want to install YT Music Extended.

@@ -3,7 +3,7 @@
 * This guide is for patching YouTube.
 
 
-* This guide is for non-rooted devices.
+* This guide is for non-root installs.
 
 
 * This guide will use the RVX Manager patching method. Check the [documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on the other patching methods.
@@ -19,7 +19,7 @@ ___
 * Your device must use the arm64-v8a architecture.
 
 
-##### **Downloading MicroG, YouTube APK, &amp; the RVX Manager:**
+##### **Downloading MicroG, YouTube APK, & the RVX Manager:**
 
 
 
@@ -35,7 +35,7 @@ ___
 
 
 
-(*If you get an error saying* "App not installed as app isn't compatible with your device." *or* "App not installed.", *it likely means that your device is not supported by the RVX Manager.
+(*If you get an error saying* "App not installed as app isn't compatible with your device." *it means that your device is not supported by the RVX Manager.*)
 
 
 ### **2. Patching**
@@ -81,7 +81,7 @@ Wait for the patching to be complete. It usually takes 2-5 minutes. Do not leave
 
 
 
-When patching is finished you can save the APK as a file so that you have it for later in case you have trouble installing it or want to share it. To do this, tap the three dots in the upper right corner of the screen and then press "Export APK" as shown in [this image](https://imgur.com/a/JqmfzAj).
+When patching is finished you can save the APK as a file so that you have it for later in case you have trouble installing it or want to share it. To do this, tap save icon in the lower left corner of the screen as shown [here](https://imgur.com/a/FKD0okE).
 
 
 
