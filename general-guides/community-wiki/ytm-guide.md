@@ -1,7 +1,7 @@
 # **YT Music ReVanced Extended Guide**
 
 
-### **Things To Know Before You Begin**
+## **Things To Know Before You Begin**
 
 **a)** This guide will use the non-root RVX Manager method. Check the [GitHub documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on root installs and the other patching methods.
 
@@ -10,7 +10,7 @@
 
 
 
-### **Requirements**
+## **Requirements**
 
 **a)** Your device must be running Android 8 or newer.
 
@@ -18,7 +18,7 @@
 
 
 
-### **1. Downloading RVX Manager, YT Music APK, & Vanced MicroG**
+## **1. Downloading RVX Manager, YT Music APK, & Vanced MicroG**
 
 **a)** Download and install the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
@@ -33,7 +33,7 @@
 
 
 
-### **2. Patching The APK**
+## **2. Patching The APK**
 
 Open the RVX Manager and press Patcher > Select an application > **STORAGE** > and then select the YTM APK file that you downloaded from APKMirror. (It will probably be in your downloads folder.)
 
@@ -47,7 +47,7 @@ If you decide not to use the default selection, keep the following things in min
 
 **b)** You can select which custom branding icon you want to use, but make sure to only select one custom branding icon patch. You can view a preview of the 3 icons [here on Imgur](https://imgur.com/a/tjuLog1). You can exclude all custom branding icon patches to get the YT Music icon.
 
-**c)** If you are from Canada, include the `Spoof App Version` patch, which allows users to bypass the radio-only restriction that is in Canada and some other countries. Additional setup is in step 4 of the guide.
+**c)** If you are from Canada, include the `Spoof App Version` patch, which allows users to bypass the radio-only restriction that is in Canada. Additional setup is in step 4 of the guide.
 
 
 When you are done selecting the patches that you want, press "Done" and then "Patch". Patching generally takes 2-5 minutes. If you leave the app it may cancel without warning. Take screenshots of any errors / failures that occur to make troubleshooting easier.
@@ -55,7 +55,7 @@ When you are done selecting the patches that you want, press "Done" and then "Pa
 
 
 
-### **3. Installation**
+## **3. Installation**
 
 When patching is finished I do not recommend using the "Install" button in the Manager. Instead, export the APK by tapping the save icon as shown in [this image](https://imgur.com/a/FKD0okE). Save it, and then install the exported APK from your file manager.
 
@@ -77,7 +77,7 @@ You can see what all of the settings do [here](https://kazimmt.github.io/RVX-Fea
 
 
 
-#### **Open Links By Default**
+### **Open Links By Default**
 
 Follow these steps so that when you open a YouTube Music link it will open in the YTM Extended app instead of the official YouTube Music app.
 
@@ -92,7 +92,7 @@ Follow these steps so that when you open a YouTube Music link it will open in th
 
 
 
-#### **Android Auto Setup**
+### **Android Auto Setup**
 
 **Note:** From my experience and from what I heard, the YTM Extended home screen will not load on Android Auto. But you can start a song, playlist, or album from the app on your phone/tablet and you can then control it from Android Auto.
 
@@ -113,7 +113,7 @@ Here's how to set it up:
 
 
 
-#### **Spoof App Version Setup (for Canadian users)**
+### **Spoof App Version Setup (for Canadian users)**
 
 **a)** You need to have included the `Spoof App Version` patch when you patched the app.
 
@@ -126,7 +126,7 @@ If this does not work you can use an [old version of Vanced Music](https://www.a
 
 
 
-#### **Downloader Setup**
+### **Downloader Setup**
 
 **a)** You need to have included the `Hook Download Button` patch when you patched the app.
 
@@ -152,7 +152,7 @@ Normally, you do not need to uninstall your old YTM Extended app before installi
 
 
 
-#### **Keystore Info**
+### **Keystore Info**
 
 The keystore is a file that the RVX Manager (and any other ReVanced patcher) uses to sign the patched APK. If the new YT ReVanced Extended APK was signed with the same keystore as the old YT ReVanced Extended APK then you will be able to install it as an update to the old YT ReVanced Extended.
 
@@ -161,7 +161,7 @@ If you uninstall the RVX Manager or clear the app data, the keystore file will b
 
 
 
-#### **Exporting / Importing The Settings**
+### **Exporting / Importing The Settings**
 
 If you need or want to uninstall the old YTM Extended APK and install the new APK as a fresh install, you can still export the settings from the old YT ReVanced Extended app and then import them into the new app so that you won't need to reconfigure all of your settings.
 
@@ -171,7 +171,7 @@ After installing the new YT ReVanced Extended app, open it and tap on the profil
 
 
 
-## **More Info/Troubleshooting**
+# **More Info/Troubleshooting**
 
 Check the [YTM troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/ytm-troubleshooting/) for troubleshooting help.
 

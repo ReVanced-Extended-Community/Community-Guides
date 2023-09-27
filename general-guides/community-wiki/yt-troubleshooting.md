@@ -8,7 +8,7 @@
 
 
 
-#### **1. No internet connection / The home page isn't loading**
+### **1. No internet connection / The home page isn't loading**
 
 Navigate to your device settings > Accounts > Manage accounts > Vanced MicroG > Remove account. You can sign in again if you want.
 
@@ -17,7 +17,7 @@ If that doesn't work you can try to uninstall Vanced MicroG and reinstall [Vance
 
 
 
-#### **2. I'm having issues signing in to my Google account**
+### **2. I'm having issues signing in to my Google account**
 
 Navigate to your device settings > Accounts > Manage accounts > Vanced MicroG > Remove account. You can sign in again if you want.
 
@@ -26,14 +26,14 @@ If that doesn't work you can try to uninstall Vanced MicroG and reinstall [Vance
 
 
 
-#### **3. The download feature isn't working**
+### **3. The download feature isn't working**
 
 Refer to step 4 of the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_downloader_setup) to understand and set up the download function in YT ReVanced Extended.
 
 
 
 
-#### **4. Videos stop and buffer infinitely**
+### **4. Videos stop and buffer infinitely**
 
 Make sure your YT ReVanced Extended is up-to-date.
 
@@ -42,7 +42,7 @@ If buffering persists, open YT ReVanced Extended and tap the profile picture > S
 
 
 
-#### **5. YouTube Shorts are/aren't hidden**
+### **5. YouTube Shorts are/aren't hidden**
 
 **To hide/unhide Shorts in feeds:**
 
@@ -55,7 +55,7 @@ Go to Settings > ReVanced Extended > Navigation > Hide shorts button, **On/Off**
 
 
 
-#### **6. The player UI doesn't go away**
+### **6. The player UI doesn't go away**
 
 **a)** Make sure you don't have it set to never go away in the Accessibility settings. To check, navigate to Settings > Accessibility. Either disable accessibility settings or lower the timer so that it goes away sooner.
 
@@ -64,14 +64,14 @@ Go to Settings > ReVanced Extended > Navigation > Hide shorts button, **On/Off**
 
 
 
-#### **7. SponsorBlock is not working**
+### **7. SponsorBlock is not working**
 
 This likely means that the SponsorBlock servers are down. You can check the server status [here](https://status.sponsor.ajay.app/).
 
 
 
 
-#### **8. Watch history isn't being saved**
+### **8. Watch history isn't being saved**
 
 Whitelist `s.youtube.com` in your ad-blocker.
 
@@ -85,7 +85,7 @@ Whitelist `s.youtube.com` in your ad-blocker.
 # **Issues With Patching & Installation**
 
 
-#### **9. My device is not supported**
+### **9. My device is not supported**
 
 You'll need to patch on a different Android device or on PC.
 
@@ -96,14 +96,14 @@ If you want to patch on PC, follow the instructions for the desired method in th
 
 
 
-#### **10. "Feature not implemented: This application is a split APK and cannot be selected."**
+### **10. "Feature not implemented: This application is a split APK and cannot be selected."**
 
 On non-root devices you must use a full (non-bundle) APK when patching. Refer to steps 1 and 2 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_apk) to download and select the full APK from storage.
 
 
 
 
-#### **11. Nothing happens when I select the YT APK from storage**
+### **11. Nothing happens when I select the YT APK from storage**
 
 Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest). If you already are using the correct version, continue with the following steps:
 
@@ -118,14 +118,14 @@ Continue from the middle of step 2 in the [YT guide](https://www.reddit.com/r/re
 
 
 
-#### **12. "Error: Patch is not supported for this app version."**
+### **12. "Error: Patch is not supported for this app version."**
 
 Download an APK of the recommended/suggested version and patch that from storage. Refer to steps 1 and 2 in the [YT guide](https://www.reddit.com/r/revancedextended/wiki/yt-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_apk).
 
 
 
 
-#### **13. Patcher is Aborting / failing to apply patches**
+### **13. Patcher is Aborting / failing to apply patches**
 
 **a)** Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
@@ -142,14 +142,14 @@ If you want to patch on PC, follow the instructions for the desired method in th
 
 
 
-#### **14. "Error: Non-root install is not possible with the current patches selection."**
+### **14. "Error: Non-root install is not possible with the current patches selection."**
 
 Patch again and include the `MicroG Support` patch.
 
 
 
 
-#### **15. "App not installed."**
+### **15. "App not installed."**
 
 **a)** If there was a Google Play Protect pop-up when trying to install it then you must press **"More details"** and then tap the **"Install anyway"** button. If you press the "Got it" button it will not install. [Here](https://imgur.com/a/Ck8nfhn) is an image demonstrating this.
 
@@ -160,7 +160,7 @@ Patch again and include the `MicroG Support` patch.
 
 
 
-#### **16. "App not installed as package conflicts with an existing package."**
+### **16. "App not installed as package conflicts with an existing package."**
 
 **a)** Uninstall the YT ReVanced Extended app that is already on your device before trying again. Make sure it is not installed in an alternate user profile or private folder that your device features.
 
@@ -173,7 +173,7 @@ Now check what it says the package name is near the top (in parenthesis). Check 
 
 
 
-#### **17. "App not installed as package appears to be invalid."**
+### **17. "App not installed as package appears to be invalid."**
 
 This error most often means that you are trying to install an app that is an older version than the already installed version. Android doesn't allow app downgrading. In the context of installing YT ReVanced Extended, here are some possible scenarios and solutions:
 
@@ -192,6 +192,6 @@ Now check what it says the package name is near the top (in parenthesis). Check 
 
 
 
-#### **18. App crashes on startup**
+### **18. App crashes on startup**
 
 What most likely happened was there was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#13** if this happened.

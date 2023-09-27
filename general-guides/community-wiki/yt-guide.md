@@ -2,7 +2,7 @@
 
 
 
-### **Things To Know Before You Begin** 
+## **Things To Know Before You Begin** 
 
 **a)** Check out the [Frequently Asked Questions](https://www.reddit.com/r/revancedextended/wiki/faq/).
 
@@ -13,7 +13,7 @@
 
 
 
-### **Requirements**
+## **Requirements**
 
 **a)** Your device must be running Android 8 or newer.
 
@@ -22,7 +22,7 @@
 
 
 
-### **1. Downloading RVX Manager, YT APK, & Vanced MicroG**
+## **1. Downloading RVX Manager, YT APK, & Vanced MicroG**
 
 **a)** Download and install the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
@@ -35,7 +35,7 @@
 
 
 
-### **2. Patching The APK**
+## **2. Patching The APK**
 
 Open the RVX Manager and press Patcher > Select an application > **STORAGE**, and then select the YouTube APK that you downloaded from APKMirror. (It will probably be in your downloads folder.)
 
@@ -55,7 +55,7 @@ When you are done selecting the patches you want, press "Done" and then "Patch".
 
 
 
-### **3. Installation**
+## **3. Installation**
 
 When patching is finished I do not recommend using the "Install" button in the Manager. Instead, export the APK by tapping the save icon as shown in [this image](https://imgur.com/a/FKD0okE). Save it, and then install the exported APK from your file manager.
 
@@ -76,7 +76,7 @@ You can see what all of the settings do [here](https://kazimmt.github.io/RVX-Fea
 
 
 
-#### **Open Links By Default**
+### **Open Links By Default**
 
 Follow these steps so that when you open a YouTube link it will open in the YT ReVanced Extended app instead of the official YouTube app.
 
@@ -91,7 +91,7 @@ Follow these steps so that when you open a YouTube link it will open in the YT R
 
 
 
-#### **Downloader Setup**
+### **Downloader Setup**
 
 There are three important things to know about downloading in YT ReVanced Extended.
 
@@ -120,7 +120,7 @@ Normally, you do not need to uninstall your old YT ReVanced Extended app before 
 
 
 
-#### **Keystore Info**
+### **Keystore Info**
 
 The keystore is a file that the RVX Manager (and any other ReVanced patcher) uses to sign the patched APK. If the new YT ReVanced Extended APK was signed with the same keystore as the old YT ReVanced Extended APK then you will be able to install it as an update to the old YT ReVanced Extended.
 
@@ -129,7 +129,7 @@ If you uninstall the RVX Manager or clear the app data, the keystore file will b
 
 
 
-#### **Exporting / Importing The Settings**
+### **Exporting / Importing The Settings**
 
 If you need or want to uninstall the old YT ReVanced Extended APK and install the new APK as a fresh install, you can still export the settings from the old YT ReVanced Extended app and then import that file into the new app so that you won't need to reconfigure all of your settings.
 
@@ -146,7 +146,7 @@ The standard YouTube and Return YouTube Dislike settings will still need to be c
 
 
 
-## **More Info/Troubleshooting**
+# **More Info/Troubleshooting**
 
 Check the [YT troubleshooting page](https://www.reddit.com/r/revancedextended/wiki/yt-troubleshooting/) for troubleshooting help.
 
