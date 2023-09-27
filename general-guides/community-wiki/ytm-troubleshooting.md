@@ -8,14 +8,14 @@
 
 
 
-#### **1. The download feature isn't working**
+### **1. The download feature isn't working**
 
 Refer to step 4 of the [YTM guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/#wiki_downloader_setup) to understand and set up the download function in YTM Extended.
 
 
 
 
-#### **2. I'm having issues signing in to my Google account**
+### **2. I'm having issues signing in to my Google account**
 
 Navigate to your device settings > Accounts > Manage accounts > Vanced MicroG > Remove account. You can sign in again if you want.
 
@@ -24,7 +24,7 @@ If that doesn't work you can try to uninstall Vanced MicroG and reinstall [Vance
 
 
 
-#### **3. No internet connection / The home page isn't loading**
+### **3. No internet connection / The home page isn't loading**
 
 Navigate to your device settings > Accounts > Manage accounts > Vanced MicroG > Remove account. You can sign in again if you want.
 
@@ -33,16 +33,16 @@ If that doesn't work you can try to uninstall Vanced MicroG and reinstall [Vance
 
 
 
-#### **4. Why can I only use the Radio feature?**
+### **4. Why can I only use the Radio feature?**
 
-Google has made it so that Canadian (and possibly other countries') users that do not have YT Premium can only use the Radio feature within YouTube Music.
+Google has made it so that Canadian users who do not have YT Premium can only use the Radio feature within YouTube Music.
 
 Refer to step 4 of the [YTM guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/#wiki_spoof_app_version_setup_.28for_canadian_users.29) to solve this.
 
 
 
 
-#### **5. How do I get YT Music ReVanced Extended on Android Auto?**
+### **5. How do I get YT Music ReVanced Extended on Android Auto?**
 
 Refer to step 4 of the [YTM guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/#wiki_android_auto_setup).
 
@@ -56,7 +56,7 @@ Refer to step 4 of the [YTM guide](https://www.reddit.com/r/revancedextended/wik
 
 
 
-#### **6. My device is not supported**
+### **6. My device is not supported**
 
 You'll need to patch on a different Android device or on PC.
 
@@ -69,7 +69,7 @@ If you want to patch on PC, follow the instructions for the desired method in th
 
 
 
-#### **7. Nothing happens when I select the YT Music APK from storage**
+### **7. Nothing happens when I select the YT Music APK from storage**
 
 Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest). If you already are using the correct version, continue with the following steps:
 
@@ -81,7 +81,7 @@ Continue from the middle of step 2 in the [YT guide](https://www.reddit.com/r/re
 
 
 
-#### **8. Patcher is aborting / failing to apply patches**
+### **8. Patcher is aborting / failing to apply patches**
 
 **a)** Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
@@ -100,14 +100,14 @@ If you want to patch on PC, follow the instructions for the desired method in th
 
 
 
-#### **9. "Error: Non-root install is not possible with the current patches selection."**
+### **9. "Error: Non-root install is not possible with the current patches selection."**
 
 Patch again and include the `MicroG Support` patch.
 
 
 
 
-#### **10. "App not installed."**
+### **10. "App not installed."**
 
 **a)** If there was a Google Play Protect pop-up when trying to install it then you must press **"More details"** and then tap the **"Install anyway"** button. If you press the "Got it" button it will not install. [Here](https://imgur.com/a/Ck8nfhn) is an image demonstrating this.
 
@@ -115,12 +115,12 @@ Patch again and include the `MicroG Support` patch.
 
 **c)** Uninstall the YT Music Extended app that is already on your device before trying again. Make sure it is not installed in an alternate user profile or private folder that your device features.
 
-**d)** If the error message was **"App not installed as app isn't compatible with your device."** refer to troubleshooting issue **#12**.
+**d)** If the error message was **"App not installed as app isn't compatible with your device."** refer to troubleshooting issue **#13**.
 
 
 
 
-#### **11. "App not installed as package conflicts with an existing package."**
+### **11. "App not installed as package conflicts with an existing package."**
 
 **a)** Uninstall the YT Music Extended app that is already on your device before trying again. Make sure it is not installed in an alternate user profile or private folder that your device features.
 
@@ -133,7 +133,7 @@ Now check what it says the package name is near the top (in parenthesis). Make s
 
 
 
-#### **12. "App not installed as package appears to be invalid."**
+### **12. "App not installed as package appears to be invalid."**
 
 This error most often means that you are trying to install an app that is an older version than the already installed version. Android doesn't allow app downgrading. In the context of installing YTM Extended, here are some possible scenarios and solutions:
 
@@ -152,19 +152,19 @@ Now check what it says the package name is near the top (in parenthesis). Make s
 
 
 
-#### **13. "App not installed as app isn't compatible with your device"**
+### **13. "App not installed as app isn't compatible with your device"**
 
 The YT Music you patched APK doesn't match your device's architecture. Refer to step 1 in the [YTM guide](https://www.reddit.com/r/revancedextended/wiki/ytm-guide/#wiki_1._downloading_vanced_microg.2C_rvx_manager.2C_.26amp.3B_yt_music_apk) for info on downloading the correct APK/app.
 
 
 
 
-#### **14. App crashes on startup**
+### **14. App crashes on startup**
 
 3 common causes:
 
 **a)** You do not have Vanced MicroG installed. Download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). Or you can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest).
 
-**b)** There was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#8** if this occured.
+**b)** There was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#8** if this occurred.
 
 **c)** The email you are signing in with has parental control restrictions.
