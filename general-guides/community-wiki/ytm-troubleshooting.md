@@ -89,7 +89,7 @@ Continue from the middle of step 2 in the [YT guide](https://github.com/ReVanced
 
 **c)** If your device's language was set to a language that reads right-to-left when the failure occurred then set your device's language to English or any language that reads left-to-right. Then fully close the Manager, and try again.
 
-* If it still doesn't work you can try searching the sub for your error. Alternatively, you can patch on a different device or use a different patching method.
+* If it still doesn't work you can try searching the subreddit for your error. Alternatively, you can patch on a different device or use a different patching method.
 
 If you patch on a different device or use a different patching method be sure to patch the APK variant that was built for the architecture of the device you plan to **install** the patched APK on. Refer to step 1 in the [YTM guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-guide.md#1-downloading-rvx-manager-yt-music-apk--vanced-microg) for info on downloading an APK for a specific architecture.
 
