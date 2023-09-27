@@ -356,4 +356,4 @@ Check out [this site](https://kazimmt.github.io/RVX-Features/rvx-features/yt-rvx
 
 
 
-Check out the [YTM ReVanced Extended community guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-guide.md) if you want to install YT Music Extended.
+Check out the [YTM ReVanced Extended community guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-guide.md#yt-music-revanced-extended-guide) if you want to install YT Music Extended.
