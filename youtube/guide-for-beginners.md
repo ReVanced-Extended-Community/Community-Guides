@@ -32,7 +32,7 @@
 
 
 
-**Last updated by /u/SpacellaryUS on 29/September/2023.**
+**Last updated by /u/SpacellaryUS on 02/October/2023.**
 
 
 
@@ -134,7 +134,7 @@
 
 
 
-**b)** Download, BUT DO NOT INSTALL the **YouTube** `v18.32.39` (`nodpi`) APK from [APKMirror here](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-32-39-release/youtube-18-32-39-android-apk-download/).
+**b)** Download, BUT DO NOT INSTALL the **YouTube** `v18.33.40` (`nodpi`) APK from [APKMirror here](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-33-40-release/youtube-18-33-40-android-apk-download/).
 
 
 
