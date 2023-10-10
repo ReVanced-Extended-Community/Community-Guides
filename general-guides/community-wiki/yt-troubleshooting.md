@@ -142,14 +142,7 @@ If you want to patch on PC, follow the instructions for the desired method in [i
 
 
 
-### **14. "Error: Non-root install is not possible with the current patches selection."**
-
-Patch again and include the `MicroG Support` patch.
-
-
-
-
-### **15. "App not installed."**
+### **14. "App not installed."**
 
 **a)** If there was a Google Play Protect pop-up when trying to install it then you must press **"More details"** and then tap the **"Install anyway"** button. If you press the "Got it" button it will not install. [Here](https://imgur.com/a/Ck8nfhn) is an image demonstrating this.
 
@@ -160,30 +153,22 @@ Patch again and include the `MicroG Support` patch.
 
 
 
-### **16. "App not installed as package conflicts with an existing package."**
+### **15. "App not installed as package conflicts with an existing package."**
 
 **a)** Uninstall the YT ReVanced Extended app that is already on your device before trying again. Make sure it is not installed in an alternate user profile or private folder that your device features.
 
-**b)** It is possible your patched YT APK that you are installing was exported from the RVX Manager but does not have the `MicroG Support` patch applied to it. You can verify if this is the case by doing the following:
-
-Open the RVX Manager > Patcher > Select an application > Storage > Select the **patched** APK that you were trying to install.
-
-Now check what it says the package name is near the top (in parenthesis). Check if the package name starts with "app.rvx" like in [this image](https://imgur.com/a/TUBgLLt). If it says something else, then you'll need to patch again, (using an unpatched APK of the suggested version,) and apply the `MicroG Support` patch this time.
+**b)** Patch again and include the `MicroG Support` patch.
 
 
 
 
-### **17. "App not installed as package appears to be invalid."**
+### **16. "App not installed as package appears to be invalid."**
 
 This error most often means that you are trying to install an app that is an older version than the already installed version. Android doesn't allow app downgrading. In the context of installing YT ReVanced Extended, here are some possible scenarios and solutions:
 
 **a)** You are installing the unpatched YouTube APK that you downloaded from APKMirror.com. It is not necessary to install it. Refer to step 2 in the [YT guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-guide.md#2-patching-the-apk) for info on selecting the YT APK from storage.
 
-**b)** Your patched YT APK that you are installing was exported from the RVX Manager but does not have the `MicroG Support` patch applied to it. You can verify if this is the case by doing the following:
-
-Open the RVX Manager > Patcher > Select an application > Storage > Select the **patched** APK that you were trying to install.
-
-Now check what it says the package name is near the top (in parenthesis). Check if the package name starts with "app.rvx" like in [this image](https://imgur.com/a/TUBgLLt). If it says something else, then you'll need to patch again, (using an unpatched APK of the suggested version,) and apply the `MicroG Support` patch this time.
+**b)** Your patched YT APK does not have the `MicroG Support` patch applied to it. Patch again and include the `MicroG Support` patch.
 
 **c)** You are installing a patched YT ReVanced Extended APK that is an older version than the YT ReVanced Extended that is currently installed. Uninstall YT ReVanced Extended before installing the older version. Refer to the "Exporting / Importing The Settings" section in the [YT guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-guide.md#exporting--importing-the-settings) for info on how to backup your settings from the installed YT ReVanced Extended so that you won't lose it all when you uninstall it.
 
@@ -192,6 +177,6 @@ Now check what it says the package name is near the top (in parenthesis). Check 
 
 
 
-### **18. App crashes on startup**
+### **17. App crashes on startup**
 
 What most likely happened was there was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#13** if this happened.

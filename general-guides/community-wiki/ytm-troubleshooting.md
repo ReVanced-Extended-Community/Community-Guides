@@ -100,14 +100,7 @@ If you want to patch on PC, follow the instructions for the desired method in in
 
 
 
-### **9. "Error: Non-root install is not possible with the current patches selection."**
-
-Patch again and include the `MicroG Support` patch.
-
-
-
-
-### **10. "App not installed."**
+### **9. "App not installed."**
 
 **a)** If there was a Google Play Protect pop-up when trying to install it then you must press **"More details"** and then tap the **"Install anyway"** button. If you press the "Got it" button it will not install. [Here](https://imgur.com/a/Ck8nfhn) is an image demonstrating this.
 
@@ -115,35 +108,27 @@ Patch again and include the `MicroG Support` patch.
 
 **c)** Uninstall the YT Music Extended app that is already on your device before trying again. Make sure it is not installed in an alternate user profile or private folder that your device features.
 
-**d)** If the error message was **"App not installed as app isn't compatible with your device."** refer to troubleshooting issue **#13**.
+**d)** If the error message was **"App not installed as app isn't compatible with your device."** refer to troubleshooting issue **#12**.
 
 
 
 
-### **11. "App not installed as package conflicts with an existing package."**
+### **10. "App not installed as package conflicts with an existing package."**
 
 **a)** Uninstall the YT Music Extended app that is already on your device before trying again. Make sure it is not installed in an alternate user profile or private folder that your device features.
 
-**b)** It is possible your patched YTM APK that you are installing was exported from the RVX Manager but does not have the `MicroG Support` patch applied to it. You can verify if this is the case by doing the following:
-
-Open the RVX Manager > Patcher > Select an application > Storage > Select the **patched** APK that you were trying to install.
-
-Now check what it says the package name is near the top (in parenthesis). Make sure the package name starts with "app.rvx" like in [this image](https://imgur.com/a/AlYepUa). If it says something else, then you'll need to patch again and apply the `MicroG Support` patch this time.
+**b)** Patch again and include the `MicroG Support` patch.
 
 
 
 
-### **12. "App not installed as package appears to be invalid."**
+### **11. "App not installed as package appears to be invalid."**
 
 This error most often means that you are trying to install an app that is an older version than the already installed version. Android doesn't allow app downgrading. In the context of installing YTM Extended, here are some possible scenarios and solutions:
 
 **a)** You are installing the unpatched YT Music APK that you downloaded from APKMirror.com. It is not necessary to install it. Refer to step 2 in the [YTM guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-guide.md#2-patching-the-apk) for info on selecting the YTM APK from storage.
 
-**b)** Your patched YTM APK that you are installing was exported from the RVX Manager but does not have the `MicroG Support` patch applied to it. You can verify if this is the case by doing the following:
-
-Open the RVX Manager > Patcher > Select an application > Storage > Select the **patched** APK that you were trying to install.
-
-Now check what it says the package name is near the top (in parenthesis). Make sure the package name starts with "app.rvx" like in [this image](https://imgur.com/a/AlYepUa). If it says something else, then you'll need to patch again and apply the `MicroG Support` patch this time.
+**b)** Your patched YTM APK does not have the `MicroG Support` patch applied to it. Patch again and include the `MicroG Support` patch.
 
 **c)** You are installing a patched YTM Extended APK that is an older version than the YTM Extended that is currently installed. Uninstall YTM Extended before installing the older version.
 
@@ -152,14 +137,14 @@ Now check what it says the package name is near the top (in parenthesis). Make s
 
 
 
-### **13. "App not installed as app isn't compatible with your device"**
+### **12. "App not installed as app isn't compatible with your device"**
 
 The YT Music you patched APK doesn't match your device's architecture. Refer to step 1 in the [YTM guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-guide.md#1-downloading-rvx-manager-yt-music-apk--vanced-microg) for info on downloading the correct APK/app.
 
 
 
 
-### **14. App crashes on startup**
+### **13. App crashes on startup**
 
 3 common causes:
 
