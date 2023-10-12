@@ -118,14 +118,23 @@ Continue from the middle of step 2 in the [YT guide](https://github.com/ReVanced
 
 
 
-### **12. "Error: Patch is not supported for this app version."**
+### **12. Manager isn't loading patches / "No patches found for the selected app"**
+
+**a)** Make sure the RVX Manager is the [latest available version](https://github.com/inotia00/revanced-manager/releases/latest). 
+
+**b)** Disable any VPNs or ad-blockers and restart the RVX Manager.
+
+
+
+
+### **13. "Error: Patch is not supported for this app version."**
 
 Download an APK of the recommended/suggested version and patch that from storage. Refer to steps 1 and 2 in the [YT guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-guide.md#1-downloading-rvx-manager-yt-apk--vanced-microg).
 
 
 
 
-### **13. Patcher is Aborting / failing to apply patches**
+### **14. Patcher is Aborting / failing to apply patches**
 
 **a)** Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
@@ -142,7 +151,14 @@ If you want to patch on PC, follow the instructions for the desired method in [i
 
 
 
-### **14. "App not installed."**
+### **15. Manager is stuck on "Installing..."**
+
+Export the patched APK by tapping the save icon as shown in [this image](https://imgur.com/a/FKD0okE). Save it, and then install the exported APK from your file manager. You will probably get an error while installing. Refer to the entries below for instructions for various installation errors.
+
+
+
+
+### **16. "App not installed."**
 
 **a)** If there was a Google Play Protect pop-up when trying to install it then you must press **"More details"** and then tap the **"Install anyway"** button. If you press the "Got it" button it will not install. [Here](https://imgur.com/a/Ck8nfhn) is an image demonstrating this.
 
@@ -153,7 +169,7 @@ If you want to patch on PC, follow the instructions for the desired method in [i
 
 
 
-### **15. "App not installed as package conflicts with an existing package."**
+### **17. "App not installed as package conflicts with an existing package."**
 
 **a)** Uninstall the YT ReVanced Extended app that is already on your device before trying again. Make sure it is not installed in an alternate user profile or private folder that your device features.
 
@@ -162,7 +178,7 @@ If you want to patch on PC, follow the instructions for the desired method in [i
 
 
 
-### **16. "App not installed as package appears to be invalid."**
+### **18. "App not installed as package appears to be invalid."**
 
 This error most often means that you are trying to install an app that is an older version than the already installed version. Android doesn't allow app downgrading. In the context of installing YT ReVanced Extended, here are some possible scenarios and solutions:
 
@@ -177,6 +193,6 @@ This error most often means that you are trying to install an app that is an old
 
 
 
-### **17. App crashes on startup**
+### **19. App crashes on startup**
 
-What most likely happened was there was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#13** if this happened.
+What most likely happened was there was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#14** if this happened.

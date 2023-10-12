@@ -81,7 +81,17 @@ Continue from the middle of step 2 in the [YT guide](https://github.com/ReVanced
 
 
 
-### **8. Patcher is aborting / failing to apply patches**
+
+### **8. Manager isn't loading patches / "No patches found for the selected app"**
+
+**a)** Make sure the RVX Manager is the [latest available version](https://github.com/inotia00/revanced-manager/releases/latest). 
+
+**b)** Disable any VPNs or ad-blockers and restart the RVX Manager.
+
+
+
+
+### **9. Patcher is aborting / failing to apply patches**
 
 **a)** Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
@@ -100,7 +110,14 @@ If you want to patch on PC, follow the instructions for the desired method in in
 
 
 
-### **9. "App not installed."**
+### **10. Manager is stuck on "Installing..."**
+
+Export the patched APK by tapping the save icon as shown in [this image](https://imgur.com/a/FKD0okE). Save it, and then install the exported APK from your file manager. You will probably get an error while installing. Refer to the entries below for instructions for various installation errors.
+
+
+
+
+### **11. "App not installed."**
 
 **a)** If there was a Google Play Protect pop-up when trying to install it then you must press **"More details"** and then tap the **"Install anyway"** button. If you press the "Got it" button it will not install. [Here](https://imgur.com/a/Ck8nfhn) is an image demonstrating this.
 
@@ -113,7 +130,7 @@ If you want to patch on PC, follow the instructions for the desired method in in
 
 
 
-### **10. "App not installed as package conflicts with an existing package."**
+### **12. "App not installed as package conflicts with an existing package."**
 
 **a)** Uninstall the YT Music Extended app that is already on your device before trying again. Make sure it is not installed in an alternate user profile or private folder that your device features.
 
@@ -122,7 +139,7 @@ If you want to patch on PC, follow the instructions for the desired method in in
 
 
 
-### **11. "App not installed as package appears to be invalid."**
+### **13. "App not installed as package appears to be invalid."**
 
 This error most often means that you are trying to install an app that is an older version than the already installed version. Android doesn't allow app downgrading. In the context of installing YTM Extended, here are some possible scenarios and solutions:
 
@@ -137,7 +154,7 @@ This error most often means that you are trying to install an app that is an old
 
 
 
-### **12. "App not installed as app isn't compatible with your device"**
+### **14. "App not installed as app isn't compatible with your device."**
 
 The YT Music you patched APK doesn't match your device's architecture. Refer to step 1 in the [YTM guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-guide.md#1-downloading-rvx-manager-yt-music-apk--vanced-microg) for info on downloading the correct APK/app.
 
