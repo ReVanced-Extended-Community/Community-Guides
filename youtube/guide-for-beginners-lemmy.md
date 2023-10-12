@@ -27,7 +27,7 @@ ___
 
 
 
-**1.2** Download, BUT DO NOT INSTALL the **YouTube** `v18.33.40` (`nodpi`) APK from [APKMirror here](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-33-40-release/youtube-18-33-40-android-apk-download/).
+**1.2** Download, BUT DO NOT INSTALL the **YouTube** `v18.36.39` (`nodpi`) APK from [APKMirror here](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-36-39-release/youtube-18-36-39-android-apk-download/).
 
 
 
