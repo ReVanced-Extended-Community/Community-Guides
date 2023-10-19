@@ -1,3 +1,5 @@
+*Last updated on OCT/19/2023.*
+
 ### About this Guide:
 
 * This guide is for patching YouTube.
@@ -27,7 +29,7 @@ ___
 
 
 
-**1.2** Download, BUT DO NOT INSTALL the **YouTube** `v18.37.36` (`nodpi`) APK from [APKMirror here](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-37-36-release/youtube-18-37-36-2-android-apk-download/).
+**1.2** Download, BUT DO NOT INSTALL the **YouTube** `v18.39.41` (`nodpi`) APK from [APKMirror here](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-39-41-release/youtube-18-39-41-android-apk-download/).
 
 
 
