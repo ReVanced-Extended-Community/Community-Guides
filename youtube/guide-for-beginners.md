@@ -1,6 +1,9 @@
 ### [Use the new RVX Manager created specially for ReVanced Extended patches.](https://github.com/inotia00/revanced-manager/releases/latest)
 
 
+**Last updated by /u/SpacellaryUS on 19/October/2023.**
+
+
 **This guide is intended as a detailed starting point for first-time users.**
 
 
@@ -8,9 +11,6 @@
 
 
 **Looking for screenshots/more information about the ReVanced Extended patches? [Check out this repository! (under updates)](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation)**
-
-
-**Last updated by /u/SpacellaryUS on 19/October/2023.**
 
 
 
