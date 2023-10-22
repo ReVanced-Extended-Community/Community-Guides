@@ -39,6 +39,8 @@ Open the RVX Manager and press Patcher > Select an application > **STORAGE** > a
 
 Now press "Selected patches". You may get a warning saying that you shouldn't change from the default patches selection. If you want to customize the patches selection you can enable the "Allow changing patch selection" toggle in the RVX Manager settings. To reset to the default selection, tap the "Default" button at the top of the patches selection menu.
 
+Patches that have the ⚙️ symbol have additional settings that you can configure before patching.
+
 You can see examples of what all of the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#youtube-music).
 
 If you decide not to use the default selection, keep the following things in mind:
