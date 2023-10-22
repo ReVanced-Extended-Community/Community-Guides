@@ -118,7 +118,7 @@ Continue from the middle of step 2 in the [YT guide](https://github.com/ReVanced
 
 
 
-### **12. Manager isn't loading patches / "No patches found for the selected app"**
+### **12. Manager isn't loading patches or applications**
 
 **a)** Make sure the RVX Manager is the [latest available version](https://github.com/inotia00/revanced-manager/releases/latest). 
 
