@@ -24,9 +24,9 @@
 
 (If you get an error saying "App not installed as app isn't compatible with your device." it means that your device isn't supported by the RVX Manager. Refer to the [YTM troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-troubleshooting.md#issues-with-patching--installation) for further instructions.)
 
-**b)** Go to [this page](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-23-54-release/#downloads) and download the arm64-v8a variant of a YT Music `6.23.54` APK. You do not need to install it.
+**b)** Go to [this page](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-25-53-release/#downloads) and download the arm64-v8a variant of a YT Music `6.25.53` APK. You do not need to install it.
 
-(If you are patching to install the patched APK on a non-armv64-v8a device, download the variant of a `6.23.54` YT Music APK that matches the architecture of the device you plan to install the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). If an Android device is not arm64-v8a it is most likely armeabi-v7a.)
+(If you are patching to install the patched APK on a non-armv64-v8a device, download the variant of a `6.25.53` YT Music APK that matches the architecture of the device you plan to install the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). If an Android device is not arm64-v8a it is most likely armeabi-v7a.)
 
 **c)** Download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). This will connect the patched YT Music app to the Google servers. You can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest) if desired.
 
