@@ -1,4 +1,4 @@
-*Last updated on OCT/28/2023.*
+*Last updated on OCT/31/2023.*
 
 ### About this Guide:
 
@@ -29,7 +29,7 @@ ___
 
 
 
-**1.2** Download, BUT DO NOT INSTALL the **YouTube** `v18.41.39` (`nodpi`) APK from APKMirror [here](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-41-39-release/youtube-18-41-39-2-android-apk-download/).
+**1.2** Download, but do **not** install the **YouTube** `v18.42.41` (`nodpi`) APK from APKMirror [here](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-42-41-release/youtube-18-42-41-android-apk-download/).
 
 
 
