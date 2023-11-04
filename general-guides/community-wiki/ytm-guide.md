@@ -169,7 +169,7 @@ If you need or want to uninstall the old YTM Extended APK and install the new AP
 
 To do this, open the old YTM Extended app > Profile picture > Settings > ReVanced Extended > Miscellaneous > Import / Export > Copy. Save it in your clipboard until you are ready to paste it into the new YTM Extended app.
 
-After installing the new YT ReVanced Extended app, open it and tap on the profile picture > Settings > Import / Export. Remove any text from the textbox and paste the text you copied from the old app. Press "Import" and restart the app.
+After installing the new YTM Extended app, open it and tap on the profile picture > Settings > Import / Export. Remove any text from the textbox and paste the text you copied from the old app. Press "Import" and restart the app.
 
 
 
