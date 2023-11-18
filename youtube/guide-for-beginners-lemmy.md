@@ -29,7 +29,7 @@ ___
 
 
 
-**1.2** Download, but do **not** install the **YouTube** `v18.44.41` (`nodpi`) APK from APKMirror [here](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-44-41-release/youtube-18-44-41-2-android-apk-download/).
+**1.2** Download, but do **not** install the **YouTube** `v18.45.41` (`nodpi`) APK from APKMirror [here](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-45-41-release/youtube-18-45-41-android-apk-download/).
 
 
 **1.3** Download and install the **RVX Manager** APK from [here](https://github.com/inotia00/revanced-manager/releases/latest). It is inotia00's fork of the official Manager made to be compatible with ReVanced Extended patches.
