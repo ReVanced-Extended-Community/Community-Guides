@@ -34,7 +34,7 @@ No. All sites that distribute pre-patched / ready-to-use ReVanced Extended APKs 
 
 ### **6. Why can't I just download a pre-made APK instead of patching it myself?**
 
-Due to legal reasons, ReVanced Extended cannot be directly distributed. Anyone distributing pre-patched ReVanced or ReVanced Extended APKs is not official and potentially untrustworthy. The only guaranteed safe way to install ReVanced Extended is by patching it yourself with one of the official methods.
+Due to legal reasons, ReVanced Extended APKs cannot be directly distributed. Anyone distributing pre-patched ReVanced or ReVanced Extended APKs is not official and potentially untrustworthy. The only guaranteed safe way to install ReVanced Extended is by patching it yourself with one of the official methods.
 
 
 
