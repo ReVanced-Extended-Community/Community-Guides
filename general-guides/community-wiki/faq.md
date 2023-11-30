@@ -40,7 +40,7 @@ Due to legal reasons, ReVanced Extended APKs cannot be directly distributed. Any
 
 ### **7. What features are different between ReVanced Extended and ReVanced?**
 
-The best way to answer this is by installing ReVanced Extended and comparing it to ReVanced. However, you can check what all of the patches do on [this page](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation). Or you can check what the all of the toggles in YouTube and YT Music Extended do on [this page](https://kazimmt.github.io/RVX-Features/). Alternateively, you can compare the list of patches between the [ReVanced Extended GitHub](https://github.com/inotia00/revanced-patches/tree/revanced-extended#readme) and the [ReVanced site](https://revanced.app/patches), but keep in mind that some patches can contain several features and options within, so just looking at the patches list doesn't tell the full story.
+The best way to answer this is by installing ReVanced Extended and comparing it to ReVanced. However, you can check what the patches do on [this page](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation). (Note that it is a work-in-progress). You can also check what the all of the toggles in YouTube and YT Music Extended do on [this page](https://kazimmt.github.io/RVX-Features/). Alternatively, you can compare the list of patches between the [ReVanced Extended GitHub](https://github.com/inotia00/revanced-patches/tree/revanced-extended#readme) and the [ReVanced site](https://revanced.app/patches), but keep in mind that some patches can contain several features and options within, so just looking at the patches list doesn't tell the full story.
 
 
 
