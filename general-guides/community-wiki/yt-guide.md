@@ -43,7 +43,7 @@ Now press "Selected patches". You may get a warning saying that you shouldn't ch
 
 Patches that have the ⚙️ symbol have additional settings that you can configure before patching.
 
-You can see examples of what all the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#youtube).
+You can see examples of what the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#youtube). Note that it is a work-in-progress.
 
 If you decide not to use the default selection, keep the following things in mind:
 
@@ -52,7 +52,7 @@ If you decide not to use the default selection, keep the following things in min
 **b)** You can select which custom branding icon you want to use, but make sure to only select one custom branding icon patch. You can view a preview of the 3 icons [here on Imgur](https://imgur.com/a/qlelvZk). You can exclude all custom branding icon patches to get the YouTube icon.
 
 
-When you are done selecting the patches you want, press "Done" and then "Patch". Patching generally takes 2-5 minutes. If you leave the app it may cancel without warning. Take screenshots of any errors / failures that occur to make troubleshooting easier.
+When you are done selecting the patches you want, press "Done" and then "Patch". Patching generally takes 2-5 minutes. If you leave the app it may cancel without warning. If any errors or failures occur use the button in the bottom left corner to copy the full log in order to make troubleshooting easier.
 
 
 
@@ -72,7 +72,7 @@ You may get a pop-up saying that the installation was blocked because it is an u
 
 Aside from the detailed setup instructions below that are for the more complex configurations, many settings / patches can be enabled/disabled in the YT ReVanced Extended app.
 
-To find these settings, open YT Music Extended > Profile picture > Settings. From there you can configure the ReVanced Extended, Return YouTube Dislike, and SponsorBlock settings (if you include the necessary patches).
+To find these settings, open YT ReVanced Extended > Profile picture > Settings. From there you can configure the ReVanced Extended, Return YouTube Dislike, and SponsorBlock settings (if you include the necessary patches).
 
 You can see what all of the settings do [here](https://kazimmt.github.io/RVX-Features/rvx-features/yt-rvx-features/).
 
@@ -115,7 +115,7 @@ To update YT ReVanced Extended you must patch a new APK and then install the new
 
 Normally, you do not need to uninstall your old YT ReVanced Extended app before installing the new one. However, there are two things to note.
 
-**1)** Some bugs can persist if you do not do a fresh install.
+**1)** Some bugs can persist or occur if you do not do a fresh install.
 
 **2)** If the new and old YT ReVanced Extended APKs were not signed using the same keystore file, the new YT ReVanced Extended APK cannot be installed without uninstalling the old YT ReVanced Extended app first.
 
@@ -126,24 +126,20 @@ Normally, you do not need to uninstall your old YT ReVanced Extended app before 
 
 The keystore is a file that the RVX Manager (and any other ReVanced patcher) uses to sign the patched APK. If the new YT ReVanced Extended APK was signed with the same keystore as the old YT ReVanced Extended APK then you will be able to install it as an update to the old YT ReVanced Extended.
 
-If you uninstall the RVX Manager or clear the app data, the keystore file will be deleted. So be sure to export/backup the keystore before uninstalling or clearing the data of the Manager. You can export and import the keystore file from the RVX Manager settings.
+If you uninstall or clear the app data of the RVX Manager the keystore file will be deleted. So be sure to export/backup the keystore before uninstalling or clearing the data of the Manager. You can export and import the keystore file from the RVX Manager settings.
 
 
 
 
 ### **Exporting / Importing The Settings**
 
-If you need or want to uninstall the old YT ReVanced Extended APK and install the new APK as a fresh install, you can still export the settings from the old YT ReVanced Extended app and then import that file into the new app so that you won't need to reconfigure all of your settings.
+If you need or want to uninstall the old YT ReVanced Extended APK and install the new APK as a fresh install, you can export the settings configuration from the old YT ReVanced Extended app and import it into the new app.
 
-To do this, open the old YT ReVanced Extended app > Profile picture > Settings > ReVanced Extended > Miscellaneous > Import/Export settings > Export settings > Save.
+To do this, open the old YT ReVanced Extended app > Profile picture > Settings > ReVanced Extended > Miscellaneous > Import/Export settings, and either export as a JSON file or copy the text directly and save it to your clipboard until you are ready to paste it into the new YT ReVanced Extended app.
 
-You'll probably also want to export the SponsorBlock settings as well. Tap on the profile picture > Settings > SponsorBlock > Import/Export settings. Now use the copy button or manually copy all of the text and save it until you are ready to paste it into the new YT ReVanced Extended app.
+After installing the new YT ReVanced Extended app, open it and tap on the profile picture > Settings > ReVanced Extended > Miscellaneous > Import/Export settings, and import the JSON file or replace the text with the text you copied. 
 
-After installing the new YT ReVanced Extended app, open it and tap on the profile picture > Settings > ReVanced Extended > Miscellaneous > Import/Export settings > Import settings. Now select the settings file that you exported from the old app.
-
-Now for the SponsorBlock settings. Tap on the profile picture > Settings > SponsorBlock > Import/Export settings. Now remove all of the text and paste in the text that you copied from the SponsorBlock settings in the old app.
-
-The standard YouTube and Return YouTube Dislike settings will still need to be configured, as well as any settings for features that your old app didn't have.
+The standard YouTube settings will still need to be configured, as well as any new ReVanced Extended settings.
 
 
 
