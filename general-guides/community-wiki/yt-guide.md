@@ -103,7 +103,7 @@ There are three important things to know about downloading in YT ReVanced Extend
 
 **c)** When you press the download button it will attempt to open [YTDLnis](https://github.com/deniscerri/ytdlnis/releases/latest) to download the media. You can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several other downloaders you can use. 
 
-If you want to use a downloader other than YTDLnis, install the downloader and open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Overlay buttons > External downloader settings. Then enter the package name of the downloader and then restart the app. 
+If you want to use a downloader other than YTDLnis, install the downloader and open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Overlay buttons > External downloader settings. Then enter the package name of the downloader or select the downloader from the list and restart the app. 
 
 
 
