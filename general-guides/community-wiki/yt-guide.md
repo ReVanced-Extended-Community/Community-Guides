@@ -28,7 +28,7 @@
 
 (If you get an error saying "App not installed as app isn't compatible with your device." it means that your device isn't supported by the RVX Manager. Refer to the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for further instructions.) 
 
-**b)** Download (but do **not** bother installing) a [`18.45.43` (nodpi) YouTube APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-45-43-release/youtube-18-45-43-android-apk-download/).
+**b)** Download (but do **not** bother installing) a [`18.46.43` (nodpi) YouTube APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-46-43-release/youtube-18-46-43-android-apk-download/).
 
 **c)** Download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). This will connect the patched YouTube app to the Google servers. You can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest) if desired.
 
