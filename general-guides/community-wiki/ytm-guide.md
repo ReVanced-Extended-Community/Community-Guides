@@ -169,9 +169,9 @@ If you uninstall or clear the app data of the RVX Manager the keystore file will
 
 If you need or want to uninstall the old YTM Extended APK and install the new APK as a fresh install, you can export the settings configuration from the old YTM Extended app and import it into the new app.
 
-To do this, open the old YTM Extended app > Profile picture > Settings > ReVanced Extended > Miscellaneous > Import/Export settings, and either export as a JSON file or copy the text directly and save it to your clipboard until you are ready to paste it into the new YTM Extended app.
+To do this, open the old YTM Extended app > Profile picture > Settings > ReVanced Extended > Miscellaneous > Import/Export settings, and either export as a `.txt` file or copy the text directly and save it to your clipboard until you are ready to paste it into the new YTM Extended app.
 
-After installing the new YTM Extended app, open it and tap on the profile picture > Settings > Miscellaneous > Import/Export settings, and import the JSON file or replace the text with the text you copied.
+After installing the new YTM Extended app, open it and tap on the profile picture > Settings > Miscellaneous > Import/Export settings, and import the `.txt` file or replace the text with the text you copied.
 
 The standard YT Music settings will still need to be configured, as well as the SponsorBlock settings, as well as any new ReVanced Extended settings.
 
