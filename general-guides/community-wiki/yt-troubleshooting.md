@@ -73,7 +73,7 @@ This likely means that the SponsorBlock servers are down. You can check the serv
 
 ### **8. Watch history isn't being saved**
 
-Whitelist `s.youtube.com` in your ad-blocker.
+Whitelist `s.youtube.com` in your ad-blocker, DNS-blocker, firewall, etc.
 
 
 
