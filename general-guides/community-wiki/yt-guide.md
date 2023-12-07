@@ -17,7 +17,9 @@
 
 **a)** Your device must be running Android 8 or newer.
 
-**b)** Your device must use the arm64-v8a architecture. (If you aren't sure what yours is, you will find out soon enough in the tutorial. If it is not arm64-v8a (ie: armeabi-v7a), refer to the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for instructions.)
+**b)** Your device must use the arm64-v8a architecture. 
+
+> If you aren't sure what yours is, you will find out soon enough in the tutorial. If it is not arm64-v8a (ie: armeabi-v7a), refer to the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for instructions.
 
 
 
@@ -26,7 +28,7 @@
 
 **a)** Download and install the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
-(If you get an error saying "App not installed as app isn't compatible with your device." it means that your device isn't supported by the RVX Manager. Refer to the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for further instructions.) 
+> If you get an error saying "App not installed as app isn't compatible with your device." it means that your device isn't supported by the RVX Manager. Refer to the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for further instructions.
 
 **b)** Download (but do **not** bother installing) a [`18.45.43` (nodpi) YouTube APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-45-43-release/youtube-18-45-43-android-apk-download/).
 
@@ -39,16 +41,18 @@
 
 Open the RVX Manager and press Patcher > Select an application > **STORAGE**, and then select the YouTube APK that you downloaded from APKMirror. (It will probably be in your downloads folder.)
 
-Now press "Selected patches". You may get a warning saying that you shouldn't change from the default patches selection. If you want to customize the patches selection you can enable the `Allow changing patch selection` toggle in the RVX Manager settings. To reset to the default selection, tap the "Default" button at the top of the patches selection menu.
+If you want to customize the patch selection or patch options, press "Selected patches". 
 
-Patches that have the ⚙️ symbol have additional settings (AKA patch options) that you can configure before patching. Noteable ones are the `Theme` patch and the `Custom branding icon YouTube` patch, which has [3 preset icons](https://imgur.com/a/qlelvZk) you can choose from.
+> If you are prevented from changing the patch selection, you can enable the `Allow changing patch selection` toggle in the RVX Manager settings. To reset to the default selection, tap the "Default" button at the top of the patch selection menu.
 
 You can see examples of what the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#youtube). Note that it is a work-in-progress.
 
-If you decide not to use the default selection, you still **must** include the `MicroG Support` patch for non-root installs.
+Patches that have the ⚙️ symbol have additional settings (AKA patch options) that you can configure before patching. Noteable ones are the `Theme` patch and the `Custom branding icon YouTube` patch, which has [3 preset app icons](https://imgur.com/a/qlelvZk) you can choose from.
+
+> If you decide not to use the default selection, you still **must** include the `MicroG Support` patch for non-root installs.
 
 
-When you are done selecting the patches you want, press "Done" and then "Patch". Patching generally takes 2-5 minutes. If you leave the app it may cancel without warning. If any errors or failures occur use the button in the bottom left corner to copy the full log in order to make troubleshooting easier.
+When ready to patch, press "Done" and then "Patch". Patching generally takes 2-5 minutes. If you leave the app it may cancel without warning. If any errors or failures occur use the button in the bottom left corner to copy the full log in order to make troubleshooting easier.
 
 
 
@@ -59,18 +63,16 @@ When patching is finished I do not recommend using the "Install" button in the M
 
 You may get a pop-up saying that the installation was blocked because it is an unknown app. Tap **"More details"** and then **"Install anyway"** as shown [here](https://imgur.com/a/iLP2m7l).
 
-(If you get an installation error see the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation).)
+> If you get an installation error see the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation).
 
 
 
 
 # **4. Additional Setup**
 
-Aside from the detailed setup instructions below that are for the more complex configurations, many settings / patches can be enabled/disabled in the YT ReVanced Extended app.
+Aside from the detailed setup instructions below that are for the more complex configurations, many settings / patches can be enabled/disabled in the YT ReVanced Extended app. To find these settings, open YT ReVanced Extended > Profile picture > Settings. From there you can configure the ReVanced Extended, Return YouTube Dislike, and SponsorBlock settings (if you include the necessary patches).
 
-To find these settings, open YT ReVanced Extended > Profile picture > Settings. From there you can configure the ReVanced Extended, Return YouTube Dislike, and SponsorBlock settings (if you include the necessary patches).
-
-You can see what all of the settings do [here](https://kazimmt.github.io/RVX-Features/rvx-features/yt-rvx-features/).
+You can see screenshots demonstrating what all of the settings do [here](https://kazimmt.github.io/RVX-Features/rvx-features/yt-rvx-features/).
 
 
 
@@ -78,7 +80,7 @@ You can see what all of the settings do [here](https://kazimmt.github.io/RVX-Fea
 
 Follow these steps so that when you open a YouTube link it will open in the YT ReVanced Extended app instead of the official YouTube app.
 
-(If you are using MIUI, you'll need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on Manage applications. Then continue with the steps below.)
+> If you are using MIUI, you'll need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on Manage applications. Then continue with the steps below.
 
 **a)** Uninstall or disable the official YouTube app. Or go to the App info of official YouTube, tap on Set as default / Open by default > Open supported links, **Off**.
 
