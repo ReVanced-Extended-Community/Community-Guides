@@ -14,7 +14,9 @@
 
 **a)** Your device must be running Android 8 or newer.
 
-**b)** Your device must use the arm64-v8a architecture. (If you aren't sure what yours is, you will find out soon enough in the tutorial. If it is not arm64-v8a (ie: armeabi-v7a), refer to the [YTM troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-troubleshooting.md#issues-with-patching--installation) for instructions.)
+**b)** Your device must use the arm64-v8a architecture. 
+
+> If you aren't sure what yours is, you will find out soon enough in the tutorial. If it is not arm64-v8a (ie: armeabi-v7a), refer to the [YTM troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-troubleshooting.md#issues-with-patching--installation) for instructions.
 
 
 
@@ -22,11 +24,11 @@
 
 **a)** Download and install the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
-(If you get an error saying "App not installed as app isn't compatible with your device." it means that your device isn't supported by the RVX Manager. Refer to the [YTM troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-troubleshooting.md#issues-with-patching--installation) for further instructions.)
+> If you get an error saying "App not installed as app isn't compatible with your device." it means that your device isn't supported by the RVX Manager. Refer to the [YTM troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-troubleshooting.md#issues-with-patching--installation) for further instructions.
 
 **b)** Go to [apkmirror.com](https://www.apkmirror.com/apk/google-inc/youtube-music/) and download the arm64-v8a variant APK of a recent YT Music version, such as [`6.29.57`](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-29-57-release/#downloads). You do not need to install it.
 
-(If you are patching to install the patched APK on a non-armv64-v8a device, download the variant of a recent YT Music APK that matches the architecture of the device you plan to install the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). If an Android device is not arm64-v8a it is most likely armeabi-v7a.)
+> If you are patching to install the patched APK on a non-armv64-v8a device, download the variant of a recent YT Music APK that matches the architecture of the device you plan to install the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). If an Android device is not arm64-v8a it is most likely armeabi-v7a.
 
 **c)** Download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). This will connect the patched YT Music app to the Google servers. You can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest) if desired.
 
@@ -37,20 +39,22 @@
 
 Open the RVX Manager and press Patcher > Select an application > **STORAGE** > and then select the YTM APK file that you downloaded from APKMirror. (It will probably be in your downloads folder.)
 
-Now press "Selected patches". You may get a warning saying that you shouldn't change from the default patches selection. If you want to customize the patches selection you can enable the `Allow changing patch selection` toggle in the RVX Manager settings. To reset to the default selection, tap the "Default" button at the top of the patches selection menu.
+If you want to customize the patch selection or patch options, press "Selected patches".
 
-Patches that have the ⚙️ symbol have additional settings (AKA patch options) that you can configure before patching, such as the `Custom branding icon YouTube Music` patch, which has [3 preset icons](https://imgur.com/a/tjuLog1) you can choose from.
+> If you are prevented from changing the patch selection, you can enable the `Allow changing patch selection` toggle in the RVX Manager settings. To reset to the default selection, tap the "Default" button at the top of the patch selection menu.
 
 You can see examples of what the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#youtube-music). Note that it is a work-in-progress.
 
-If you decide not to use the default selection, keep the following things in mind:
+Patches that have the ⚙️ symbol have additional settings (AKA patch options) that you can configure before patching, such as the `Custom branding icon YouTube Music` patch, which has [3 preset app icons](https://imgur.com/a/tjuLog1) you can choose from.
 
-**a)** You **must** include the `MicroG Support` patch.
+> If you decide not to use the default selection, keep the following things in mind:
 
-**b)** If you are from Canada, include the `Spoof App Version` patch, which will allow you to bypass the radio-only restriction that is in Canada. Additional setup is in step 4 of the guide.
+> **a)** You **must** include the `MicroG Support` patch.
+
+> **b)** If you are from Canada, include the `Spoof App Version` patch, which will allow you to bypass the radio-only restriction that is in Canada. Additional setup is in step 4 of the guide.
 
 
-When you are done selecting the patches that you want, press "Done" and then "Patch". Patching generally takes 2-5 minutes. If you leave the app it may cancel without warning. If any errors or failures occur use the button in the bottom left corner to copy the full log in order to make troubleshooting easier.
+When ready to patch, press "Done" and then "Patch". Patching generally takes 2-5 minutes. If you leave the app it may cancel without warning. If any errors or failures occur use the button in the bottom left corner to copy the full log in order to make troubleshooting easier.
 
 
 
@@ -61,18 +65,16 @@ When patching is finished I do not recommend using the "Install" button in the M
 
 You may get a pop-up saying that the installation was blocked because it is an unknown app. Tap **"More details"** and then **"Install anyway"** as shown [here](https://imgur.com/a/iLP2m7l).
 
-(If you get an installation error see the [YTM troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-troubleshooting.md#issues-with-patching--installation).)
+> If you get an installation error see the [YTM troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-troubleshooting.md#issues-with-patching--installation).
 
 
 
 
 # **4. Additional Setup**
 
-Aside from the detailed setup instructions below that are for the more complex configurations, many settings / patches can be enabled/disabled in the YTM Extended app. 
+Aside from the detailed setup instructions below that are for the more complex configurations, many settings / patches can be enabled/disabled in the YTM Extended app. To find these settings, open YT Music Extended > Profile picture > Settings. From there you can configure the ReVanced Extended, Return YouTube Dislike, and SponsorBlock settings (if you include the necessary patches).
 
-To find these settings, open YT Music Extended > Profile picture > Settings. From there you can configure the ReVanced Extended, Return YouTube Dislike, and SponsorBlock settings (if you include the necessary patches).
-
-You can see what all of the settings do [here](https://kazimmt.github.io/RVX-Features/rvx-features/ytm-rvx-features/).
+You can see screenshots demonstrating what all of the settings do [here](https://kazimmt.github.io/RVX-Features/rvx-features/ytm-rvx-features/).
 
 
 
@@ -81,7 +83,7 @@ You can see what all of the settings do [here](https://kazimmt.github.io/RVX-Fea
 
 Follow these steps so that when you open a YouTube Music link it will open in the YTM Extended app instead of the official YouTube Music app.
 
-(If you are using MIUI, you'll need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on Manage applications. Then continue with the steps below.)
+> If you are using MIUI, you'll need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on Manage applications. Then continue with the steps below.
 
 **a)** Uninstall or disable the official YT Music app. Or go to the App info of official YT Music, Set as default / Open by default > Open supported links, **Off**.
 
@@ -94,7 +96,7 @@ Follow these steps so that when you open a YouTube Music link it will open in th
 
 ### **Android Auto Setup**
 
-**Note:** From my experience and from what I heard, the YTM Extended home screen will not load on Android Auto. But you can start a song, playlist, or album from the app on your phone/tablet and you can then control it from Android Auto.
+> **Note:** From my experience and from what I heard, the YTM Extended home screen will not load on Android Auto. But you can start a song, playlist, or album from the app on your phone/tablet and you can then control it from Android Auto.
 
 Here's how to set it up:
 
@@ -121,9 +123,9 @@ Here's how to set it up:
 
 **c)** Fully close and restart the app.
 
-(You may need to navigate back to Settings > ReVanced Extended > Miscellaneous > Spoof app version target, and set it to `4.27.53`.)
+> You may need to navigate back to Settings > ReVanced Extended > Miscellaneous > Spoof app version target, and set it to `4.27.53`.
 
-If this does not work you can use an [old version of Vanced Music](https://www.apkmirror.com/apk/team-vanced/vanced-youtube-music/vanced-youtube-music-4-27-50-release/vanced-youtube-music-4-27-50-android-apk-download/) or use a VPN to a different country to get around the Radio-only restriction.
+> If this does not work you can use an [old version of Vanced Music](https://www.apkmirror.com/apk/team-vanced/vanced-youtube-music/vanced-youtube-music-4-27-50-release/vanced-youtube-music-4-27-50-android-apk-download/) or use a VPN to a different country to get around the Radio-only restriction.
 
 
 
