@@ -37,9 +37,9 @@
 
 Open the RVX Manager and press Patcher > Select an application > **STORAGE** > and then select the YTM APK file that you downloaded from APKMirror. (It will probably be in your downloads folder.)
 
-Now press "Selected patches". You may get a warning saying that you shouldn't change from the default patches selection. If you want to customize the patches selection you can enable the "Allow changing patch selection" toggle in the RVX Manager settings. To reset to the default selection, tap the "Default" button at the top of the patches selection menu.
+Now press "Selected patches". You may get a warning saying that you shouldn't change from the default patches selection. If you want to customize the patches selection you can enable the `Allow changing patch selection` toggle in the RVX Manager settings. To reset to the default selection, tap the "Default" button at the top of the patches selection menu.
 
-Patches that have the ⚙️ symbol have additional settings that you can configure before patching.
+Patches that have the ⚙️ symbol have additional settings (AKA patch options) that you can configure before patching, such as the `Custom branding icon YouTube Music` patch, which has [3 preset icons](https://imgur.com/a/tjuLog1) you can choose from.
 
 You can see examples of what the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#youtube-music). Note that it is a work-in-progress.
 
@@ -47,9 +47,7 @@ If you decide not to use the default selection, keep the following things in min
 
 **a)** You **must** include the `MicroG Support` patch.
 
-**b)** You can select which custom branding icon you want to use, but make sure to only select one custom branding icon patch. You can view a preview of the 3 icons [here on Imgur](https://imgur.com/a/tjuLog1). You can exclude all custom branding icon patches to get the YT Music icon.
-
-**c)** If you are from Canada, include the `Spoof App Version` patch, which allows users to bypass the radio-only restriction that is in Canada. Additional setup is in step 4 of the guide.
+**b)** If you are from Canada, include the `Spoof App Version` patch, which will allow you to bypass the radio-only restriction that is in Canada. Additional setup is in step 4 of the guide.
 
 
 When you are done selecting the patches that you want, press "Done" and then "Patch". Patching generally takes 2-5 minutes. If you leave the app it may cancel without warning. If any errors or failures occur use the button in the bottom left corner to copy the full log in order to make troubleshooting easier.

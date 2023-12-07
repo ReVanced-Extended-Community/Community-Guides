@@ -39,17 +39,13 @@
 
 Open the RVX Manager and press Patcher > Select an application > **STORAGE**, and then select the YouTube APK that you downloaded from APKMirror. (It will probably be in your downloads folder.)
 
-Now press "Selected patches". You may get a warning saying that you shouldn't change from the default patches selection. If you want to customize the patches selection you can enable the "Allow changing patch selection" toggle in the RVX Manager settings. To reset to the default selection, tap the "Default" button at the top of the patches selection menu.
+Now press "Selected patches". You may get a warning saying that you shouldn't change from the default patches selection. If you want to customize the patches selection you can enable the `Allow changing patch selection` toggle in the RVX Manager settings. To reset to the default selection, tap the "Default" button at the top of the patches selection menu.
 
-Patches that have the ⚙️ symbol have additional settings that you can configure before patching.
+Patches that have the ⚙️ symbol have additional settings (AKA patch options) that you can configure before patching. Noteable ones are the `Theme` patch and the `Custom branding icon YouTube` patch, which has [3 preset icons](https://imgur.com/a/qlelvZk) you can choose from.
 
 You can see examples of what the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#youtube). Note that it is a work-in-progress.
 
-If you decide not to use the default selection, keep the following things in mind:
-
-**a)** You **must** include the `MicroG Support` patch.
-
-**b)** You can select which custom branding icon you want to use, but make sure to only select one custom branding icon patch. You can view a preview of the 3 icons [here on Imgur](https://imgur.com/a/qlelvZk). You can exclude all custom branding icon patches to get the YouTube icon.
+If you decide not to use the default selection, you still **must** include the `MicroG Support` patch for non-root installs.
 
 
 When you are done selecting the patches you want, press "Done" and then "Patch". Patching generally takes 2-5 minutes. If you leave the app it may cancel without warning. If any errors or failures occur use the button in the bottom left corner to copy the full log in order to make troubleshooting easier.
