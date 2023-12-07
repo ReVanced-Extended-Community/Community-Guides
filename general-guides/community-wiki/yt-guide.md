@@ -28,7 +28,7 @@
 
 **a)** Download and install the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
-(If you get an error saying "App not installed as app isn't compatible with your device." it means that your device isn't supported by the RVX Manager. Refer to the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for further instructions.) 
+> (If you get an error saying "App not installed as app isn't compatible with your device." it means that your device isn't supported by the RVX Manager. Refer to the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for further instructions.) 
 
 **b)** Download (but do **not** bother installing) a [`18.45.43` (nodpi) YouTube APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-45-43-release/youtube-18-45-43-android-apk-download/).
 
