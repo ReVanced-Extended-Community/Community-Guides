@@ -17,7 +17,9 @@
 
 **a)** Your device must be running Android 8 or newer.
 
-**b)** Your device must use the arm64-v8a architecture. (If you aren't sure what yours is, you will find out soon enough in the tutorial. If it is not arm64-v8a (ie: armeabi-v7a), refer to the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for instructions.)
+**b)** Your device must use the arm64-v8a architecture[^1]. 
+
+[^1]: If you aren't sure what yours is, you will find out soon enough in the tutorial. If it is not arm64-v8a (ie: armeabi-v7a), refer to the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for instructions.
 
 
 
