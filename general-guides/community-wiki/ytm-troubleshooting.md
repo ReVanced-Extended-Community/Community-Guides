@@ -143,7 +143,7 @@ Export the patched APK by tapping the save icon as shown in [this image](https:/
 
 ### **13. "App not installed as package appears to be invalid."**
 
-This error most often means that you are trying to install an app that is an older version than the already installed version. Android doesn't allow app downgrading. In the context of installing YTM Extended, here are some possible scenarios and solutions:
+This error can mean multiple things. In the context of installing YTM Extended, here are some possible scenarios and solutions:
 
 **a)** You are installing the unpatched YT Music APK that you downloaded from APKMirror.com. It is not necessary to install it. Refer to step 2 in the [YTM guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-guide.md#2-patching-the-apk) for info on selecting the YTM APK from storage.
 
