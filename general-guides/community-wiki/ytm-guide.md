@@ -145,7 +145,7 @@ If you want to use a downloader other than YTDLnis, install the downloader and o
 
 # **Updating ReVanced Extended**
 
-To update YTM Extended you must patch a new APK and then install the newly patched APK on top of the old YTM Extended app as an update. Installing it as an update will preserve your settings configuration.
+To update YTM Extended you must patch a new APK of the same architecture and then install the newly patched APK on top of the old YTM Extended app as an update. Installing it as an update will preserve your settings configuration.
 
 Normally, you do not need to uninstall your old YTM Extended app before installing the new one. However, there are two things to note.
 
