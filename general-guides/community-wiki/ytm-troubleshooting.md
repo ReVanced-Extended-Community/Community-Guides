@@ -149,11 +149,15 @@ This error most often means that you are trying to install an app that is an old
 
 **b)** Your patched YTM APK does not have the `MicroG Support` patch applied to it. Patch again and include the `MicroG Support` patch.
 
-**c)** You are installing a patched YTM Extended APK that is an older version than the YTM Extended that is currently installed. Uninstall YTM Extended before installing the older version.
+**c)** You are installing a patched YTM Extended APK that is an older app version than the YTM Extended that is currently installed. Uninstall YTM Extended before installing the older app version.
 
 > You can backup your settings before uninstalling the currently installed YTM Extended. Refer to the "Exporting / Importing The Settings" section in the [YTM guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-guide.md#exporting--importing-the-settings).
 
-**d)** You are installing an older version of Vanced MicroG than the one you already have installed. To uninstall the one you currently have installed, open your device Settings > Apps > Vanced MicroG > Uninstall.
+**d)** You are installing as an update but the patched APK you are installing is not the same architecture as the currently installed YTM Extended app. Use the same architecture variant or uninstall YTM Extended before installing the new YTM Extended.
+
+> You can backup your settings before uninstalling the currently installed YTM Extended. Refer to the "Exporting / Importing The Settings" section in the [YTM guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-guide.md#exporting--importing-the-settings).
+
+**e)** You are installing an older app version of Vanced MicroG than the one you already have installed. To uninstall the one you currently have installed, open your device Settings > Apps > Vanced MicroG > Uninstall.
 
 
 
