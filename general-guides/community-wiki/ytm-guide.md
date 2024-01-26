@@ -26,7 +26,7 @@
 
 > If you get an error saying "App not installed as app isn't compatible with your device." it means that your device isn't supported by the RVX Manager. Refer to the [YTM troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-troubleshooting.md#issues-with-patching--installation) for further instructions.
 
-**b)** Go to [apkmirror.com](https://www.apkmirror.com/apk/google-inc/youtube-music/) and download the arm64-v8a variant APK of a recent YT Music version, such as [`6.29.57`](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-29-57-release/#downloads). You do not need to install it.
+**b)** Go to [apkmirror.com](https://www.apkmirror.com/apk/google-inc/youtube-music/) and download the arm64-v8a variant APK of a version supported by the patches, such as [`6.33.52`](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-33-52-release/#downloads). You do not need to install it.
 
 > If you are patching to install the patched APK on a non-armv64-v8a device, download the variant of a recent YT Music APK that matches the architecture of the device you plan to install the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). If an Android device is not arm64-v8a it is most likely armeabi-v7a.
 
@@ -61,7 +61,7 @@ When ready to patch, press "Done" and then "Patch". Patching generally takes 2-5
 
 ## **3. Installation**
 
-When patching is finished I do not recommend using the "Install" button in the Manager. Instead, export the APK by tapping the save icon as shown in [this image](https://imgur.com/a/FKD0okE). Save it, and then install the exported APK from your file manager.
+When patching is finished press "Install". You can also export the APK by tapping the save icon as shown in [this image](https://imgur.com/a/FKD0okE).
 
 You may get a pop-up saying that the installation was blocked because it is an unknown app. Tap **"More details"** and then **"Install anyway"** as shown [here](https://imgur.com/a/iLP2m7l).
 

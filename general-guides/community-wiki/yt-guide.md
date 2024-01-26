@@ -59,7 +59,7 @@ When ready to patch, press "Done" and then "Patch". Patching generally takes 2-5
 
 ## **3. Installation**
 
-When patching is finished I do not recommend using the "Install" button in the Manager. Instead, export the APK by tapping the save icon as shown in [this image](https://imgur.com/a/FKD0okE). Save it, and then install the exported APK from your file manager.
+When patching is finished press "Install". You can also export the APK by tapping the save icon as shown in [this image](https://imgur.com/a/FKD0okE).
 
 You may get a pop-up saying that the installation was blocked because it is an unknown app. Tap **"More details"** and then **"Install anyway"** as shown [here](https://imgur.com/a/iLP2m7l).
 
