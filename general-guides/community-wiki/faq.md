@@ -10,7 +10,7 @@ ReVanced Extended is a derivative project of ReVanced mainly of just patches mad
 
 ### **2. Is ReVanced Extended discontinued?**
 
-inotia00 announced on August 5th, 2023 that the project was being discontinued. However, on September 5th he made a return and said he will be doing bug fixes for YT ReVanced Extended and adding features and fixes for YTM Extended.
+Yes. On January 26th 2024, inotia00 released patches for the final time. If your ReVanced Extended app stops working you can switch to [ReVanced](https://revanced.app/).
 
 
 
