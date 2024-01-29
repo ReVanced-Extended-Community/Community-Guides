@@ -28,7 +28,7 @@
 
 **b)** Go to [apkmirror.com](https://www.apkmirror.com/apk/google-inc/youtube-music/) and download the arm64-v8a variant APK of a version supported by the patches, such as [`6.33.52`](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-33-52-release/#downloads). You do not need to install it.
 
-> If you are patching to install the patched APK on a non-armv64-v8a device, download the variant of a recent YT Music APK that matches the architecture of the device you plan to install the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). If an Android device is not arm64-v8a it is most likely armeabi-v7a.
+> If you are patching to install the patched APK on a non-armv64-v8a device, download the variant of a supported YT Music version that matches the architecture of the device you plan to install the patched APK on, as demonstrated [here](https://imgur.com/a/NYoAUGS). If an Android device is not arm64-v8a it is most likely armeabi-v7a.
 
 **c)** Download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). This will connect the patched YT Music app to the Google servers. You can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest) if desired.
 
