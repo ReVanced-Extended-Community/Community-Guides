@@ -132,7 +132,7 @@ Here's how to set it up:
 
 ### **Downloader Setup**
 
-**a)** You need to have included the `Hook Download Button` patch when you patched the app.
+**a)** You need to have included the `Hide action bar component` patch when you patched the app.
 
 **b)** Open YTM Extended. Tap on the profile picture > Settings > ReVanced Extended > Action Bar > Hook download button, **On**. Fully close and restart the app.
 
