@@ -169,7 +169,7 @@ The YT Music you patched APK doesn't match your device's architecture. Refer to 
 
 
 
-### **13. App crashes on startup**
+### **15. App crashes on startup**
 
 3 common causes:
 
