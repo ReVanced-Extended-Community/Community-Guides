@@ -57,7 +57,7 @@ Go to Settings > ReVanced Extended > Navigation > Hide shorts button, **On/Off**
 
 ### **6. The player UI doesn't go away**
 
-You may have set it to permanently show in Settings > Accessibility. Otherwise, this issue occurs randomly, and currently, the only fix is to restart the app.
+You may have set it to permanently show in Settings > Accessibility. Otherwise, this issue occurs randomly, and the only fix is to restart the app.
 
 
 
@@ -71,7 +71,13 @@ This likely means that the SponsorBlock servers are down. You can check the serv
 
 ### **8. Watch history isn't being saved**
 
-Whitelist `s.youtube.com` in your ad-blocker, DNS-blocker, firewall, etc.
+This is one of two issues:
+
+**a)** The player parameter spoof is causing this issue (but nevertheless, you should not disable it unless you have YT Premium). If this is the case, videos you watch in YT ReVanced Extended won't display in your history in the patched or unpatched apps, but they will still be saved by Google, which you can verify [here](https://myactivity.google.com/product/youtube?utm_source=my-activity). 
+
+> Note that if you
+
+**b)** You must whitelist `s.youtube.com` in your ad-blocker, DNS-blocker, firewall, etc.
 
 
 
@@ -165,6 +171,8 @@ Export the patched APK by tapping the save icon as shown in [this image](https:/
 **c)** Uninstall the YT ReVanced Extended app that is already on your device before trying again. Make sure it is not installed in an alternate user profile or private folder that your device features.
 
 > You can backup your settings before uninstalling the currently installed YT ReVanced Extended. Refer to the "Exporting / Importing The Settings" section in the [YT guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-guide.md#exporting--importing-the-settings).
+
+
 
 
 ### **17. "App not installed as package conflicts with an existing package."**
