@@ -77,7 +77,7 @@ This is one of two issues:
 
 There is a partial workaround:
 
-First, go to Settings > General > Playback in feeds, **On**. Next, go to Settings > ReVanced Extended > Miscellaneous > Spoof player parameter **in feed**, On.
+First, go to Settings > General > Playback in feeds, **On**. Next, go to Settings > ReVanced Extended > Miscellaneous > Spoof player parameter in feed, **On**.
 
 Now when you want to watch a video and have it added to your history, allow it to play in feed for 10-15 seconds before clicking into the video. However, YouTube will only consider the part of the video watched in feed as watched.
 
