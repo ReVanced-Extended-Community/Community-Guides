@@ -73,7 +73,13 @@ This likely means that the SponsorBlock servers are down. You can check the serv
 
 This is one of two issues:
 
-**a)** The player parameter spoof is causing this issue (but nevertheless, you should not disable it unless you have YT Premium). If this is the case, videos you watch in YT ReVanced Extended won't display in your history in the patched or unpatched apps, but they will still be saved by Google, which you can verify [here](https://myactivity.google.com/product/youtube?utm_source=my-activity). 
+**a)** The player parameter spoof is causing this issue (but nevertheless, you should not disable it unless you have YT Premium). 
+
+There is a partial workaround:
+
+First, go to Settings > General > Playback in feeds, **On**. Next, go to Settings > ReVanced Extended > Miscellaneous > Spoof player parameter **in feed**, On.
+
+Now when you want to watch a video and have it added to your history, allow it to play in feed for 10-15 seconds before clicking into the video. However, YouTube will only consider the part of the video watched in feed as watched.
 
 **b)** You must whitelist `s.youtube.com` in your ad-blocker, DNS-blocker, firewall, etc.
 
