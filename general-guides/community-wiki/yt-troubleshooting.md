@@ -75,8 +75,6 @@ This is one of two issues:
 
 **a)** The player parameter spoof is causing this issue (but nevertheless, you should not disable it unless you have YT Premium). If this is the case, videos you watch in YT ReVanced Extended won't display in your history in the patched or unpatched apps, but they will still be saved by Google, which you can verify [here](https://myactivity.google.com/product/youtube?utm_source=my-activity). 
 
-> Note that if you
-
 **b)** You must whitelist `s.youtube.com` in your ad-blocker, DNS-blocker, firewall, etc.
 
 
