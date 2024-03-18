@@ -18,4 +18,4 @@
 
 [Settings Documentation With Screenshots](https://kazimmt.github.io/RVX-Features/)
 
-If you found an issue or want to suggest an improvement to this wiki, you can do so [here](https://github.com/ReVanced-Extended-Community/Community-Guides).
+If you found an issue with this wiki or want to suggest an improvement to this wiki, you can do so [here](https://github.com/ReVanced-Extended-Community/Community-Guides).
