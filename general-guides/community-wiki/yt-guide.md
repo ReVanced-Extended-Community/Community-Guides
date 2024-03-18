@@ -4,9 +4,11 @@
 
 ## **Things To Know Before You Begin** 
 
+**This guide focuses on patching YT ReVanced Extended with inotia00's patches (which haven't been updated since January 2024), although basic info is provided for patching with YT-Advanced's patches (AKA ReX) and anddea's patches, both of which are forks/adaptions of inotia00's patches. For more detailed info on patching ReX, see the [ReX documentation](https://github.com/YT-Advanced/revanced-documentation).**
+
 **a)** Check out the [Frequently Asked Questions](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/faq.md#frequently-asked-questions).
 
-**b)** This guide will use the non-root RVX Manager method. Check [inotia00's documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on root installs and the other patching methods.
+**b)** This guide will use the non-root RVX Manager method. Check [inotia00's documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) or for info on root installs and the other patching methods.
 
 **c)** There is a [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) which you should check if you get stuck at any point during this tutorial.
 
@@ -30,9 +32,21 @@
 
 > If you get an error saying "App not installed as app isn't compatible with your device." it means that your device isn't supported by the RVX Manager. Refer to the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for further instructions.
 
-**b)** Download (but do **not** bother installing) a [`18.45.43` (nodpi) YouTube APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-45-43-release/youtube-18-45-43-android-apk-download/).
+**b)** Download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). This will connect the patched YouTube app to the Google servers. You can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest) if desired.
 
-**c)** Download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). This will connect the patched YouTube app to the Google servers. You can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest) if desired.
+**c)** This step varies depending on whether you want to use inotia00's patches (which are no longer being developed), YT-Advanced's (AKA ReX) patches (which are sometimes being developed), or anddea's patches (which are currently being developed).
+
+Open the RVX Manager > Settings > Sources:
+
+* For inotia00's patches, press the reset button in the top-right corner if your sources are not configured to the [default](https://imgur.com/a/MHOOnUW).
+
+* For YT-Advanced's patches (AKA ReX), set the sources like in [this image](https://imgur.com/a/LwYkuP3).
+
+* For anddea's patches, set the sources like in [this image](https://imgur.com/a/vXTfyFV).
+
+(All users continue here): Press "OK" and restart the RVX Manager to apply the changes. Reopen the RVX Manager > Patcher > Select an application, and press the highlighted suggested YouTube version. It will open a search in your browser so you can download that APK. You want to download the nodpi variant of the suggested YouTube version from apkmirror.com. 
+
+> Example: In [this example](https://imgur.com/a/ly91opd), the Manager is suggesting version `19.02.39`. After tapping on the suggested version, a search opened up for an APK of that YouTube version. The result from apkmirror.com that is of the nodpi variant and of the suggested version is the one to use, as shown in [this screenshot](https://imgur.com/a/O5HXm2M). If you can't find it, go to [apkmirror.com/youtube](https://www.apkmirror.com/apk/google-inc/youtube/) and manually find the suggested version. Download the nodpi variant from the download page, as shown in [this screenshot](https://imgur.com/a/1NHzM2B).
 
 
 
@@ -45,7 +59,7 @@ If you want to customize the patch selection or patch options, press "Selected p
 
 > If you are prevented from changing the patch selection, you can enable the `Allow changing patch selection` toggle in the RVX Manager settings. To reset to the default selection, tap the "Default" button at the top of the patch selection menu.
 
-You can see examples of what the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#youtube). Note that it is a work-in-progress.
+You can see examples of what some of the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#youtube). Note that it is a work-in-progress.
 
 Patches that have the ⚙️ symbol have additional settings (AKA patch options) that you can configure before patching. Noteable ones are the `Theme` patch and the `Custom branding icon YouTube` patch, which has [3 preset app icons](https://imgur.com/a/qlelvZk) you can choose from.
 
@@ -63,7 +77,7 @@ When patching is finished press "Install". You can also export the APK by tappin
 
 You may get a pop-up saying that the installation was blocked because it is an unknown app. Tap **"More details"** and then **"Install anyway"** as shown [here](https://imgur.com/a/iLP2m7l).
 
-> If you get an installation error see the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation).
+> If you get an installation error follow the prompts in the Manager to try to resolve the issue, or see the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation).
 
 
 

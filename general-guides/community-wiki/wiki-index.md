@@ -6,6 +6,14 @@
 
 [inotia00's GitHub](https://github.com/inotia00)
 
+[YT-Advanced's (ReX) GitHub](https://github.com/YT-Advanced)
+
+[anddea's GitHub](https://github.com/anddea)
+
+[RVX Telegram](https://t.me/revanced_extended_chat/)
+
+[ReX Telegram](https://t.me/ReXgroups)
+
 [Patch Documentation With Screenshots](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation)
 
 [Settings Documentation With Screenshots](https://kazimmt.github.io/RVX-Features/)
