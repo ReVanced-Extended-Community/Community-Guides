@@ -4,7 +4,7 @@
 
 ## **Things To Know Before You Begin** 
 
-**This guide focuses on patching YT ReVanced Extended with inotia00's patches (which haven't been updated since January 2024), although basic info is provided for patching with YT-Advanced's patches (AKA ReX) and anddea's patches, both of which are forks/adaptions of inotia00's patches. For more detailed info on patching ReX, see the [ReX documentation](https://github.com/YT-Advanced/revanced-documentation).**
+**This guide focuses on patching YT ReVanced Extended with inotia00's patches, although basic info is provided for patching with anddea's patches, which is a fork/adaption of inotia00's patches. For info on patching ReX, see the [ReX documentation](https://github.com/YT-Advanced/revanced-documentation).**
 
 **a)** Check out the [Frequently Asked Questions](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/faq.md#frequently-asked-questions).
 
@@ -30,21 +30,17 @@
 
 **a)** Download and install the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
-> If you get an error saying "App not installed as app isn't compatible with your device." it means that your device isn't supported by the RVX Manager. Refer to the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for further instructions.
+> If you get an error saying "App not installed as app isn't compatible with your device." it means that your device isn't supported by the RVX Manager. Refer to the [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for instructions.
 
-**b)** Download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). This will connect the patched YouTube app to the Google servers. You can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest) if desired.
+**b)** Download and install [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases/latest). (If you are using Hauwei or Xiomi, be sure to select the special download for your device.)
 
-**c)** This step varies depending on whether you want to use inotia00's patches (which are no longer being developed), YT-Advanced's (AKA ReX) patches (which are sometimes being developed), or anddea's patches (which are currently being developed).
-
-Open the RVX Manager > Settings > Sources:
+**c)** This step varies depending on whether you want to use inotia00's or anddea's patches. Open the RVX Manager > Settings > Sources:
 
 * For inotia00's patches, press the reset button in the top-right corner if your sources are not configured to the [default](https://imgur.com/a/MHOOnUW).
 
-* For YT-Advanced's patches (AKA ReX), set the sources like in [this image](https://imgur.com/a/LwYkuP3).
-
 * For anddea's patches, set the sources like in [this image](https://imgur.com/a/vXTfyFV).
 
-(All users continue here): Press "OK" and restart the RVX Manager to apply the changes. Reopen the RVX Manager > Patcher > Select an application, and press the highlighted suggested YouTube version. It will open a search in your browser so you can download that APK. You want to download the nodpi variant of the suggested YouTube version from apkmirror.com. 
+(All users continue here): Press "OK" and restart the RVX Manager to apply the changes. Reopen the RVX Manager > Patcher > Select an application, and press the button with the suggested YouTube version. It will open a search in your browser so you can download that APK. You want to download the `nodpi` variant of the suggested YouTube version from apkmirror.com. 
 
 > Example: In [this example](https://imgur.com/a/ly91opd), the Manager is suggesting version `19.02.39`. After tapping on the suggested version, a search opened up for an APK of that YouTube version. The result from apkmirror.com that is of the nodpi variant and of the suggested version is the one to use, as shown in [this screenshot](https://imgur.com/a/O5HXm2M). If you can't find it, go to [apkmirror.com/youtube](https://www.apkmirror.com/apk/google-inc/youtube/) and manually find the suggested version. Download the nodpi variant from the download page, as shown in [this screenshot](https://imgur.com/a/1NHzM2B).
 
@@ -57,13 +53,13 @@ Open the RVX Manager and press Patcher > Select an application > **STORAGE**, an
 
 If you want to customize the patch selection or patch options, press "Selected patches". 
 
-> If you are prevented from changing the patch selection, you can enable the `Allow changing patch selection` toggle in the RVX Manager settings. To reset to the default selection, tap the "Default" button at the top of the patch selection menu.
+> If you are prevented from changing the patch selection, you can enable the `Allow changing patch selection` toggle in the RVX Manager settings. If you need to reset to the default selection, tap the "Default" button at the top of the patch selection menu.
 
 You can see examples of what some of the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#youtube). Note that it is a work-in-progress.
 
 Patches that have the ⚙️ symbol have additional settings (AKA patch options) that you can configure before patching. Noteable ones are the `Theme` patch and the `Custom branding icon YouTube` patch, which has [3 preset app icons](https://imgur.com/a/qlelvZk) you can choose from.
 
-> If you decide not to use the default selection, you still **must** include the `MicroG Support` patch for non-root installs.
+> If you decide not to use the default selection, you still **must** include the `GmsCore support` patch for non-root installs.
 
 
 When ready to patch, press "Done" and then "Patch". Patching generally takes 2-5 minutes. If you leave the app it may cancel without warning. If any errors or failures occur use the button in the bottom left corner to copy the full log in order to make troubleshooting easier.
@@ -84,9 +80,9 @@ You may get a pop-up saying that the installation was blocked because it is an u
 
 # **4. Additional Setup**
 
-Aside from the detailed setup instructions below that are for the more complex configurations, many settings / patches can be enabled/disabled in the YT ReVanced Extended app. To find these settings, open YT ReVanced Extended > Profile picture > Settings. From there you can configure the ReVanced Extended, Return YouTube Dislike, and SponsorBlock settings (if you include the necessary patches).
+Aside from the detailed setup instructions below that are for the more complex configurations, many settings / patches can be enabled/disabled in the YT ReVanced Extended app. To find these settings, open YT ReVanced Extended > Profile picture > Settings > ReVanced Extended.
 
-You can see screenshots demonstrating what all of the settings do [here](https://kazimmt.github.io/RVX-Features/rvx-features/yt-rvx-features/).
+You can see screenshots demonstrating what many of the settings do [here](https://kazimmt.github.io/RVX-Features/rvx-features/yt-rvx-features/). Note that it is a work-in-progress.
 
 
 
@@ -100,7 +96,7 @@ Follow these steps so that when you open a YouTube link it will open in the YT R
 
 **b)** Now open the App info of YT ReVanced Extended > Set as default / Open by default > Open supported links, **On**.
 
-**c)** Then go back to the previous page. Tap "Supported web addresses" > turn them all **On**. (If you are on MIUI, tap on "Add link" and check off all URLs. Then press "Add".)
+**c)** Then go back to the previous page. Tap "Supported web addresses" > turn them all **On**.
 
 
 
@@ -109,13 +105,13 @@ Follow these steps so that when you open a YouTube link it will open in the YT R
 
 There are three important things to know about downloading in YT ReVanced Extended.
 
-**a)** You need to have included the `Overlay Buttons` patch.
+**a)** You need to have included the `Overlay buttons` patch.
 
-**b)** The ReVanced Extended download function is separate from the built-in download button which is reserved for YT Premium members. The ReVanced Extended download button can be enabled by going into Settings > ReVanced Extended > Overlay buttons > Show download button, **On**. The download button will appear beside the full-screen button in the video player.
+**b)** The ReVanced Extended download function is separate from the built-in download button which is reserved for YT Premium members. The ReVanced Extended download button can be enabled by going into Settings > ReVanced Extended > Player > Player buttons > Show external download button, **On**. The download button will appear beside the full-screen button in the video player.
 
 **c)** When you press the download button it will attempt to open [YTDLnis](https://github.com/deniscerri/ytdlnis/releases/latest) to download the media. You can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several other downloaders you can use. 
 
-If you want to use a downloader other than YTDLnis, install the downloader and open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Overlay buttons > External downloader settings. Then enter the package name of the downloader or select the downloader from the list and restart the app. 
+If you want to use a downloader other than YTDLnis, navigate to Settings > ReVanced Extended > Player > Player buttons > External downloader package name. Then select the downloader from the list or enter the package name of the downloader, press "OK" and install it if prompted. 
 
 
 
@@ -129,7 +125,9 @@ Normally, you do not need to uninstall your old YT ReVanced Extended app before 
 
 **1)** Some bugs can persist or occur if you do not do a fresh install.
 
-**2)** If the new and old YT ReVanced Extended APKs were not signed using the same keystore file, the new YT ReVanced Extended APK cannot be installed without uninstalling the old YT ReVanced Extended app first.
+**2)** If the new and old YT ReVanced Extended APKs were not signed using the same keystore file, the new YT ReVanced Extended APK cannot be installed without uninstalling the old YT ReVanced Extended app first. (Read below to understand what a keystore is.)
+
+If either of these issues apply to you, read below to learn how to import and export your YT ReVanced Extended settings so you don't need to reconfigure them.
 
 
 
@@ -147,9 +145,9 @@ If you uninstall or clear the app data of the RVX Manager the keystore file will
 
 If you need or want to uninstall the old YT ReVanced Extended APK and install the new APK as a fresh install, you can export the settings configuration from the old YT ReVanced Extended app and import it into the new app.
 
-To do this, open the old YT ReVanced Extended app > Profile picture > Settings > ReVanced Extended > Miscellaneous > Import/Export settings, and either export as a `.txt` file or copy the text directly and save it to your clipboard until you are ready to paste it into the new YT ReVanced Extended app.
+To do this, open the old YT ReVanced Extended app > Profile picture > Settings > ReVanced Extended > Miscellaneous > Import / Export settings, and either export as a `.txt` file or copy the text directly and save it to your clipboard until you are ready to paste it into the new YT ReVanced Extended app.
 
-After installing the new YT ReVanced Extended app, open it and tap on the profile picture > Settings > ReVanced Extended > Miscellaneous > Import/Export settings, and import the `.txt` file or replace the text with the text you copied. 
+After installing the new YT ReVanced Extended app, open it and tap on the profile picture > Settings > ReVanced Extended > Miscellaneous > Import / Export settings, and import the `.txt` file or replace the text with the text you copied. 
 
 The standard YouTube settings will still need to be configured, as well as any new ReVanced Extended settings.
 
