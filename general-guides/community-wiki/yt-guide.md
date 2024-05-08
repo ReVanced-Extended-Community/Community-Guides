@@ -26,7 +26,7 @@
 
 
 
-## **1. Downloading RVX Manager, YT APK, & Vanced MicroG**
+## **1. Downloading RVX Manager, YT APK, & GmsCore**
 
 **a)** Download and install the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
