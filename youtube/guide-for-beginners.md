@@ -102,7 +102,7 @@ ___
 
 
 
-**a)** If you do not have Vanced MicroG installed, download and install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest). Or you can use an updated forked version from [inotia00's GitHub](https://github.com/inotia00/VancedMicroG/releases/latest).
+**a)** If you do not have **GmsCore** installed, download and install [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases/latest). (If you are using Hauwei or Xiomi, be sure to select the special download for your device.)
 
 
 
@@ -164,7 +164,7 @@ The application will be selected and if it is your first time patching the Defau
 
 
 
-If you don't want to use the Default selection you **must** at least include the `MicroG Support` patch.
+If you don't want to use the Default selection you **must** at least include the `GmsCore Support` patch.
 
 
 
