@@ -90,7 +90,7 @@ You can see screenshots demonstrating what many of the settings do [here](https:
 
 Follow these steps so that when you open a YouTube link it will open in the YT ReVanced Extended app instead of the official YouTube app.
 
-> If you are using MIUI, you'll need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on Manage applications. Then continue with the steps below.
+> If you are using MIUI, you may need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on Manage applications. Then continue with the steps below.
 
 **a)** Uninstall or disable the official YouTube app. Or go to the App info of official YouTube, tap on Set as default / Open by default > Open supported links, **Off**.
 
