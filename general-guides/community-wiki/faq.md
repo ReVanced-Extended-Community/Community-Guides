@@ -4,7 +4,7 @@
 
 [ReVanced](https://revanced.app/) is a free modular patcher for Android apps such as YouTube. It can be used to create applications that have extra features and customizability, similar to how a browser extension works, but for apps.
 
-ReVanced Extended is a derivative project of ReVanced mainly of just patches made for YouTube, YT Music, and Reddit. It focuses on providing more features than the ReVanced patches, and it is not affiliated with ReVanced.
+ReVanced Extended is a derivative project of ReVanced (not affiliated), mainly consisting of patches made for YouTube, YT Music, and Reddit. It focuses on providing more features than the ReVanced patches.
 
 
 
@@ -40,7 +40,7 @@ Due to legal reasons, ReVanced Extended APKs cannot be directly distributed. Any
 
 ### **7. What features are different between ReVanced Extended and ReVanced?**
 
-The best way to answer this is by installing ReVanced Extended and comparing it to ReVanced. However, you can check what the patches do on [this page](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation) (note that it is a work-in-progress). You can also check what the all of the toggles in YouTube and YT Music Extended do on [this page](https://kazimmt.github.io/RVX-Features/). Alternatively, you can compare the list of patches between the [ReVanced Extended GitHub](https://github.com/inotia00/revanced-patches/tree/revanced-extended#readme) and the [ReVanced site](https://revanced.app/patches), but keep in mind that some patches can contain several features and options within, so just looking at the patches list doesn't tell the full story.
+The best way to answer this is by installing ReVanced Extended and comparing it to ReVanced. However, you can check what the patches do on [this page](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation) (note that it is a work-in-progress). You can also check what all of the toggles in YouTube and YT Music Extended do on [this page](https://kazimmt.github.io/RVX-Features/). Alternatively, you can compare the list of patches between the [ReVanced Extended GitHub](https://github.com/inotia00/revanced-patches/tree/revanced-extended#readme) and the [ReVanced site](https://revanced.app/patches), but keep in mind that some patches can contain several features and options within, so just looking at the patches list doesn't tell the full story.
 
 
 
