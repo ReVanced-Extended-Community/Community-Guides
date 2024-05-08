@@ -4,19 +4,19 @@
 
 [ReVanced](https://revanced.app/) is a free modular patcher for Android apps such as YouTube. It can be used to create applications that have extra features and customizability, similar to how a browser extension works, but for apps.
 
-ReVanced Extended is a derivative project of ReVanced mainly of just patches made for YouTube, YT Music, and Reddit. ReVanced Extended focuses on providing more features than the ReVanced patches. ReVanced Extended was developed by inotia00 (until January 2024), and forks of his work are continuing to be developed by their respective maintainers. ReVanced Extended is not affiliated with ReVanced.
+ReVanced Extended is a derivative project of ReVanced mainly of just patches made for YouTube, YT Music, and Reddit. It focuses on providing more features than the ReVanced patches, and it is not affiliated with ReVanced.
 
 
 
 ### **2. Is ReVanced Extended discontinued?**
 
-inotia00 discontinued ReVanced Extended on January 26th, 2024, and some users have had issues with the patched apps since then. However, there are several forks/adaptions of inotia00's work which are continuing to be developed, namely [ReX by YT-Advanced](https://github.com/YT-Advanced/ReX-patches) and [ReVanced Extended by anddea](https://github.com/anddea/revanced-patches).
+Not currently. It has been in the past, but inotia00 is actively maintaining it at the moment.
 
 
 
 ### **3. Is ReVanced Extended safe?**
 
-MicroG, official patching tools, and the patches are all open-source. You can read the code and verify that it is safe.
+GmsCore, official patching tools, and the patches are all open-source. You can read the code and verify that it is safe.
 
 
 
@@ -34,7 +34,7 @@ No. All sites that distribute pre-patched / ready-to-use ReVanced Extended APKs 
 
 ### **6. Why can't I just download a pre-made APK instead of patching it myself?**
 
-Due to legal reasons, ReVanced Extended APKs cannot be directly distributed. Anyone distributing pre-patched ReVanced or ReVanced Extended APKs is not official and potentially untrustworthy. The only guaranteed safe way to install ReVanced Extended is by patching it yourself with one of the official methods.
+Due to legal reasons, ReVanced Extended APKs cannot be directly distributed. Anyone distributing pre-patched ReVanced or ReVanced Extended APKs is not official and potentially untrustworthy. The only truly safe way to install ReVanced Extended is by patching it yourself with one of the official methods.
 
 
 
