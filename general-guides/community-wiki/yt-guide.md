@@ -57,7 +57,7 @@ If you want to customize the patch selection or patch options, press "Selected p
 
 You can see examples of what some of the patches do [here](https://github.com/ReVanced-Extended-Community/Patches-Documentation#youtube). Note that it is a work-in-progress.
 
-Patches that have the ⚙️ symbol have additional settings (AKA patch options) that you can configure before patching. Noteable ones are the `Theme` patch and the `Custom branding icon YouTube` patch, which has [3 preset app icons](https://imgur.com/a/qlelvZk) you can choose from.
+Patches that have the ⚙️ symbol have additional settings (AKA patch options) that you can configure before patching. Noteable ones are the `Theme` and `Custom branding icon YouTube` patches, the latter of which has [3 preset app icons](https://imgur.com/a/qlelvZk) you can choose from.
 
 > If you decide not to use the default selection, you still **must** include the `GmsCore support` patch for non-root installs.
 
