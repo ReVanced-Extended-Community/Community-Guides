@@ -106,7 +106,8 @@ By following these steps, you should be able to resolve the majority of installa
 
 If the app is crashing on startup, there are 3 common causes of it:
 
-**a)** You do not have GmsCore installed. Download and install [GmsCore](https://github.com/ReVanced/GmsCore/releases/latest).
+YouTube and YT Music:
+> **a)** You do not have GmsCore installed. Download and install [GmsCore](https://github.com/ReVanced/GmsCore/releases/latest).
 
 **b)** There was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#6** if this occurred.
 
