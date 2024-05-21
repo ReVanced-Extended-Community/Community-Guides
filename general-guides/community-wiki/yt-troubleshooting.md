@@ -22,7 +22,8 @@ Navigate to your device settings > Accounts > Manage accounts > GmsCore > Remove
 
 ### **3. The download feature isn't working**
 
-Refer to step 4 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/patching%20%26%20setup%20info.md#2b-downloader-setup) to understand and set up the download function in YT ReVanced Extended.
+Refer to section 2 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/patching%20%26%20setup%20info.md#2-general-app-and-feature-setup) to understand and set up the download function in YT ReVanced Extended.
+
 
 
 
