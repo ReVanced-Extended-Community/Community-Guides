@@ -1,0 +1,79 @@
+# **1. Info for Updating ReVanced Extended**
+
+### **1a. How do I update a patched app?**
+
+To update a patched app you must patch a new APK and then install the newly patched APK on top of the currently installed app as an update. Installing it as an update will preserve your settings configuration. 
+
+> Note that if the new APK and the currently installed app were not signed using the same keystore file, the new APK will conflict with the current installation, which will need to be uninstalled before the new APK can be installed. (Read below for an explanation of the keystore.)
+> 
+> In the case where you need to uninstall the currently installed app, remember to export your settings configuration so you you can easily reconfigure the new app. (Read below to learn how to export and import your settings configuration.)
+
+
+
+### **1b. What is the keystore?**
+
+The keystore is a file that the RVX Manager (and any other ReVanced patcher) uses to sign a patched APK. If you have a patched app installed and want to update it, you'll need the updated APK to be signed with the same keystore. Otherwise, you'll need to uninstall your currently installed APK before installing the updated version.
+
+If you uninstall or clear the app data of the RVX Manager the keystore file will be deleted. So be sure to export/backup the keystore before uninstalling or clearing the data of the Manager. You can export and import the keystore file from the RVX Manager settings.
+
+
+
+### **1c. Exporting / Importing Settings for YouTube and YT Music**
+
+You can export and import the RVX settings configurations from/to a YouTube RVX or YT Music RVX.
+
+To export the settings, open the YouTube / YT Music RVX app you want to export the settings from. Navigate to Settings > ReVanced Extended > Miscellaneous > Import / Export settings. Either export as a `.txt` file or copy the text directly and save it to your clipboard until you are ready to import it.
+
+To import the settings, open the YouTube / YT Music RVX app you want to import the settings into. Navigate to the "Import / Export settings" option using the path above, and import the `.txt` file or replace the text with the text you copied.
+
+The non-RVX settings will still need to be configured, as well as any new ReVanced Extended settings.
+
+
+
+
+# **2. General App and Feature Setup**
+
+### **2a. Open Links By Default**
+
+Follow these steps so that when you open a YouTube / YT Music link it will open in the ReVanced Extended app instead of the official app.
+
+> If you are using MIUI, you may need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on Manage applications. Then continue with the steps below.
+
+**a)** Uninstall or disable the official YouTube / YT Music app. Alternatively, go to the App info of YouTube / YT Music, tap on "Set as default" / "Open by default" > Open supported links, **Off**.
+
+**b)** Now open the App info of YouTube RVX / YT Music RVX, tap on "Set as default" / "Open by default" > Open supported links, **On**.
+
+**c)** Then go back to the previous page. Tap "Supported web addresses", and turn them all **On**.
+
+
+
+### **2b. Downloader Setup**
+
+The ReVanced Extended download function is separate from the built-in download button, which is reserved for YouTube Premium members.
+
+YouTube:
+> You need to include the `Overlay buttons` patch.
+>
+> The download button can be enabled by going into Settings > ReVanced Extended > Player > Player buttons > Show external download button, **On**. The download button will appear beside the fullscreen button in the video player.
+
+YT Music:
+> You need to include the `Hide action bar components` patch.
+>
+> To enable downloading, open the app and navigate to Settings > ReVanced Extended > Action Bar > Override download action button, **On**. Now when you press the [Download button **in the player**](https://imgur.com/a/phjYvbe) it will open the downloader.
+
+The default downloader is [YTDLnis](https://github.com/deniscerri/ytdlnis/releases/latest). To change it, navigate to the downloader settings (using the path above) and open the "External downloader package name" setting. Select the downloader you want to use from the list or enter the package name of the downloader, press "OK" and install it if prompted. You can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several other downloaders you can use. 
+
+
+
+
+# **3. YT Music Setup**
+
+### **3a.Android Auto Setup**
+
+TODO
+
+
+
+### **3b. Spoof App Version Setup (for Canadian users)**
+
+TODO
