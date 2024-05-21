@@ -22,15 +22,17 @@ On non-root devices you must use a full (non-bundle) APK when patching. Refer to
 
 
 
-### **3. Nothing happens when I select the Youtube/YT Music APK from storage**
+### **3. Nothing happens when I select the APK from storage**
 
 Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest). If you already are using the correct version, continue with the following steps:
 
-**1)** Go to the App info of stock YouTube/YT Music > Options menu (as shown in [this image](https://imgur.com/a/0js3AZR)) > Uninstall updates (or fully uninstall if you can).
+**1)** Uninstall the official app you are trying to patch. 
 
-**2)** Install the YouTube/YT Music APK that you downloaded
+> If you cannot uninstall it, go to the App info of the app > Options menu (as shown in [this image](https://imgur.com/a/0js3AZR)) > Uninstall updates.
 
-**3)** Open the RVX Manager > Patcher > Select an application > **YouTube/YT Music**.
+**2)** Install the APK that you downloaded. (Now you should have the suggested APK installed.)
+
+**3)** Open the RVX Manager > Patcher > Select an application, and select the app from the app list.
 
 Continue from the middle of step 2 in the [beginners guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners/).
 
