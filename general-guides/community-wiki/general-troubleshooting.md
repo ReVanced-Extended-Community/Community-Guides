@@ -79,7 +79,7 @@ If you encounter any sort of "App not installed" error during the installation o
    - If you see a Google Play Protect pop-up, tap **"More details"** and then **"Install anyway"**. Do not tap **"Got it"**, as this will cancel the installation. [View Image](https://imgur.com/a/Ck8nfhn).
 
 2. **Ensure Sufficient Storage:**
-    - Make sure your device has enough storage space
+    - Make sure your device has enough storage space.
 
 3. **Uninstall Existing Versions:**
    - Remove any existing YouTube/YT Music Extended apps, including those in alternate user profiles or private folders.
