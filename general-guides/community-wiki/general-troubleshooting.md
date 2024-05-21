@@ -111,5 +111,3 @@ YouTube and YT Music:
 
 **b)** There was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#6** if this occurred.
 
-**c)** The email you are signing in with has parental control restrictions.
-
