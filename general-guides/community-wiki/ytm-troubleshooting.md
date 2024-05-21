@@ -4,7 +4,7 @@
 
 ### **1. No internet connection / The home page isn't loading**
 
-Navigate to your device settings > Accounts > Manage accounts > GmsCore > Remove account. You can sign in again if you want.
+Navigate to your device settings > Accounts > Manage accounts > Google (blue icon) > Remove account. You can sign in again if you want.
 
 > If that doesn't work make sure you have the latest version of [GmsCore](https://github.com/ReVanced/GmsCore/releases/latest) installed.
 
@@ -13,7 +13,7 @@ Navigate to your device settings > Accounts > Manage accounts > GmsCore > Remove
 
 ### **2. I'm having issues signing in to my Google account**
 
-Navigate to your device settings > Accounts > Manage accounts > GmsCore > Remove account. You can sign in again if you want.
+Navigate to your device settings > Accounts > Manage accounts > Google (blue icon) > Remove account. You can sign in again if you want.
 
 > If that doesn't work make sure you have the latest version of [GmsCore](https://github.com/ReVanced/GmsCore/releases/latest) i
 
