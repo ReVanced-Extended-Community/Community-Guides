@@ -65,7 +65,7 @@ Continue from the middle of step 2 in the [beginners guide](https://www.reddit.c
 
 ### **6. "App not installed."**
 
-If you encounter any sort of "App not installed" error during the installation of Youtube/YT Music Extended, follow these steps to resolve the issue:
+If you encounter any sort of "App not installed" error during the installation of the patched app, follow these steps to resolve the issue:
 
 1. **Google Play Protect Warning:**
    - If you see a Google Play Protect pop-up, tap **"More details"** and then **"Install anyway"**. Do not tap **"Got it"**, as this will cancel the installation. [View Image](https://imgur.com/a/Ck8nfhn).
