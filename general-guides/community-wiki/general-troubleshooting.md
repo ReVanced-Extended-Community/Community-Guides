@@ -58,11 +58,7 @@ Continue from the middle of step 2 in the [beginners guide](https://www.reddit.c
 
 * If it still doesn't work you can try searching and asking on the [subreddit](https://www.reddit.com/r/revancedextended/) or [Telegram group](https://t.me/revanced_extended_chat) for your error. Alternatively, you can patch on a different device or use a different patching method.
 
-* If you patch on a different device or use a different patching method be sure to patch the APK variant that was built for the architecture of the device you plan to **install** the patched APK on. Refer to step 1 in the [general guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-guide.md#1-downloading-rvx-manager-yt-music-apk--vanced-microg) for info on downloading an APK for a specific architecture.
-
-> If you patch with the RVX Manager on a different device you'll need to export the patched APK so that you can send it to the device you plan to install it on. To export the APK, tap the save icon when patching is completed as shown in [this image](https://imgur.com/a/FKD0okE). Then press "Save".
-
-If you want to patch on PC, follow the instructions for the desired method in in [inotia00's documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation).
+* If you want to patch on a different device refer to the info in issue **#1** above.
 
 
 
