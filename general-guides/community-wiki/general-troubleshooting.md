@@ -74,7 +74,7 @@ If you encounter any sort of "App not installed" error during the installation o
     - Make sure your device has enough storage space.
 
 3. **Uninstall Existing Versions:**
-   - Remove any existing YouTube/YT Music Extended apps, including those in alternate user profiles or private folders.
+   - Remove any existing patched apps, including those in alternate user profiles or private folders.
 
  > Youtube/YT Music
 > 
