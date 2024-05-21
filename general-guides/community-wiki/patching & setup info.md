@@ -70,10 +70,30 @@ The default downloader is [YTDLnis](https://github.com/deniscerri/ytdlnis/releas
 
 ### **3a.Android Auto Setup**
 
-TODO
+> **Note:** From my experience and from what I heard, the YT Music RVX home screen will not load on Android Auto. But you can start a song, playlist, or album from the app on your phone/tablet and you can then control it from Android Auto.
+
+Here's how to set it up:
+
+**a)** You need to include the `Certificate Spoof` patch.
+
+**b)** Once you have it installed with that patch, go to the Android Auto settings on your device.
+
+**c)** Scroll down to "Version and permission info".
+
+**d)** Tap on it 10 times to enter developer mode and then tap "OK" on the popup.
+
+**e)** Tap the 3 dots in the upper-right corner of your screen and open the Developer settings.
+
+**f)** Scroll down and enable Unknown sources.
 
 
 
 ### **3b. Spoof App Version Setup (for Canadian users)**
 
-TODO
+**a)** You need to include the `Spoof App Version` patch.
+
+**b)** Open YT Music RVX > Profile picture > Settings > ReVanced Extended > General > Spoof app version, **On**. Fully close and restart the app.
+
+> You may need to navigate back to Settings > ReVanced Extended > Miscellaneous > Spoof app version target, and set it to `4.27.53`.
+
+> If this does not work you can use an [old version of Vanced Music](https://www.apkmirror.com/apk/team-vanced/vanced-youtube-music/vanced-youtube-music-4-27-50-release/vanced-youtube-music-4-27-50-android-apk-download/), or use a VPN to a different country to get around the radio-only restriction.
