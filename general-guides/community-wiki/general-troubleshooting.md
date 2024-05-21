@@ -63,9 +63,6 @@ Continue from the middle of step 2 in the [beginners guide](https://www.reddit.c
 
 
 
-### **6. Manager is stuck on "Installing..."**
-
-Export the patched APK by tapping the save icon as shown in [this image](https://imgur.com/a/FKD0okE). Save it, and then install the exported APK from your file manager. You might get an error while installing it, if so refer to the entry below for instructions on how to solve the issue.
 
 
 
