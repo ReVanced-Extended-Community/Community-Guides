@@ -6,7 +6,8 @@
 
 Navigate to your device settings > Accounts > Manage accounts > Google (blue icon) > Remove account. You can sign in again if you want.
 
-> If that doesn't work make sure you have the latest version of [GmsCore](https://github.com/ReVanced/GmsCore/releases/latest) installed.
+> If that doesn't work you can uninstall GmsCore and then reinstall [GmsCore](https://github.com/ReVanced/GmsCore/releases/latest).
+
 
 
 
