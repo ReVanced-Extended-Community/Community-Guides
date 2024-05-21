@@ -63,11 +63,7 @@ Continue from the middle of step 2 in the [beginners guide](https://www.reddit.c
 
 
 
-
-
-
-
-### **7. "App not installed."**
+### **6. "App not installed."**
 
 If you encounter any sort of "App not installed" error during the installation of Youtube/YT Music Extended, follow these steps to resolve the issue:
 
@@ -98,7 +94,7 @@ By following these steps, you should be able to resolve the majority of installa
 
 
 
-### **8. App crashes on startup**
+### **7. App crashes on startup**
 
 If the app is crashing on startup, there are 3 common causes of it:
 
