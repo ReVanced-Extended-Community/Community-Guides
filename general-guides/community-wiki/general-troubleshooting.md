@@ -5,7 +5,8 @@
 
 You'll need to patch on a different Android device or on PC.
 
-When patching on a different device or PC, be sure to patch the APK variant that was built for the architecture of the device you plan to install the patched APK on. For YouTube, you can simply use the universal version, but for YouTube Music, you'll need the specific version corresponding to your device.
+YT Music:
+> Note that when patching YT Music on a different device or PC, you'll need to patch the APK variant that was built for the architecture of the device you plan to **install** the patched APK on. 
 
 > If you patch with the RVX Manager on a different device you'll need to export the patched APK so that you can send it to the device you plan to install it on. To export the APK, tap the save icon when patching is completed as shown in [this image](https://imgur.com/a/FKD0okE). Then press "Save".
 
