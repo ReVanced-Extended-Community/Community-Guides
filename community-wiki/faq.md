@@ -52,7 +52,7 @@ If you patch with the non-root method, YT ReVanced Extended and YT Music RVX wil
 
 ### **9. How do I update ReVanced Extended?**
 
-Generally, you update by patching the currently suggested version of the app you want to patch and then install it on top of the existing ReVanced Extended app as an update. You can refer to section 1 in the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) for in-depth info.
+Generally, you update by patching the currently suggested version of the app you want to patch and then install it on top of the existing ReVanced Extended app as an update. You can refer to section 1 in the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) for in-depth info.
 
 
 
