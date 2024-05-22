@@ -32,7 +32,8 @@ Refer to section 3 of the [setup guide](https://github.com/ReVanced-Extended-Com
 
 Google has made it so that Canadian users who do not have YT Premium can only use the Radio feature within YouTube Music.
 
-Refer to step 3b of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/patching%20%26%20setup%20info.md#3b-spoof-app-version-setup-for-canadian-users) to solve this.
+Refer to section 3 of the [setup guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/patching%20%26%20setup%20info.md#3-yt-music-setup) to solve this.
+
 
 
 
