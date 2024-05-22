@@ -8,7 +8,7 @@
 
 [Patch Documentation With Screenshots](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation) (work-in-progress)
 
-[Settings Documentation With Screenshots](https://kazimmt.github.io/RVX-Features/) (work-in-progress)
+[Settings Documentation With Screenshots](https://kazimmt.github.io/#revanced-extended-features) (work-in-progress)
 
 
 
