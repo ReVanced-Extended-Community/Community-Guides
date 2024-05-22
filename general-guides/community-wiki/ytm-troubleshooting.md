@@ -1,4 +1,4 @@
-# **YT Music Extended Troubleshooting**
+# **YT Music ReVanced Extended Troubleshooting**
 
 
 
@@ -11,12 +11,9 @@ Navigate to your device settings > Accounts > Manage accounts > Google (blue ico
 
 
 
-
 ### **2. The download feature isn't working**
 
 Refer to section 2 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/patching%20%26%20setup%20info.md#2-general-app-and-feature-setup) to understand and set up the download function in YT Music RVX.
-
-
 
 
 
@@ -29,17 +26,6 @@ Refer to section 3 of the [setup guide](https://github.com/ReVanced-Extended-Com
 
 
 
-
 ### **4. Why can I only use the Radio feature?**
 
-Google has made it so that Canadian users who do not have YT Premium can only use the Radio feature within YouTube Music.
-
-Refer to section 3 of the [setup guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/patching%20%26%20setup%20info.md#3-yt-music-setup) to solve this.
-
-
-
-
-
-### **5. App crashes on startup**
-
-If the app is crashing on startup and you've already followed the general troubleshooting steps, then the likely issue is the email you are signing in with has parental control restrictions.
+Google has made it so that Canadian users who do not have YT Premium can only use the Radio feature within YouTube Music. Refer to section 3 of the [setup guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/patching%20%26%20setup%20info.md#3-yt-music-setup) to solve this.
