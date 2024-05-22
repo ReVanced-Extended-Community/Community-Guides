@@ -20,7 +20,7 @@ If you uninstall or clear the app data of the RVX Manager the keystore file will
 
 ### **1c. Exporting / Importing Settings for YouTube and YT Music**
 
-You can export and import the RVX settings configurations from/to a YouTube RVX or YT Music RVX.
+You can export and import the RVX settings configuration from/to a YouTube RVX or YT Music RVX.
 
 To export the settings, open the YouTube RVX / YT Music RVX app you want to export the settings from. Navigate to Settings > ReVanced Extended > Miscellaneous > Import / Export settings. Either export as a `.txt` file or copy the text directly and save it to your clipboard until you are ready to import it.
 
@@ -54,11 +54,11 @@ Follow these steps so that when you open a YouTube / YT Music / Reddit link it w
 
 > If you are using MIUI, you may need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on Manage applications. Then continue with the steps below.
 
-**a)** Uninstall or disable the official YouTube / YT Music / Reddit app. Alternatively, go to the App info of YouTube / YT Music / Reddit, tap on "Set as default" / "Open by default" > Open supported links, **Off**.
+1. Uninstall or disable the official YouTube / YT Music / Reddit app. Alternatively, go to the App info of YouTube / YT Music / Reddit and tap on "Set as default" / "Open by default" > Open supported links, **Off**.
 
-**b)** Now open the App info the patched YouTube / YT Music / Reddit, tap on "Set as default" / "Open by default" > Open supported links, **On**.
+2. Now open the App info of the patched YouTube / YT Music / Reddit and tap on "Set as default" / "Open by default" > Open supported links, **On**.
 
-**c)** Then go back to the previous page. Tap "Supported web addresses", and turn them all **On**.
+3. Then go back to the previous page. Tap "Supported web addresses", and turn them all **On**.
 
 
 
@@ -89,25 +89,25 @@ The external downloader must be installed on the device. The default downloader 
 
 Here's how to set it up:
 
-**a)** You need to include the `Certificate spoof` patch.
+1. You need to include the `Certificate spoof` patch.
 
-**b)** Once you have it installed with that patch, go to the Android Auto settings on your device.
+2. Once you have it installed with that patch, go to the Android Auto settings on your device.
 
-**c)** Scroll down to "Version and permission info".
+3. Scroll down to "Version and permission info".
 
-**d)** Tap on it 10 times to enter developer mode and then tap "OK" on the popup.
+4. Tap on it 10 times to enter developer mode and then tap "OK" on the popup.
 
-**e)** Tap the 3 dots in the upper-right corner of your screen and open the Developer settings.
+5. Tap the 3 dots in the upper-right corner of your screen and open the Developer settings.
 
-**f)** Scroll down and enable Unknown sources.
+6. Scroll down and enable Unknown sources.
 
 
 
 ### **3b. Spoof App Version Setup (for Canadian users)**
 
-**a)** You need to include the `Spoof app version` patch.
+1. You need to include the `Spoof app version` patch.
 
-**b)** Open YT Music RVX and navigate to Settings > ReVanced Extended > General > Spoof app version, **On**. Fully close and restart the app.
+2. Open YT Music RVX and navigate to Settings > ReVanced Extended > General > Spoof app version, **On**. Fully close and restart the app.
 
 > You may need to navigate back to Settings > ReVanced Extended > Miscellaneous > Spoof app version target, and set it to `4.27.53`.
 
