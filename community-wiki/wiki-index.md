@@ -22,7 +22,7 @@
 
 [RVX Telegram (support)](https://t.me/revanced_extended_chat/)
 
-[RVX Telegram (updates / notifications)](https://t.me/revanced_extended_repo)
+[RVX Telegram (announcements)](https://t.me/revanced_extended)
 
 [ReX Telegram](https://t.me/ReXgroups)
 
