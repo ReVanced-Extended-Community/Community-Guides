@@ -175,7 +175,7 @@ Wait for the patching to be complete. It usually takes 2-5 minutes. If you leave
 
 
 
-## **3. Installing**
+# **3. Installing**
 
 
 
