@@ -63,40 +63,30 @@ Continue from the middle of step 2 in the [beginners guide](https://www.reddit.c
 
 
 
-### **6. "App not installed."**
+### **6. Installation errors**
 
-If you encounter any sort of "App not installed" error during the installation of the patched app, follow these steps to resolve the issue:
+If you encounter any installation error when installing the patched app, follow these steps until the issue is resolved:
 
 1. **Google Play Protect Warning:**
-   - If you see a Google Play Protect pop-up, tap **"More details"** and then **"Install anyway"**. Do not tap **"Got it"**, as this will cancel the installation. [View Image](https://imgur.com/a/Ck8nfhn).
+If you see a Google Play Protect pop-up, tap **"More details"** and then **"Install anyway"**. Do not tap "Got it", as this will cancel the installation. [View Image](https://imgur.com/a/Ck8nfhn).
 
 2. **Ensure Sufficient Storage:**
-    - Make sure your device has enough storage space.
+Make sure your device has enough storage space.
 
 3. **Uninstall Existing Versions:**
-   - Remove any existing patched apps, including those in alternate user profiles or private folders.
+Remove any existing installation of the app you are trying to install, even if it is in an alternate user profile or private folder.
 
- > Youtube/YT Music
-> 
->  - If you are trying to install the unpatched Youtube/YT Music APK from APKMirror.com, note that it is not necessary to install it directly. Instead, follow step 2 in the [beginners guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners) to select and patch the APK correctly.
+4. **Check The APK**
+If you are trying to install the unpatched APK from APKMirror.com, note that it is simpler to avoid installing it before patching. Instead, follow step 2 in the [beginners guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners) to select and patch the APK without installing it beforehand.
 
+Youtube / YT Music:
+> 5. **Patch with `GmsCore Support`:**
+> Ensure that the `GmsCore Support` patch is applied when patching the APK.
 
-4. **Check APK Compatibility:**
-   - Ensure that the patched APK matches the architecture of your device. Refer to step 1 in the [general guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-guide.md#1-downloading-rvx-manager-yt-music-apk--vanced-microg) for information on downloading the correct APK.
+YT Music:
+> 6. **Check APK Compatibility:**
+> Ensure that the APK you patched is built for your device's architecture. Refer to TODO for information on downloading the correct APK.
 
-> Youtube/YT Music
->  - If you are trying to install the unpatched Youtube/YT Music APK from APKMirror.com, note that it is not necessary to install it directly. Instead, follow step 2 in the [beginners guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners) to select and patch the APK correctly.
-
-**Youtube/YT Music specific issues**
-
-5. **Patch with `GmsCore Support`:**
-   - Ensure that the `GmsCore Support` patch is applied when patching the APK.
-
-6. **GmsCore Version:**
-   - Ensure you are not installing an older version of GmsCore than the one already installed. Uninstall the current version via Settings > Apps > GmsCore > Uninstall.
-   - Make sure to download the latest GmsCore from [here](https://github.com/ReVanced/GmsCore/releases/latest)
-
-By following these steps, you should be able to resolve the majority of installation issues with Youtube/YT Music Extended.
 
 
 
