@@ -6,9 +6,11 @@
 
 [Frequently Asked Questions](https://www.reddit.com/r/revancedextended/wiki/faq)
 
-[Patch Documentation With Screenshots](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation) (work-in-progress)
+[Info for Updating and Additional Setup](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md)
 
-[Settings Documentation With Screenshots](https://kazimmt.github.io/#revanced-extended-features) (work-in-progress)
+[Patch Documentation with Screenshots](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation) (work-in-progress)
+
+[Settings Documentation with Screenshots](https://kazimmt.github.io/#revanced-extended-features) (work-in-progress)
 
 
 
