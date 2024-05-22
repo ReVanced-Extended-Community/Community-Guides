@@ -22,18 +22,33 @@ If you uninstall or clear the app data of the RVX Manager the keystore file will
 
 You can export and import the RVX settings configurations from/to a YouTube RVX or YT Music RVX.
 
-To export the settings, open the YouTube / YT Music RVX app you want to export the settings from. Navigate to Settings > ReVanced Extended > Miscellaneous > Import / Export settings. Either export as a `.txt` file or copy the text directly and save it to your clipboard until you are ready to import it.
+To export the settings, open the YouTube RVX / YT Music RVX app you want to export the settings from. Navigate to Settings > ReVanced Extended > Miscellaneous > Import / Export settings. Either export as a `.txt` file or copy the text directly and save it to your clipboard until you are ready to import it.
 
-To import the settings, open the YouTube / YT Music RVX app you want to import the settings into. Navigate to the "Import / Export settings" option using the path above, and import the `.txt` file or replace the text with the text you copied.
+To import the settings, open the YouTube RVX / YT Music RVX app you want to import the settings into. Navigate to the "Import / Export settings" option using the path above, and import the `.txt` file or replace the text with the text you copied.
 
 The non-RVX settings will still need to be configured, as well as any new ReVanced Extended settings.
 
 
 
 
-# **2. General App and Feature Setup**
+# **2. General Info for Patching and Feature Setup**
 
-### **2a. Open Links By Default**
+### **2a. Which APK should I use for patching?**
+
+Open the [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest) and navigate to Patcher > Select an application. The suggested version will be displayed for each app, as shown [here](https://imgur.com/a/TLcC2ZG). 
+
+> **Advanced tip**: To see all of the supported versions, you can read the JSON format [here](https://github.com/inotia00/revanced-patches?tab=readme-ov-file#-json-format).
+
+Tap on the suggested version in the RVX Manager to open a search in your browser for the suggested APK. Find and open the result from apkmirror.com with the suggested version. 
+
+YouTube / Reddit:
+> On apkmirror.com there will likely be 2 variants of the APK. Make sure to download the `nodpi` variant, as shown [here](https://imgur.com/a/XE6yF80).
+
+YT Music:
+> On apkmirror.com there will likely be 2-4 variants of the APK. If you plan to only install the patched YT Music APK on the device that the RVX Manager is on, download the arm64-v8a architecture variant, as shown [here](https://imgur.com/a/NYoAUGS). If you plan to install the patched APK on another device, download the variant that matches the architecture of that device. You can search online to see which architecture(s) the device supports, but 99% of the time it will be arm64-v8a or armeabi-v7a.
+
+
+### **2b. Open Links By Default**
 
 Follow these steps so that when you open a YouTube / YT Music link it will open in the ReVanced Extended app instead of the official app.
 
@@ -47,7 +62,7 @@ Follow these steps so that when you open a YouTube / YT Music link it will open 
 
 
 
-### **2b. Downloader Setup**
+### **2c. Downloader Setup**
 
 The ReVanced Extended download function is separate from the built-in download button, which is reserved for YouTube Premium members.
 
