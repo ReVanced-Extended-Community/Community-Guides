@@ -93,10 +93,15 @@ YT Music:
 
 ### **7. App crashes on startup**
 
-If the app is crashing on startup, there are 3 common causes of it:
+If the app is crashing on startup, it may be because of one of the following:
 
-YouTube and YT Music:
-> **a)** You do not have GmsCore installed. Download and install [GmsCore](https://github.com/ReVanced/GmsCore/releases/latest).
+1. There was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#5** if this occurred.
 
-**b)** There was a failure or error while it was patching and you installed the broken APK. Refer to troubleshooting issue **#6** if this occurred.
+YouTube / YT Music:
+> 2. You do not have GmsCore installed. Download and install [GmsCore](https://github.com/ReVanced/GmsCore/releases/latest).
+>
+> 3. The `GmsCore support` patch was not applied to the app.
+
+YT Music:
+> 4. The email you are signing in with has parental control restrictions.
 
