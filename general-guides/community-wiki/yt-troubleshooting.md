@@ -1,12 +1,12 @@
 # **YT ReVanced Extended Troubleshooting**
 
 
+
 ### **1. No internet connection / Home page not loading / Account sign-in issues**
 
 Navigate to your device settings > Accounts > Manage accounts > Google (blue icon) > Remove account. You can sign in again if you want.
 
 > If that doesn't work you can uninstall GmsCore and then reinstall [GmsCore](https://github.com/ReVanced/GmsCore/releases/latest).
-
 
 
 
@@ -18,12 +18,11 @@ Refer to section 2 of the [setup info guide](https://github.com/ReVanced-Extende
 
 
 
-
 ### **3. Videos stop and buffer infinitely**
 
 Make sure your YT ReVanced Extended is up-to-date.
 
-If buffering persists, open YT ReVanced Extended and tap the profile picture > Settings > ReVanced Extended > Miscellaneous > Spoof player parameter, **On**. Restart the app. 
+If that does not solve it, open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Miscellaneous > Spoof test client, **On**. Note that this will have many side effects.
 
 
 
@@ -43,7 +42,7 @@ Go to Settings > ReVanced Extended > General > Navigation buttons > Hide shorts 
 
 ### **5. The player UI doesn't go away**
 
-You may have set it to permanently show in Settings > Accessibility. Otherwise, this issue occurs randomly, and the only fix is to restart the app.
+You may have set it to permanently show in Settings > Accessibility. Alternatively, this issue may be a bug which occurs randomly, and the only fix is to restart the app.
 
 
 
