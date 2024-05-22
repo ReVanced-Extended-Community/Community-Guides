@@ -1,7 +1,7 @@
 # **General Troubleshooting**
 
 
-> **For app-specific troubleshooting, refer to the [troubleshooting index](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/troubleshooting-index.md).**
+> **For app-specific troubleshooting, refer to the [troubleshooting index](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/troubleshooting-index.md).**
 
 
 ### **1. My device is not supported**
@@ -88,7 +88,7 @@ Youtube / YT Music:
 
 YT Music:
 > 6. **Check APK Compatibility:**
-> Ensure that the APK you patched is built for your device's architecture. Refer to section 2 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup) for information on downloading the correct APK.
+> Ensure that the APK you patched is built for your device's architecture. Refer to section 2 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup) for information on downloading the correct APK.
 
 
 

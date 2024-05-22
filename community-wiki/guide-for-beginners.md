@@ -68,7 +68,7 @@ ___
 
 
 
-* Check this [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) if you get stuck during this guide.
+* Check this [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) if you get stuck during this guide.
 
 
 
@@ -120,7 +120,7 @@ ___
 
 
 
-(If you get an error saying *"App not installed as app isn't compatible with your device."* it means that your device is not supported by the RVX Manager. Refer to this [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for instructions.)
+(If you get an error saying *"App not installed as app isn't compatible with your device."* it means that your device is not supported by the RVX Manager. Refer to this [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for instructions.)
 
 
 
@@ -258,13 +258,13 @@ ___
 
 
 
-Check this [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for help with patching and installation.
+Check this [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for help with patching and installation.
 
 
 
 
 
-Read the "Downloader Setup" section in the [YT ReVanced Extended community guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/yt-guide.md#downloader-setup) for info on setting up a downloader.
+Read the "Downloader Setup" section in the [YT ReVanced Extended community guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/yt-guide.md#downloader-setup) for info on setting up a downloader.
 
 
 
@@ -276,4 +276,4 @@ Check out [this site](https://kazimmt.github.io/#revanced-extended-features) to 
 
 
 
-Check out the [YTM ReVanced Extended community guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/ytm-guide.md#yt-music-revanced-extended-guide) if you want to install YT Music Extended.
+Check out the [YTM ReVanced Extended community guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/ytm-guide.md#yt-music-revanced-extended-guide) if you want to install YT Music Extended.
