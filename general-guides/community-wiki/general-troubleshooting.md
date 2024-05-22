@@ -30,7 +30,7 @@ Make sure you are using the latest [RVX Manager](https://github.com/inotia00/rev
 
 > If you cannot uninstall it, go to the App info of the app > Options menu (as shown in [this image](https://imgur.com/a/0js3AZR)) > Uninstall updates.
 
-**2)** Install the APK that you downloaded. (Now you should have the suggested APK installed.)
+**2)** Install the APK that you downloaded from APKMirror.
 
 **3)** Open the RVX Manager > Patcher > Select an application, and select the app from the app list.
 
