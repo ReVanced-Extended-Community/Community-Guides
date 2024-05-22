@@ -270,7 +270,7 @@ Read the "Downloader Setup" section in the [YT ReVanced Extended community guide
 
 
 
-Check out [this site](https://kazimmt.github.io/RVX-Features/rvx-features/yt-rvx-features/) to see what all of the YT ReVanced Extended settings do!
+Check out [this site](https://kazimmt.github.io/#revanced-extended-features) to see what all of the ReVanced Extended settings do!
 
 
 

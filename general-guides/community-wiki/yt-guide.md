@@ -49,7 +49,7 @@
 
 ## **2. Patching The APK**
 
-Open the RVX Manager and press Patcher > Select an application > **STORAGE**, and then select the YouTube APK that you downloaded from APKMirror. (It will probably be in your downloads folder.)
+Open the RVX Manager and press Patcher > Select an application > **STORAGE**, and then select the YouTube/YT Music APK that you downloaded from APKMirror. (It will probably be in your downloads folder.)
 
 If you want to customize the patch selection or patch options, press "Selected patches". 
 
