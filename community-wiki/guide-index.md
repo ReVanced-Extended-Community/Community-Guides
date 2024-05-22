@@ -1,6 +1,6 @@
 **What are you looking for?**
 
-[Beginner YouTube ReVanced Extended guide (inotia00's patches)](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners/)
+[Beginner ReVanced Extended guide (inotia00's patches)](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners/)
 
 [inotia00's general guides and documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation)
 
