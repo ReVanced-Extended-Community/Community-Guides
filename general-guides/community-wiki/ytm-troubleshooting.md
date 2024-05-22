@@ -1,6 +1,8 @@
 # **YT Music ReVanced Extended Troubleshooting**
 
 
+> **For patching and installation troubleshooting, refer to the [general troubleshooting guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/general-troubleshooting.md).**
+
 
 ### **1. No internet connection / Home page not loading / Account sign-in issues**
 
@@ -13,7 +15,7 @@ Navigate to your device settings > Accounts > Manage accounts > Google (blue ico
 
 ### **2. The download feature isn't working**
 
-Refer to section 2 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/patching%20%26%20setup%20info.md#2-general-app-and-feature-setup) to understand and set up the download function in YT Music RVX.
+Refer to section 2 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup) to understand and set up the download feature.
 
 
 

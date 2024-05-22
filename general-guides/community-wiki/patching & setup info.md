@@ -50,13 +50,13 @@ YT Music:
 
 ### **2b. Open Links By Default**
 
-Follow these steps so that when you open a YouTube / YT Music link it will open in the ReVanced Extended app instead of the official app.
+Follow these steps so that when you open a YouTube / YT Music / Reddit link it will open in the ReVanced Extended app instead of the official app.
 
 > If you are using MIUI, you may need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on Manage applications. Then continue with the steps below.
 
-**a)** Uninstall or disable the official YouTube / YT Music app. Alternatively, go to the App info of YouTube / YT Music, tap on "Set as default" / "Open by default" > Open supported links, **Off**.
+**a)** Uninstall or disable the official YouTube / YT Music / Reddit app. Alternatively, go to the App info of YouTube / YT Music / Reddit, tap on "Set as default" / "Open by default" > Open supported links, **Off**.
 
-**b)** Now open the App info of YouTube RVX / YT Music RVX, tap on "Set as default" / "Open by default" > Open supported links, **On**.
+**b)** Now open the App info of YouTube RVX / YT Music RVX / Reddit RVX, tap on "Set as default" / "Open by default" > Open supported links, **On**.
 
 **c)** Then go back to the previous page. Tap "Supported web addresses", and turn them all **On**.
 
@@ -64,7 +64,7 @@ Follow these steps so that when you open a YouTube / YT Music link it will open 
 
 ### **2c. Downloader Setup**
 
-The ReVanced Extended download function is separate from the built-in download button, which is reserved for YouTube Premium members.
+The download feature in YouTube RVX / YT Music RVX is separate from the built-in download button, which is reserved for YouTube Premium members.
 
 YouTube:
 > You need to include the `Overlay buttons` patch.
