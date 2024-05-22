@@ -9,7 +9,7 @@
 You'll need to patch on a different Android device or on PC.
 
 YT Music:
-> Note that when patching YT Music on a different device or PC, you'll need to patch the APK variant that was built for the architecture of the device you plan to **install** the patched APK on. 
+> Note that when patching YT Music on a different device or PC, you'll need to patch the APK variant that was built for the architecture of the device you plan to **install** the patched APK on. Refer to section 2 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup) for more information.
 
 > If you patch with the RVX Manager on a different device you'll need to export the patched APK so that you can send it to the device you plan to install it on. To export the APK, tap the save icon when patching is completed as shown in [this image](https://imgur.com/a/FKD0okE). Then press "Save".
 
