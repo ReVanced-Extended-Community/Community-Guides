@@ -43,7 +43,7 @@ Continue from the middle of step 2 in the [beginners guide](https://www.reddit.c
 
 **a)** Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
-**b)** Disable any VPNs or ad-blockers and restart the RVX Manager.
+**b)** Disable any ad-blockers or VPNs and restart the RVX Manager.
 
 
 
