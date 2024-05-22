@@ -6,7 +6,7 @@ To update a patched app you must patch a new APK and then install the newly patc
 
 > Note that if the new APK and the currently installed app were not signed using the same keystore file, the new APK will conflict with the current installation, which will need to be uninstalled before the new APK can be installed. (Read below for an explanation of the keystore.)
 > 
-> In the case where you need to uninstall the currently installed app, remember to export your settings configuration so you you can easily reconfigure the new app. (Read below to learn how to export and import your settings configuration.)
+> In the case where you need to uninstall the currently installed app, remember to export your settings configuration so you can easily reconfigure the new app. (Read below to learn how to export and import your settings configuration.)
 
 
 
@@ -56,7 +56,7 @@ Follow these steps so that when you open a YouTube / YT Music / Reddit link it w
 
 **a)** Uninstall or disable the official YouTube / YT Music / Reddit app. Alternatively, go to the App info of YouTube / YT Music / Reddit, tap on "Set as default" / "Open by default" > Open supported links, **Off**.
 
-**b)** Now open the App info of YouTube RVX / YT Music RVX / Reddit RVX, tap on "Set as default" / "Open by default" > Open supported links, **On**.
+**b)** Now open the App info the patched YouTube / YT Music / Reddit, tap on "Set as default" / "Open by default" > Open supported links, **On**.
 
 **c)** Then go back to the previous page. Tap "Supported web addresses", and turn them all **On**.
 
@@ -76,7 +76,7 @@ YT Music:
 >
 > To enable downloading, open the app and navigate to Settings > ReVanced Extended > Action Bar > Override download action button, **On**. Now when you press the [Download button **in the player**](https://imgur.com/a/phjYvbe) it will open the downloader.
 
-The default downloader is [YTDLnis](https://github.com/deniscerri/ytdlnis/releases/latest). To change it, navigate to the downloader settings (using the path above) and open the "External downloader package name" setting. Select the downloader you want to use from the list or enter the package name of the downloader, press "OK" and install it if prompted. You can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several other downloaders you can use. 
+The external downloader must be installed on the device. The default downloader is [YTDLnis](https://github.com/deniscerri/ytdlnis/releases/latest). To change it, navigate to the downloader settings (using the path above) and open the "External downloader package name" setting. Select the downloader you want to use from the list or enter the package name of the downloader, press "OK" and install it if prompted. You can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several other downloaders you can use. 
 
 
 
@@ -89,7 +89,7 @@ The default downloader is [YTDLnis](https://github.com/deniscerri/ytdlnis/releas
 
 Here's how to set it up:
 
-**a)** You need to include the `Certificate Spoof` patch.
+**a)** You need to include the `Certificate spoof` patch.
 
 **b)** Once you have it installed with that patch, go to the Android Auto settings on your device.
 
@@ -105,9 +105,9 @@ Here's how to set it up:
 
 ### **3b. Spoof App Version Setup (for Canadian users)**
 
-**a)** You need to include the `Spoof App Version` patch.
+**a)** You need to include the `Spoof app version` patch.
 
-**b)** Open YT Music RVX > Profile picture > Settings > ReVanced Extended > General > Spoof app version, **On**. Fully close and restart the app.
+**b)** Open YT Music RVX and navigate to Settings > ReVanced Extended > General > Spoof app version, **On**. Fully close and restart the app.
 
 > You may need to navigate back to Settings > ReVanced Extended > Miscellaneous > Spoof app version target, and set it to `4.27.53`.
 
