@@ -1,8 +1,18 @@
+## **Resources**
+
 [Installation Guides](https://www.reddit.com/r/revancedextended/wiki/guide/)
 
-[Troubleshooting](https://www.reddit.com/r/revancedextended/wiki/troubleshooting)
+[Troubleshooting Guides](https://www.reddit.com/r/revancedextended/wiki/troubleshooting)
 
 [Frequently Asked Questions](https://www.reddit.com/r/revancedextended/wiki/faq)
+
+[Patch Documentation With Screenshots](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation) (work-in-progress)
+
+[Settings Documentation With Screenshots](https://kazimmt.github.io/RVX-Features/) (work-in-progress)
+
+
+
+## **Links**
 
 [inotia00's GitHub](https://github.com/inotia00)
 
@@ -10,12 +20,12 @@
 
 [anddea's GitHub](https://github.com/anddea)
 
-[RVX Telegram](https://t.me/revanced_extended_chat/)
+[RVX Telegram (support)](https://t.me/revanced_extended_chat/)
+
+[RVX Telegram (updates / notifications)](https://t.me/revanced_extended_repo)
 
 [ReX Telegram](https://t.me/ReXgroups)
 
-[Patch Documentation With Screenshots](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation)
 
-[Settings Documentation With Screenshots](https://kazimmt.github.io/RVX-Features/)
 
 If you found an issue with this wiki or want to suggest an improvement to this wiki, you can do so [here](https://github.com/ReVanced-Extended-Community/Community-Guides).
