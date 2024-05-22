@@ -20,7 +20,8 @@ Refer to section 2 of the [setup info guide](https://github.com/ReVanced-Extende
 
 
 
-### **3. How do I get YTM Extended on Android Auto?**
+### **3. How do I get YT Music RVX on Android Auto?**
+
 
 Refer to section 3 of the [setup guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/general-guides/community-wiki/patching%20%26%20setup%20info.md#3-yt-music-setup).
 
