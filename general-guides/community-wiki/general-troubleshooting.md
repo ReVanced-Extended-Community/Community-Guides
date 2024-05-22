@@ -56,7 +56,7 @@ Continue from the middle of step 2 in the [beginners guide](https://www.reddit.c
 
 **c)** If your device's language was set to a language that reads right-to-left when the failure occurred then set your device's language to English or any language that reads left-to-right. Then fully close the Manager, and try again.
 
-* If it still doesn't work you can try searching and asking on the [subreddit](https://www.reddit.com/r/revancedextended/) or [Telegram group](https://t.me/revanced_extended_chat) for your error. Alternatively, you can patch on a different device or use a different patching method.
+* If it still doesn't work you can try searching and asking for support in the [subreddit](https://www.reddit.com/r/revancedextended/) or [Telegram group](https://t.me/revanced_extended_chat). Alternatively, you can patch on a different device or use a different patching method.
 
 * If you want to patch on a different device refer to the info in issue **#1** above.
 
