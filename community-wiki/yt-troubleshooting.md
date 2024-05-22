@@ -33,7 +33,7 @@ If that does not solve it, open YT ReVanced Extended and navigate to Settings > 
 
 **To hide/unhide Shorts in feeds:**
 
-Go to Settings > ReVanced Extended > Shorts > Hide shorts shelf, **On/Off**.
+Go to Settings > ReVanced Extended > Shorts > Hide shorts shelves, **On/Off**.
 
 **To hide/unhide the Shorts button:**
 
