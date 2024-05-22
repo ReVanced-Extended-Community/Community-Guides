@@ -2,7 +2,7 @@
 
 ---
 
-### [Use the new RVX Manager created specially for ReVanced Extended patches.](https://github.com/inotia00/revanced-manager/releases/latest)
+**[Coming from ReVanced? Use the RVX Manager created specifically for ReVanced Extended patches!](https://github.com/inotia00/revanced-manager/releases/latest)**
 
 
 
@@ -18,39 +18,16 @@ ___
 
 
 
-**This guide is intended as a detailed starting point for first-time users.**
-
-
-
-
-
-**If you're looking for resources on how to patch on PC or other methods, please read the [documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation).**
-
-
-
-
-
-**Looking for screenshots/more information about the ReVanced Extended patches? [Check out this repository! (under updates)](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation)**
-
-
-
-
-
-
-
 ### **Things To Know Before You Begin**
 
+
+
+* This guide is intended as a detailed starting point for first-time users.
 
 
 
 
 * Read the [Frequently Asked Questions](https://www.reddit.com/r/revancedextended/wiki/faq/).
-
-
-
-
-
-* This guide is for patching YouTube.
 
 
 
@@ -68,7 +45,7 @@ ___
 
 
 
-* Check this [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) if you get stuck during this guide.
+* Check the [troubleshooting section](https://www.reddit.com/r/revancedextended/wiki/troubleshooting/) if you get stuck during this guide.
 
 
 
@@ -96,31 +73,39 @@ ___
 
 
 
-#### **Downloading MicroG, YouTube APK, & the RVX Manager**
+#### **Downloading GmsCore, APK to patch, & the RVX Manager**
 
 
 
 
 
-**a)** If you do not have **GmsCore** installed, download and install [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases/latest). (If you are using Hauwei or Xiomi, be sure to select the special download for your device.)
+Download, but do **not** install the APK you want to patch from apkmirror.com:
+
+**YouTube**: [`v19.16.39` (`nodpi`) APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-16-39-release/youtube-19-16-39-android-apk-download/)
+
+**YT Music**: [`v6.50.51` (arm64-v8a) APK](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-50-51-release/youtube-music-6-50-51-android-apk-download/)
+
+**Reddit**: [`v2024.17.0` (`nodpi`) APK](https://www.apkmirror.com/apk/redditinc/reddit/reddit-2024-17-0-release/reddit-2024-17-0-2-android-apk-download/)
+
+
+
+> If you want to learn more how to find the correct APK without relying on this guide, check section 2 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup).
+
+
+Download and install the **RVX Manager** APK from [here](https://github.com/inotia00/revanced-manager/releases/latest). It is inotia00's fork of the official ReVanced Manager, made to be compatible with the ReVanced Extended patches.
+
+> If you get an error saying *"App not installed as app isn't compatible with your device."* it means that your device is not supported by the RVX Manager. Refer to issue 1 in the [general troubleshooting guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/general-troubleshooting.md) for instructions.
 
 
 
 
 
-**b)** Download, but do **not** install the **YouTube** `v19.16.39` (`nodpi`) APK from APKMirror [here](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-16-39-release/youtube-19-16-39-android-apk-download/).
+If patching YouTube or YT Music:
+> **GmsCore** is needed for patched YouTube and YT Music to run. If you do not have GmsCore installed, download and install [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases/latest). (If you are using Hauwei or Xiomi, be sure to select the special download for your device.)
 
 
 
 
-
-**c)** Download and install the **RVX Manager** APK from [here](https://github.com/inotia00/revanced-manager/releases/latest). It is inotia00's fork of the official Manager made to be compatible with ReVanced Extended patches.
-
-
-
-
-
-(If you get an error saying *"App not installed as app isn't compatible with your device."* it means that your device is not supported by the RVX Manager. Refer to this [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for instructions.)
 
 
 
@@ -152,13 +137,13 @@ Press "**Storage**" [as shown in this image](https://imgur.com/a/vx64z3S).
 
 
 
-Select the YouTube APK file that you just downloaded from APKMirror from your downloads folder.
+Select the APK file that you just downloaded from APKMirror from your downloads folder.
 
 
 
 
 
-The application will be selected and if it is your first time patching the Default list of patches will be selected. If you want to make sure the Default patches are selected, press the Default button at the top of the patches selection menu.
+The application will be selected and if it is your first time patching the Default list of patches will be selected. If you want to make sure the Default patches are selected, tap on the selected patches and press the Default button at the top of the patches selection menu.
 
 
 
@@ -170,7 +155,7 @@ If you don't want to use the Default selection you **must** at least include the
 
 
 
-[Check out this repository to see what the patches do! (under updates)](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation)
+> [Check out this repository to see what the patches do!](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation) (work-in-progress)
 
 
 
@@ -182,7 +167,7 @@ When you are done selecting the patches press "**Done**" and then press "**Patch
 
 
 
-Wait for the patching to be complete. It usually takes 2-5 minutes. Do not leave the app or it may cancel. Make sure no errors occur during this step.
+Wait for the patching to be complete. It usually takes 2-5 minutes. If you leave the app it may cancel. Make sure no errors occur during this step.
 
 
 
@@ -196,7 +181,7 @@ Wait for the patching to be complete. It usually takes 2-5 minutes. Do not leave
 
 
 
-When patching is finished you can save the APK as a file so that you have it for later in case you have trouble installing it or want to share it. To do this, tap save icon in the lower left corner of the screen as shown [here](https://imgur.com/a/FKD0okE).
+> When patching is finished you can save the APK as a file so that you have it for later in case you have trouble installing it or want to share it. To do this, tap save icon in the lower left corner of the screen as shown [here](https://imgur.com/a/FKD0okE).
 
 
 
@@ -210,33 +195,9 @@ Press "Install" and wait for it to finish installing. You may get a message sayi
 
 
 
-#### **Optional - Link Association:**
+#### **Optional - Additional Setup:**
 
-
-
-
-
-Follow these steps so that when you open a YouTube link it will open in the YT ReVanced Extended app instead of the official YouTube app:
-
-
-
-
-
-(For MIUI users, use the [Hidden Settings For MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets) app, and use its Manage Applications menu to do these steps.)
-
-
-
-
-
-Go to the *App Info* of YT ReVanced Extended > Set as default > Open supported links, **On**. Then go back to the previous page. Tap "Supported web addresses" > turn them all **On**. You may also need to manually disable these settings for stock YouTube, or just disable/uninstall stock YouTube entirely. 
-
-
-
-
-
-Alternatively, in YT ReVanced Extended there is a button to take you straight to the Default links settings. Tap the profile picture > Settings > ReVanced Extended > Miscellaneous > Open default app settings.
-
-
+There's some additional setup you can do to make the patched app even better! Things like opening YouTube links in the patched YouTube app, or setting up the download feature in YouTube RVX and YT Music RVX. Refer to section 2 and 3 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup) for information on setting up this sorta stuff.
 
 
 
@@ -258,22 +219,10 @@ ___
 
 
 
-Check this [YT troubleshooting page](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/yt-troubleshooting.md#issues-with-patching--installation) for help with patching and installation.
+Check the [troubleshooting section](https://www.reddit.com/r/revancedextended/wiki/troubleshooting/) for help.
 
 
 
 
 
-Read the "Downloader Setup" section in the [YT ReVanced Extended community guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/yt-guide.md#downloader-setup) for info on setting up a downloader.
-
-
-
-
-
-Check out [this site](https://kazimmt.github.io/#revanced-extended-features) to see what all of the ReVanced Extended settings do!
-
-
-
-
-
-Check out the [YTM ReVanced Extended community guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/ytm-guide.md#yt-music-revanced-extended-guide) if you want to install YT Music Extended.
+Check out [this site](https://kazimmt.github.io/#revanced-extended-features) to see what all of the ReVanced Extended settings do! (Note that it is a work-in-progress)
