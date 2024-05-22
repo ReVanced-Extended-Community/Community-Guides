@@ -26,7 +26,7 @@ On non-root devices you must use a full (non-bundle) APK when patching. Refer to
 
 Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest). If you already are using the correct version, continue with the following steps:
 
-**1)** Uninstall the official app you are trying to patch. 
+**1)** Uninstall the unpatched YouTube / YT Music / Reddit from your device. 
 
 > If you cannot uninstall it, go to the App info of the app > Options menu (as shown in [this image](https://imgur.com/a/0js3AZR)) > Uninstall updates.
 
