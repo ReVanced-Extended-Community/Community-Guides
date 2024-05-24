@@ -1,14 +1,16 @@
-## Patches might be unstable for a while. If you're having issues check recent posts for similar situations.
+**Last updated on 24/MAY/2024.**
+
+
+
+### [For more resources like this, check the complete subreddit wiki.](https://reddit.com/r/revancedextended/w/index)
+
+---
+
+### Patches might be unstable for a while. If you're having issues check recent posts for similar situations.
 
 ---
 
 **[Coming from ReVanced? Use the RVX Manager created specifically for ReVanced Extended patches!](https://github.com/inotia00/revanced-manager/releases/latest)**
-
-
-
-
-
-**Last updated by /u/SpacellaryUS on 08/May/2024.**
 
 
 
@@ -83,7 +85,7 @@ Download, but do **not** install the APK you want to patch from apkmirror.com:
 
 **YouTube**: [`v19.16.39` (`nodpi`) APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-16-39-release/youtube-19-16-39-android-apk-download/)
 
-**YT Music**: [`v6.50.51` (`arm64-v8a`) APK](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-50-51-release/youtube-music-6-50-51-android-apk-download/)
+**YT Music**: [`v6.50.51` (arm64-v8a) APK](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-6-50-51-release/youtube-music-6-50-51-android-apk-download/)
 
 **Reddit**: [`v2024.17.0` (`nodpi`) APK](https://www.apkmirror.com/apk/redditinc/reddit/reddit-2024-17-0-release/reddit-2024-17-0-2-android-apk-download/)
 
@@ -143,13 +145,13 @@ Select the APK file that you just downloaded from APKMirror from your downloads 
 
 
 
-The application will be selected, and if it is your first time patching, the Default list of patches will be selected. If you want to make sure the Default patches are selected, tap on the selected patches and press the Default button at the top of the patches selection menu.
+The application will be selected and if it is your first time patching the Default list of patches will be selected. If you want to make sure the Default patches are selected, tap on the selected patches and press the Default button at the top of the patches selection menu.
 
 
 
 
 
-If you don't want to use the Default selection you **must** at least include the `GmsCore support` patch.
+If you don't want to use the Default selection you **must** at least include the `GmsCore Support` patch.
 
 
 
@@ -181,7 +183,7 @@ Wait for the patching to be complete. It usually takes 2-5 minutes. If you leave
 
 
 
-> When patching is finished you can save the APK as a file so that you have it for later in case you have trouble installing it or want to share it. To do this, tap save icon in the lower-left corner of the screen as shown [here](https://imgur.com/a/FKD0okE).
+> When patching is finished you can save the APK as a file so that you have it for later in case you have trouble installing it or want to share it. To do this, tap save icon in the lower left corner of the screen as shown [here](https://imgur.com/a/FKD0okE).
 
 
 
@@ -197,7 +199,7 @@ Press "Install" and wait for it to finish installing. You may get a message sayi
 
 #### **Optional - Additional Setup:**
 
-There's some additional setup you can do to make the patched app even better! Things like opening YouTube links in the patched YouTube app, or setting up the download feature in YouTube RVX and YT Music RVX. Refer to sections 2 and 3 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup) for information on setting up this sorta stuff.
+There's some additional setup you can do to make the patched app even better! Things like opening YouTube links in the patched YouTube app, or setting up the download feature in YouTube RVX and YT Music RVX. Refer to section 2 and 3 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup) for information on setting up this sorta stuff.
 
 
 
