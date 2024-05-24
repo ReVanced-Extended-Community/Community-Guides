@@ -2,9 +2,9 @@
 
 ### **1a. How do I update a patched app?**
 
-To update a patched app you must patch a new APK and then install the newly patched APK on top of the currently installed app as an update. Installing it as an update will preserve your settings configuration. 
+To update a patched app, you must patch a new APK and then install the newly patched APK as an update to the currently installed app. Installing it as an update will preserve your settings configuration. 
 
-> Note that if the new APK and the currently installed app were not signed using the same keystore file, the new APK will conflict with the current installation, which will need to be uninstalled before the new APK can be installed. (Read below for an explanation of the keystore.)
+> Note that if the new APK and the currently installed app were not signed using the same keystore file, the new APK would conflict with the current installation, which will need to be uninstalled before the new APK can be installed. (Read below for an explanation of the keystore.)
 > 
 > In the case where you need to uninstall the currently installed app, remember to export your settings configuration so you can easily reconfigure the new app. (Read below to learn how to export and import your settings configuration.)
 
@@ -52,7 +52,7 @@ YT Music:
 
 Follow these steps so that when you open a YouTube / YT Music / Reddit link it will open in the ReVanced Extended app instead of the official app.
 
-> If you are using MIUI, you may need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on Manage applications. Then continue with the steps below.
+> If you are using MIUI, you may need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on "Manage applications". Then continue with the steps below.
 
 1. Go to the App info of the unpatched YouTube / YT Music / Reddit app and tap on "Set as default" / "Open by default" > Open supported links, **Off**.
    
@@ -78,7 +78,7 @@ YT Music:
 >
 > To enable downloading, open the app and navigate to Settings > ReVanced Extended > Action Bar > Override download action button, **On**. Now when you press the [Download button **in the player**](https://imgur.com/a/phjYvbe) it will open the downloader.
 
-The external downloader must be installed on the device. The default downloader is [YTDLnis](https://github.com/deniscerri/ytdlnis/releases/latest). To change it, navigate to the downloader settings (using the path above) and open the "External downloader package name" setting. Select the downloader you want to use from the list or enter the package name of the downloader, press "OK" and install it if prompted. You can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several other downloaders you can use. 
+The external downloader must be installed on the device. The default downloader is [YTDLnis](https://github.com/deniscerri/ytdlnis/releases/latest). To change it, navigate to the downloader settings (using the path above) and open the "External downloader package name" setting. Select the downloader you want to use from the list or enter the package name of the downloader, press "OK" and install it if prompted. You can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info on several other downloaders you can use. 
 
 
 
