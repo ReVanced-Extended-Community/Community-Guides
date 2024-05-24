@@ -149,7 +149,7 @@ The application will be selected and if it is your first time patching the Defau
 
 
 
-If you don't want to use the Default selection you **must** at least include the `GmsCore Support` patch.
+If you don't want to use the Default selection you **must** at least include the `GmsCore support` patch.
 
 
 
