@@ -44,7 +44,7 @@ Go to Settings > ReVanced Extended > General > Navigation buttons > Hide shorts 
 
 ### **5. The player UI doesn't go away**
 
-You may have set it to permanently show in Settings > Accessibility. Alternatively, this issue may be a bug which occurs randomly, and the only fix is to restart the app.
+You may have set it to permanently show in Settings > Accessibility. Alternatively, this issue may be a random bug, and the only fix is to restart the app.
 
 
 
