@@ -1,4 +1,4 @@
-# **YT ReVanced Extended Troubleshooting**
+# **YouTube ReVanced Extended Troubleshooting**
 
 
 > **For patching and installation troubleshooting, refer to the [general troubleshooting guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/general-troubleshooting.md).**
