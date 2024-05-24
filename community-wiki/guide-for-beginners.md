@@ -143,7 +143,7 @@ Select the APK file that you just downloaded from APKMirror from your downloads 
 
 
 
-The application will be selected and if it is your first time patching the Default list of patches will be selected. If you want to make sure the Default patches are selected, tap on the selected patches and press the Default button at the top of the patches selection menu.
+The application will be selected, and if it is your first time patching, the Default list of patches will be selected. If you want to make sure the Default patches are selected, tap on the selected patches and press the Default button at the top of the patches selection menu.
 
 
 
@@ -181,7 +181,7 @@ Wait for the patching to be complete. It usually takes 2-5 minutes. If you leave
 
 
 
-> When patching is finished you can save the APK as a file so that you have it for later in case you have trouble installing it or want to share it. To do this, tap save icon in the lower left corner of the screen as shown [here](https://imgur.com/a/FKD0okE).
+> When patching is finished you can save the APK as a file so that you have it for later in case you have trouble installing it or want to share it. To do this, tap save icon in the lower-left corner of the screen as shown [here](https://imgur.com/a/FKD0okE).
 
 
 
@@ -197,7 +197,7 @@ Press "Install" and wait for it to finish installing. You may get a message sayi
 
 #### **Optional - Additional Setup:**
 
-There's some additional setup you can do to make the patched app even better! Things like opening YouTube links in the patched YouTube app, or setting up the download feature in YouTube RVX and YT Music RVX. Refer to section 2 and 3 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup) for information on setting up this sorta stuff.
+There's some additional setup you can do to make the patched app even better! Things like opening YouTube links in the patched YouTube app, or setting up the download feature in YouTube RVX and YT Music RVX. Refer to sections 2 and 3 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup) for information on setting up this sorta stuff.
 
 
 
