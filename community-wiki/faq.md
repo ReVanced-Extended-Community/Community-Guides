@@ -28,7 +28,7 @@ Refer to the [index of guides](https://www.reddit.com/r/revancedextended/wiki/gu
 
 ### **5. Is revancedextended.com or revanced.io legitimate?**
 
-No. All sites that distribute pre-patched / ready-to-use ReVanced Extended APKs are unofficial. If you signed-in to Google using an APK from revancedextended.com, revanced.io, revanced.net, or any similar site, we recommend that you change your password and remove any devices that are signed in.
+No. All sites that distribute pre-patched / ready-to-use ReVanced Extended APKs are unofficial. If you signed in to Google using an APK from revancedextended.com, revanced.io, revanced.net, or any similar site, we recommend that you change your password and remove any devices that are signed in.
 
 
 
@@ -40,19 +40,21 @@ Due to legal reasons, ReVanced Extended APKs cannot be directly distributed. Any
 
 ### **7. What features are different between ReVanced Extended and ReVanced?**
 
-The best way to answer this is by installing ReVanced Extended and comparing it to ReVanced. However, you can check what the patches do on [this page](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation) (note that it is a work-in-progress). You can also check what all of the toggles in the patched ReVanced Extended apps do on [this page](https://kazimmt.github.io/#revanced-extended-features) (also a work-in-progress). Alternatively, you can compare the list of patches between the [ReVanced Extended GitHub](https://github.com/inotia00/revanced-patches/tree/revanced-extended#readme) and the [ReVanced site](https://revanced.app/patches), but keep in mind that some patches can contain several features and options within, so just looking at the patches list doesn't tell the full story.
+The best way to answer this is by patching and installing the ReVanced Extended app you want to compare and see the differences directly. 
+
+However, you can check what the patches do on [this page](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation) (note that it is a work-in-progress). You can also check what all of the toggles in the patched ReVanced Extended apps do on [this page](https://kazimmt.github.io/#revanced-extended-features) (also a work-in-progress). Alternatively, you can compare the list of patches between the [ReVanced Extended GitHub](https://github.com/inotia00/revanced-patches/tree/revanced-extended#readme) and the [ReVanced site](https://revanced.app/patches), but keep in mind that some patches can contain several features and options within, so just comparing the list of patches won't reveal much.
 
 
 
 ### **8. Can I have ReVanced Extended and ReVanced apps installed simultaneously?**
 
-If you patch with the non-root method, YT ReVanced Extended and YT Music RVX will have a unique package name and will not conflict with any apps. But under normal conditions, Reddit ReVanced Extended and Reddit ReVanced will conflict.
+If you patch with the non-root method, YouTube ReVanced Extended and YT Music RVX will have a unique package name and will not conflict with any apps. But under normal conditions, Reddit ReVanced Extended and Reddit ReVanced will conflict.
 
 
 
 ### **9. How do I update ReVanced Extended?**
 
-Generally, you update by patching the currently suggested version of the app you want to patch and then install it on top of the existing ReVanced Extended app as an update. You can refer to section 1 in the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) for in-depth info.
+Generally, you update by patching the currently suggested version of the app and then installing it on top of the existing ReVanced Extended app as an update. You can refer to section 1 in the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) for in-depth info.
 
 
 
