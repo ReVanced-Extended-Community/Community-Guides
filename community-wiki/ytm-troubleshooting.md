@@ -15,7 +15,7 @@ Navigate to your device settings > Accounts > Manage accounts > Google ([blue ic
 
 ### **2. The download feature isn't working**
 
-Refer to section 2 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup) to understand and set up the download feature.
+To understand and set up the download feature, refer to section 2 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup).
 
 
 
@@ -30,4 +30,4 @@ Refer to section 3 of the [setup guide](https://github.com/ReVanced-Extended-Com
 
 ### **4. Why can I only use the Radio feature?**
 
-Google has made it so that Canadian users who do not have YT Premium can only use the Radio feature within YouTube Music. Refer to section 3 of the [setup guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#3-yt-music-setup) to solve this.
+Google has made it so that Canadian users who do not have YT Premium can only use the Radio feature within YouTube Music. To solve this, refer to section 3 of the [setup guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#3-yt-music-setup).
