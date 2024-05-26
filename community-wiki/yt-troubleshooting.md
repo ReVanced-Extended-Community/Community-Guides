@@ -22,9 +22,9 @@ To understand and set up the download feature, refer to section 2 of the [setup 
 
 ### **3. Videos stop and buffer infinitely**
 
-Make sure your YT ReVanced Extended is up-to-date.
+Make sure your YT ReVanced Extended is up-to-date with the `Spoof client` patch included. Then open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Miscellaneous > Spoof client, **On**. 
 
-If that does not solve it, open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Miscellaneous > Spoof test client, **On**. Note that this will have many side effects.
+> Note that the client will be spoofed to an iOS client or an Android VR client, and each have their own side-effects. You can choose the type of spoofing you want to use by toggling the "Spoof client to iOS" option. Read the description of the option when it is enabled and disabled to compare the side-effects.
 
 
 
@@ -33,11 +33,11 @@ If that does not solve it, open YT ReVanced Extended and navigate to Settings > 
 
 **To hide/unhide Shorts in feeds:**
 
-Go to Settings > ReVanced Extended > Shorts > Hide shorts shelves, **On/Off**.
+You need to include the `Shorts components` patch. Then open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Shorts > Hide shorts shelves, **On/Off**.
 
 **To hide/unhide the Shorts button:**
 
-Go to Settings > ReVanced Extended > General > Navigation buttons > Hide shorts button, **On/Off**.
+You need to include the `Navigation bar components` patch. Then open YT ReVanced Extended and navigate to Settings > ReVanced Extended > General > Navigation buttons > Hide shorts button, **On/Off**.
 
 
 
