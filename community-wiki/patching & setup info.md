@@ -78,7 +78,7 @@ YT Music:
 >
 > To enable downloading, open the app and navigate to Settings > ReVanced Extended > Action Bar > Override download action button, **On**. Now when you press the [Download button **in the player**](https://imgur.com/a/phjYvbe) it will open the downloader.
 
-The external downloader must be installed on the device. The default downloader is [YTDLnis](https://github.com/deniscerri/ytdlnis/releases/latest). To change it, navigate to the downloader settings (using the path above) and open the "External downloader package name" setting. Select the downloader you want to use from the list or enter the package name of the downloader, press "OK" and install it if prompted. You can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info on several other downloaders you can use. 
+The default downloader is [YTDLnis](https://github.com/deniscerri/ytdlnis/releases/latest), which must be installed on the device. To change it, navigate to the downloader settings (using the path above) and open the "External downloader package name" setting. Select the downloader you want to use from the list or enter the package name of the downloader, press "OK" and install it if prompted. You can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info on several other downloaders you can use. 
 
 
 
