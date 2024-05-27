@@ -24,7 +24,7 @@ To understand and set up the download feature, refer to section 2 of the [setup 
 
 Make sure your YT ReVanced Extended is up-to-date with the `Spoof client` patch included. Then open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Miscellaneous > Spoof client, **On**. 
 
-> Note that the client will be spoofed to an iOS client or an Android VR client, and each have their own side-effects. You can choose the type of spoofing you want to use by toggling the "Spoof client to iOS" option. Read the description of the option when it is enabled and disabled to compare the side-effects.
+> Note that the client will be spoofed to an iOS client or an Android VR client, and each has their own side-effects. You can choose the type of spoofing you want to use by toggling the "Spoof client to iOS" option. Read the description of the option when it is enabled and disabled to compare the side-effects.
 
 
 
