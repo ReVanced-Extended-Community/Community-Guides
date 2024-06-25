@@ -24,7 +24,7 @@ To understand and set up the download feature, refer to section 2 of the [setup 
 
 Make sure your YT ReVanced Extended is up-to-date with the `Spoof client` patch included. Then open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Miscellaneous > Spoof client > Spoof client, **On**. 
 
-> Note that there are several clients you can spoof to, and each has their own side-effects. You can choose the client to spoof to for each type of media. You can read the side-effects of each in the "About" section.
+> Note that there are several clients you can spoof to, and each has their own side-effects. You can choose the client to spoof to for each type of media. Read the side-effects of each in the "About" section.
 
 
 
@@ -58,4 +58,8 @@ This likely means that the SponsorBlock servers are down. You can check the serv
 
 ### **7. Watch history isn't being saved**
 
-You must whitelist `s.youtube.com` in your ad-blocker, DNS-blocker, firewall, etc.
+This is generally caused by one of these issues:
+
+**a)** You are spoofing the client and the spoof client method you are using has a side effect that prevents watch history from being saved. Open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Miscellaneous > Spoof client. Set the spoof client option for all of the categories (General, Live streams, etc.) to a spoofing method other than "iOS". Read the side-effects of each of the spoofing methods in the "About" section (at the bottom of the Spoof client settings menu).
+
+**b)** Your ad-blocker, DNS-blocker, or firewall is preventing your watch history from being saved. Whitelist `s.youtube.com` in your ad-blocker, DNS-blocker, firewall, etc.
