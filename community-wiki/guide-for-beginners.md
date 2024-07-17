@@ -1,4 +1,4 @@
-**Last updated on 5/JULY/2024.**
+**Last updated on 17/JULY/2024.**
 
 
 
@@ -83,9 +83,9 @@ ___
 
 Download, but do **not** install the APK you want to patch from apkmirror.com:
 
-**YouTube**: [`v19.25.49` (`nodpi`) APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-25-39-release/youtube-19-25-39-android-apk-download/)
+**YouTube**: [`v19.16.39` (`nodpi`) APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-16-39-release/youtube-19-16-39-android-apk-download/)
 
-**YT Music**: [`v7.08.52` (arm64-v8a) APK](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-7-08-52-release/youtube-music-7-08-52-android-apk-download/)
+**YT Music**: [`v7.10.51` (arm64-v8a) APK](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-7-10-51-release/youtube-music-7-10-51-android-apk-download/)
 
 **Reddit**: [`v2024.17.0` (`nodpi`) APK](https://www.apkmirror.com/apk/redditinc/reddit/reddit-2024-17-0-release/reddit-2024-17-0-2-android-apk-download/)
 
