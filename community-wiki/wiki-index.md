@@ -28,6 +28,10 @@
 
 [ReX Telegram](https://t.me/ReXgroups)
 
+[RVX Crowdin (YouTube)](https://crowdin.com/project/revancedextended)
+
+[RVX Crowdin (YT Music)](https://crowdin.com/project/revancedmusicextended)
+
 
 
 If you found an issue with this wiki or want to suggest an improvement to this wiki, you can do so [here](https://github.com/ReVanced-Extended-Community/Community-Guides).
