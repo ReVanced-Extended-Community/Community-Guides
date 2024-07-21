@@ -85,6 +85,8 @@ Download, but do **not** install the APK you want to patch from apkmirror.com:
 
 **YouTube**: [`v19.16.39` (`nodpi`) APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-16-39-release/youtube-19-16-39-android-apk-download/)
 
+> If you currently have a patched YouTube ReVanced Extended installed that is a version higher than 19.16.39, see the [pinned comment below](https://www.reddit.com/r/revancedextended/comments/12vxggr/comment/le633vz/) for special instructions.
+
 **YT Music**: [`v7.10.51` (arm64-v8a) APK](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-7-10-51-release/youtube-music-7-10-51-android-apk-download/)
 
 **Reddit**: [`v2024.17.0` (`nodpi`) APK](https://www.apkmirror.com/apk/redditinc/reddit/reddit-2024-17-0-release/reddit-2024-17-0-2-android-apk-download/)
