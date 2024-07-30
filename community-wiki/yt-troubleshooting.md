@@ -58,8 +58,10 @@ This likely means that the SponsorBlock servers are down. You can check the serv
 
 ### **7. Watch history isn't being saved**
 
-This is generally caused by one of these issues:
+Open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Miscellaneous > Watch history. At the bottom, the reasons for why watch history may not work will be listed. Here are the possible listed reasons and their respective solutions:
 
-**a)** You are spoofing the client and the spoof client method you are using has a side effect that prevents watch history from being saved. Open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Miscellaneous > Spoof client. Set the spoof client option for all of the categories (General, Live streams, etc.) to a spoofing method other than "iOS". Read the side-effects of each of the spoofing methods in the "About" section (at the bottom of the Spoof client settings menu).
+- **"Watch history may not work with a brand account."**: Navigate to Settings > ReVanced Extended > Miscellaneous > Spoof client. Set the spoof client option for all of the categories (General, Live streams, etc.) to a spoofing method other than "iOS". Read the side-effects of each of the spoofing methods in the "About" section (at the bottom of the Spoof client settings menu). 
 
-**b)** Your ad-blocker, DNS-blocker, or firewall is preventing your watch history from being saved. Whitelist `s.youtube.com` in your ad-blocker, DNS-blocker, firewall, etc.
+- **"Watch history may not work due to DNS or VPN."**: Change the `Watch history type` to "Replace domain". Alternatively, whitelist `s.youtube.com` in your ad-blocker, DNS-blocker, firewall, etc. 
+
+- **"Watch history does not work"**: Change the `Watch history type` to one other than "Block watch history".
