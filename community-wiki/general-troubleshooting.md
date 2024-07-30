@@ -19,10 +19,7 @@ You'll need to patch on a different Android device or on PC. If you want to patc
 > Additionally, when patching is finished you'll need to export the patched APK so that you can send it to the device you plan to install it on. To export the APK, tap the save icon when patching is completed as shown in [this image](https://imgur.com/a/FKD0okE). Then press "Save".
 >
 >  </details>
-
-
-
-> [!TIP]
+>
 >  <details>
 >  <summary><strong>If patching with Revancify on a different device:</strong></summary>
 >  <br>
