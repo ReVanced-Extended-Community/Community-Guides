@@ -78,6 +78,11 @@ ___
 #### **Downloading GmsCore, APK to patch, & the RVX Manager**
 
 
+Download and install the **RVX Manager** APK from [here](https://github.com/inotia00/revanced-manager/releases/latest). It is inotia00's fork of the official ReVanced Manager.
+
+> If you get an error saying *"App not installed as app isn't compatible with your device."* it means that your device is not supported by the RVX Manager. Refer to issue 1 in the [general troubleshooting guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/general-troubleshooting.md) for instructions.
+
+
 
 
 
@@ -87,18 +92,15 @@ Download, but do **not** install the APK you want to patch from apkmirror.com:
 
 > If you currently have a patched YouTube ReVanced Extended installed that is a version higher than 19.16.39, see the [pinned comment below](https://www.reddit.com/r/revancedextended/comments/12vxggr/comment/le633vz/) for special instructions.
 
-**YT Music**: [`v7.10.52` (arm64-v8a) APK](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-7-10-52-release/youtube-music-7-10-52-android-apk-download/)
+**YT Music**: [YT Music `v7.10.52` APK](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-7-10-52-release/#downloads)
+
+> There will be [2-4 variants](https://i.imgur.com/KRmvhWh.png) of the APK, each for a different architecture. To choose the correct APK, open the RVX Manager and go to the settings. At the bottom of the settings it will list the supported architecture(s) of your device.
 
 **Reddit**: [`v2024.17.0` (`nodpi`) APK](https://www.apkmirror.com/apk/redditinc/reddit/reddit-2024-17-0-release/reddit-2024-17-0-2-android-apk-download/)
 
 
 
 > If you want to learn more how to find the correct APK without relying on this guide, check section 2 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup).
-
-
-Download and install the **RVX Manager** APK from [here](https://github.com/inotia00/revanced-manager/releases/latest). It is inotia00's fork of the official ReVanced Manager, made to be compatible with the ReVanced Extended patches.
-
-> If you get an error saying *"App not installed as app isn't compatible with your device."* it means that your device is not supported by the RVX Manager. Refer to issue 1 in the [general troubleshooting guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/general-troubleshooting.md) for instructions.
 
 
 
