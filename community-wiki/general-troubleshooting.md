@@ -8,18 +8,41 @@
 
 You'll need to patch on a different Android device or on PC. If you want to patch on PC, follow the instructions for the desired method in [inotia00's documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation).
 
-If patching with the RVX Manager on a different device:
-> Before patching on the supported device, go to the RVX Manager settings and disable the "Remove unused library" option. 
+
+> [!TIP]
+>  <details>
+>  <summary><strong>If patching with the RVX Manager on a different device:</strong></summary>
+>  <br>
+>
+> Before patching on the supported device, go to the RVX Manager settings (on the supported device) and disable the "Remove unused library" option. 
 >
 > Additionally, when patching is finished you'll need to export the patched APK so that you can send it to the device you plan to install it on. To export the APK, tap the save icon when patching is completed as shown in [this image](https://imgur.com/a/FKD0okE). Then press "Save".
+>
+>  </details>
 
-If patching with Revancify on a different device:
-> Before patching on the supported device, run Revancify and go to `Preferences`, and ensure that the "Riplibs" option is unchecked.
+
+
+> [!TIP]
+>  <details>
+>  <summary><strong>If patching with Revancify on a different device:</strong></summary>
+>  <br>
+>
+>  Before patching on the supported device, run Revancify and go to `Preferences`, and ensure that the "Riplibs" option is unchecked.
 >
 > After patching, the APK can be found in `Internal storage > Revancify`.
+>
+>  </details>
 
-YT Music:
-> Note that when patching YT Music on a different device or PC, you'll need to patch the APK variant that was built for the architecture of the device you plan to **install** the patched APK on. Refer to section 2 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup) for more information.
+
+
+> [!NOTE]
+>  <details>
+>  <summary><strong>If patching YT Music:</strong></summary>
+>  <br>
+>
+>  When patching YT Music on a different device or PC, you'll need to patch the APK variant that was built for the architecture of the device you plan to **install** the patched APK on. Refer to section 2 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup) for more information.
+>
+>  </details>
 
 
 
@@ -37,6 +60,7 @@ Make sure you are using the latest [RVX Manager](https://github.com/inotia00/rev
 
 **1)** Uninstall the unpatched YouTube / YT Music / Reddit from your device. 
 
+> [!NOTE]
 > If you cannot uninstall it, go to the App info of the app > Options menu (as shown in [this image](https://imgur.com/a/0js3AZR)) > Uninstall updates.
 
 **2)** Install the APK that you downloaded from APKMirror.
@@ -65,6 +89,7 @@ Continue from the middle of step 2 in the [beginners guide](https://www.reddit.c
 
 **c)** If your device's language was set to a language that reads right-to-left when the failure occurred then set your device's language to English or any language that reads left-to-right. Then fully close the Manager, and try again.
 
+> [!TIP]
 > If it still doesn't work you can try searching and asking for support in the [subreddit](https://www.reddit.com/r/revancedextended/) or [Telegram group](https://t.me/revanced_extended_chat). Alternatively, you can patch on a different device or use a different patching method. If you want to patch on a different device, refer to the info in issue **#1** above.
 
 

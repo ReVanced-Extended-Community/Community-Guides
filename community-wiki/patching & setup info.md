@@ -4,7 +4,8 @@
 
 To update a patched app, you must patch a new APK and then install the newly patched APK as an update to the currently installed app. Installing it as an update will preserve your settings configuration. 
 
-> Note that if the new APK and the currently installed app were not signed using the same keystore file, the new APK would conflict with the current installation, which will need to be uninstalled before the new APK can be installed. (Read below for an explanation of the keystore.)
+> [!NOTE]
+> If the new APK and the currently installed app were not signed using the same keystore file, the new APK would conflict with the current installation, which will need to be uninstalled before the new APK can be installed. (Read below for an explanation of the keystore.)
 > 
 > In the case where you need to uninstall the currently installed app, remember to export your settings configuration so you can easily reconfigure the new app. (Read below to learn how to export and import your settings configuration.)
 
@@ -37,7 +38,8 @@ The non-RVX settings will still need to be configured, as well as any new ReVanc
 
 Open the [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest) and navigate to Patcher > Select an application. The suggested version will be displayed for each app, as shown [here](https://imgur.com/a/TLcC2ZG). 
 
-> **Advanced tip**: To see all of the supported versions, you can read the JSON format [here](https://github.com/inotia00/revanced-patches?tab=readme-ov-file#-json-format).
+> [!TIP]
+> To see all of the supported versions, you can read the JSON format [here](https://github.com/inotia00/revanced-patches?tab=readme-ov-file#-json-format).
 
 Tap on the suggested version in the RVX Manager to open a search in your browser for the suggested APK (that is supported by your device). Find and open the result from apkmirror.com with the suggested version. 
 
@@ -52,6 +54,7 @@ YT Music:
 
 Follow these steps so that when you open a YouTube / YT Music / Reddit link it will open in the ReVanced Extended app instead of the official app.
 
+> [!IMPORTANT]
 > If you are using MIUI, you may need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on "Manage applications". Then continue with the steps below.
 
 1. Go to the App info of the unpatched YouTube / YT Music / Reddit app and tap on "Set as default" / "Open by default" > Open supported links, **Off**.
@@ -87,7 +90,8 @@ The default downloader is [YTDLnis](https://github.com/deniscerri/ytdlnis/releas
 
 ### **3a.Android Auto Setup**
 
-> **Note:** From my experience and from what I heard, the YT Music RVX home screen will not load on Android Auto. But you can start a song, playlist, or album from the app on your phone/tablet and you can then control it from Android Auto.
+> [!NOTE]
+> From my experience and from what I heard, the YT Music RVX home screen will not load on Android Auto. But you can start a song, playlist, or album from the app on your phone/tablet and you can then control it from Android Auto.
 
 Here's how to set it up:
 
@@ -111,6 +115,8 @@ Here's how to set it up:
 
 2. Open YT Music RVX and navigate to Settings > ReVanced Extended > General > Spoof app version, **On**. Fully close and restart the app.
 
+> [!NOTE]
 > You may need to navigate back to Settings > ReVanced Extended > Miscellaneous > Spoof app version target, and set it to `4.27.53`.
 
-> If this does not work you can use an [old version of Vanced Music](https://www.apkmirror.com/apk/team-vanced/vanced-youtube-music/vanced-youtube-music-4-27-50-release/vanced-youtube-music-4-27-50-android-apk-download/), or use a VPN to a different country to get around the radio-only restriction.
+> [!TIP]
+> If this does not work you can use an [old version of Vanced Music](https://www.apkmirror.com/apk/team-vanced/vanced-youtube-music/vanced-youtube-music-4-27-50-release/vanced-youtube-music-4-27-50-android-apk-download/), or use a VPN to a different country to get around the radio-only restriction. If using the old version of Vanced Music, you will need to also install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest).
