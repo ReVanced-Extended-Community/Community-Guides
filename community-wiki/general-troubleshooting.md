@@ -15,6 +15,8 @@ If patching with the RVX Manager on a different device:
 
 If patching with Revancify on a different device:
 > Before patching on the supported device, run Revancify and go to `Preferences`, and ensure that the "Riplibs" option is unchecked.
+>
+> After patching, the APK can be found in `Internal storage > Revancify`.
 
 YT Music:
 > Note that when patching YT Music on a different device or PC, you'll need to patch the APK variant that was built for the architecture of the device you plan to **install** the patched APK on. Refer to section 2 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup) for more information.
@@ -85,8 +87,8 @@ Remove any existing installation of the app you are trying to install, even if i
 If you are trying to install the unpatched APK from APKMirror.com, note that it is simpler to avoid installing it before patching. Instead, follow step 2 in the [beginners guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners) to select and patch the APK without installing it beforehand.
 
 Youtube / YT Music:
-> 5. **Patch with `GmsCore Support`:**
-> Ensure that the `GmsCore Support` patch is applied when patching the APK.
+> 5. **Patch with `GmsCore support`:**
+> Ensure that the `GmsCore support` patch is applied when patching the APK.
 
 YT Music:
 > 6. **Check APK Compatibility:**
