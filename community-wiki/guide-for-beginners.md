@@ -67,7 +67,7 @@ ___
 
 
 
-* Your device must use the arm64-v8a architecture. (You will find out if it is in a moment) 
+* Your device's architecture must be arm64-v8a, armeabi-v7a, or x86-64. (You will find out if it is in a moment) 
 
 
 
