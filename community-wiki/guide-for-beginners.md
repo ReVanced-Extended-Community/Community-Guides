@@ -92,7 +92,7 @@ Download, but do **not** install the APK you want to patch from apkmirror.com:
 
 > If you currently have a patched YouTube ReVanced Extended installed that is a version higher than 19.16.39, see the [pinned comment below](https://www.reddit.com/r/revancedextended/comments/12vxggr/comment/le633vz/) for special instructions.
 
-**YT Music**: [YT Music `v7.10.52` APK](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-7-10-52-release/#downloads)
+**YT Music**: [`v7.10.52` APK](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-7-10-52-release/#downloads)
 
 > There will be [2-4 variants](https://i.imgur.com/KRmvhWh.png) of the APK, each for a different architecture. To choose the correct APK, open the RVX Manager and go to the settings. At the bottom of the settings it will list the supported architecture(s) of your device.
 
