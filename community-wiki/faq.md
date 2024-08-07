@@ -28,7 +28,7 @@ Refer to the [index of guides](https://www.reddit.com/r/revancedextended/wiki/gu
 
 ### **5. Is revancedextended.com or revanced.net legitimate?**
 
-No. All sites that distribute pre-patched / ready-to-use ReVanced Extended APKs are unofficial. If you signed in to Google using an APK from revancedextended.com, revanced.io, revanced.net, or any similar site, we recommend that you change your password and remove any devices that are signed in.
+No. All sites that distribute pre-patched / ready-to-use ReVanced Extended APKs are unofficial. If you signed in to Google using an APK from revancedextended.com, revanced.net, or any similar site, we recommend that you change your password and remove any devices that are signed in.
 
 
 
