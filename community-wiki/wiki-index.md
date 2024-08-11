@@ -26,6 +26,8 @@
 
 [RVX Telegram (announcements)](https://t.me/revanced_extended)
 
+[RVX Discord](https://discord.gg/yMnc3EywRZ)
+
 [ReX Telegram](https://t.me/ReXgroups)
 
 [RVX Crowdin (YouTube)](https://crowdin.com/project/revancedextended)
