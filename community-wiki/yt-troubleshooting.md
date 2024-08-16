@@ -64,4 +64,4 @@ Make sure your YT ReVanced Extended is up-to-date with the `Watch history` patch
 
 - **"Watch history may not work due to DNS or VPN."**: Change the `Watch history type` to "Replace domain". Alternatively, whitelist `s.youtube.com` in your ad-blocker, DNS-blocker, firewall, etc. 
 
-- **"Watch history does not work"**: Change the `Watch history type` to one other than "Block watch history".
+- **"Watch history is blocked"**: Change the `Watch history type` to one other than "Block watch history".
