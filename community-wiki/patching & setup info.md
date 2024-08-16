@@ -55,15 +55,15 @@ YT Music:
 Follow these steps so that when you open a YouTube / YT Music / Reddit link it will open in the ReVanced Extended app instead of the official app.
 
 > [!IMPORTANT]
-> If you are using MIUI, you may need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on "Manage applications". Then continue with the steps below.
+> If you are using MIUI, you may need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on "Manage applications". Then, continue with the steps below.
 
 1. Go to the App info of the unpatched YouTube / YT Music / Reddit app and tap on "Set as default" / "Open by default" > Open supported links, **Off**.
    
 > Alternatively, uninstall or disable the unpatched YouTube / YT Music / Reddit app. 
 
-2. Now open the App info of the patched YouTube / YT Music / Reddit and tap on "Set as default" / "Open by default" > Open supported links, **On**.
+2. Open the App info of the patched YouTube / YT Music / Reddit and tap on "Set as default" / "Open by default" > Open supported links, **On**.
 
-3. Then go back to the previous page. Tap "Supported web addresses", and turn them all **On**.
+3. Return to the previous page. Tap "Supported web addresses", and turn them all **On**.
 
 
 

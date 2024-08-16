@@ -83,13 +83,13 @@ You can see screenshots demonstrating what many of the settings do [here](https:
 
 Follow these steps so that when you open a YouTube Music link it will open in the YTM Extended app instead of the official YouTube Music app.
 
-> If you are using MIUI, you may need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on Manage applications. Then continue with the steps below.
+> If you are using MIUI, you may need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on Manage applications. Then, continue with the steps below.
 
 **a)** Uninstall or disable the official YT Music app. Or go to the App info of official YT Music, Set as default / Open by default > Open supported links, **Off**.
 
-**b)** Now open the App info of YTM Extended > Set as default / Open by default > Open supported links, **On**.
+**b)** Open the App info of YTM Extended > Set as default / Open by default > Open supported links, **On**.
 
-**c)** Then go back to the previous page. Tap "Supported web addresses" > turn them all **On**.
+**c)** Return to the previous page. Tap "Supported web addresses" > turn them all **On**.
 
 
 
@@ -138,7 +138,7 @@ Here's how to set it up:
 
 Now when you press the [Download button in the player](https://imgur.com/a/phjYvbe) it will attempt to open [YTDLnis](https://github.com/deniscerri/ytdlnis/releases/latest) to download the media. You can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info of several other downloaders you can use. (Keep in mind that PowerTube is no longer functioning for YT Music downloads.)
 
-If you want to use a downloader other than YTDLnis, navigate to Settings > ReVanced Extended > Action Bar > External downloader package name. Then select the downloader from the list or enter the package name of the downloader, press "OK" and install it if prompted.
+If you want to use a downloader other than YTDLnis, navigate to Settings > ReVanced Extended > Action Bar > External downloader package name. Then, select the downloader from the list or enter the package name of the downloader, press "OK" and install it if prompted.
 
 
 

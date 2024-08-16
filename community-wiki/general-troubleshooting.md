@@ -16,7 +16,7 @@ You'll need to patch on a different Android device or on PC. If you want to patc
 >
 > Before patching on the supported device, go to the RVX Manager settings (on the supported device) and disable the "Remove unused library" option. 
 >
-> Additionally, when patching is finished you'll need to export the patched APK so that you can send it to the device you plan to install it on. To export the APK, tap the save icon when patching is completed as shown in [this image](https://imgur.com/a/FKD0okE). Then press "Save".
+> Additionally, when patching is finished you'll need to export the patched APK so that you can send it to the device you plan to install it on. To export the APK, tap the save icon when patching is completed as shown in [this image](https://imgur.com/a/FKD0okE). Then, press "Save".
 >
 >  </details>
 >
@@ -84,7 +84,7 @@ Continue from the middle of step 2 in the [beginners guide](https://www.reddit.c
 
 **b)** Make sure you are using the suggested APK version given in step 1 of the [beginners guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners/).
 
-**c)** If your device's language was set to a language that reads right-to-left when the failure occurred then set your device's language to English or any language that reads left-to-right. Then fully close the Manager, and try again.
+**c)** If your device's language was set to a language that reads right-to-left when the failure occurred then set your device's language to English or any language that reads left-to-right. Then, fully close the Manager, and try again.
 
 > [!TIP]
 > If it still doesn't work you can try searching and asking for support in the [subreddit](https://www.reddit.com/r/revancedextended/), [Discord](https://discord.gg/yMnc3EywRZ), or [Telegram group](https://t.me/revanced_extended_chat). Alternatively, you can patch on a different device or use a different patching method. If you want to patch on a different device, refer to the info in issue **#1** above.

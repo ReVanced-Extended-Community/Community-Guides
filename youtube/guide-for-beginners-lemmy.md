@@ -102,7 +102,7 @@ Follow these steps so that when you open a YouTube link it will open in the YT R
 
 
 
-Go to the *App Info* of YT ReVanced Extended > Set as default > Open supported links, **On**. Then go back to the previous page. Tap "Supported web addresses" > turn them all **On**. You may also need to manually disable these settings for stock YouTube, or just disable/uninstall stock YouTube entirely. 
+Go to the *App Info* of YT ReVanced Extended > Set as default > Open supported links, **On**. Then, go back to the previous page. Tap "Supported web addresses" > turn them all **On**. You may also need to manually disable these settings for stock YouTube, or just disable/uninstall stock YouTube entirely. 
 
 
 
