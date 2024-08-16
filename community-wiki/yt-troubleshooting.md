@@ -58,7 +58,7 @@ This likely means that the SponsorBlock servers are down. You can check the serv
 
 ### **7. Watch history isn't being saved**
 
-Open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Miscellaneous > Watch history. At the bottom, the reasons for why watch history may not work will be listed. Here are the possible listed reasons and their respective solutions:
+Make sure your YT ReVanced Extended is up-to-date with the `Watch history` patch included. Open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Miscellaneous > Watch history. At the bottom, the reasons for why watch history may not work will be listed. Here are the possible listed reasons and their respective solutions:
 
 - **"Watch history may not work with a brand account."**: Navigate to Settings > ReVanced Extended > Miscellaneous > Spoof client. Set the spoof client option for all of the categories (General, Live streams, etc.) to a spoofing method other than "iOS". Read the side-effects of each of the spoofing methods in the "About" section (at the bottom of the Spoof client settings menu). 
 
