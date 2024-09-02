@@ -105,7 +105,7 @@ Make sure your device has enough storage space.
 3. **Uninstall Existing Versions:**
 Remove any existing installation of the app you are trying to install, even if it is in an alternate user profile or private folder.
 
-4. **Check The APK**
+4. **Check The APK:**
 If you are trying to install the unpatched APK from APKMirror.com, note that it is simpler to avoid installing it before patching. Instead, follow step 2 in the [beginners guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners) to select and patch the APK without installing it beforehand.
 
 Youtube / YT Music:
