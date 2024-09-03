@@ -12,15 +12,11 @@
 
 [Patch Documentation with Screenshots](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation) (work-in-progress)
 
-
+___
 
 ## **Links**
 
 [inotia00's GitHub](https://github.com/inotia00)
-
-[anddea's GitHub](https://github.com/anddea)
-
-[YT-Advanced's (ReX) GitHub](https://github.com/YT-Advanced)
 
 [RVX Telegram (support)](https://t.me/revanced_extended_chat/)
 
@@ -28,12 +24,42 @@
 
 [RVX Discord](https://discord.gg/yMnc3EywRZ)
 
-[ReX Telegram](https://t.me/ReXgroups)
-
 [RVX Crowdin (YouTube)](https://crowdin.com/project/revancedextended)
 
 [RVX Crowdin (YT Music)](https://crowdin.com/project/revancedmusicextended)
 
+___
 
+Below are links to resources and platforms of related projects by other developers:
+
+**Revancify:**
+
+• [GitHub](https://github.com/decipher3114/Revancify)
+
+• [Telegram](https://t.me/revancifychat)
+
+**anddea:**
+
+• [GitHub](https://github.com/anddea)
+
+• [Support TG](https://t.me/AnddeaChat)
+
+• [GitHub notifications TG](https://t.me/AnddeaUpdates)
+
+**YouTube RVX for Android 6-7 (kitadai31):**
+
+• [GitHub](https://github.com/kitadai31/revanced-patches-android6-7#readme)
+
+• [Announcements TG](https://t.me/rvx_for_a6_7)
+
+• [Support TG](https://t.me/rvx_for_a6_7_chat)
+
+**ReX:**
+
+• [GitHub](https://github.com/YT-Advanced)
+
+• [Telegram](https://t.me/ReXgroups)
+
+___
 
 If you found an issue with this wiki or want to suggest an improvement to this wiki, you can do so [here](https://github.com/ReVanced-Extended-Community/Community-Guides).
