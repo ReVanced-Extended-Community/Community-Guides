@@ -22,9 +22,9 @@ To understand and set up the download feature, refer to section 2 of the [setup 
 
 ### **3. Videos stop and buffer infinitely**
 
-Make sure your YT ReVanced Extended is up-to-date with the `Spoof client` patch included. Then, open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Miscellaneous > Spoof client > Spoof client, **On**. 
+Make sure your YT ReVanced Extended is up-to-date with the `Spoof streaming data` patch included. Then, open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Miscellaneous > Spoof streaming data > Spoof streaming data, **On**. 
 
-> Note that there are several clients you can spoof to, and each has their own side-effects. You can choose the client to spoof to for each type of media. Read the side-effects of each in the "About" section.
+> Note that there are several clients you can spoof to, and each has their own side-effects.
 
 
 
@@ -60,9 +60,9 @@ This likely means that the SponsorBlock servers are down. You can check the serv
 
 Make sure your YT ReVanced Extended is up-to-date with the `Watch history` patch included. Then, open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Miscellaneous > Watch history. At the bottom, the reasons for why watch history may not work will be listed. Here are the possible listed reasons and their respective solutions:
 
-- **"Watch history may not work with a brand account."**: Navigate to Settings > ReVanced Extended > Miscellaneous > Spoof client. Set the spoof client option for all of the categories (General, Live streams, etc.) to a spoofing method other than "iOS". Read the side-effects of each of the spoofing methods in the "About" section (at the bottom of the Spoof client settings menu). 
+- **"Watch history may not work with a brand account."**: Update the app.
 
-    Alternatively, you can patch YouTube `18.38.44` or earlier (see the supported versions in the [JSON format here](https://github.com/inotia00/revanced-patches?tab=readme-ov-file#-json-format)), which will not have this watch history issue when spoofing to an iOS client. See [this feature description](https://github.com/inotia00/ReVanced_Extended/issues/2297) for more details.
+    > If you don't want to update the app, navigate to Settings > ReVanced Extended > Miscellaneous > Spoof client. Set the spoof client option for all of the categories (General, Live streams, etc.) to a spoofing method other than "iOS". Read the side-effects of each of the spoofing methods in the "About" section (at the bottom of the Spoof client settings menu). 
 
 - **"Watch history may not work due to DNS or VPN."**: Change the `Watch history type` to "Replace domain". Alternatively, whitelist `s.youtube.com` in your ad-blocker, DNS-blocker, firewall, etc. 
 
