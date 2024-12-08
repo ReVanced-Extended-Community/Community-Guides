@@ -1,6 +1,22 @@
 # **1. Info for Updating ReVanced Extended**
 
-### **1a. How do I update a patched app?**
+### **1a. How do I know when my patched app can be updated?**
+
+Each time there is a new patch release you can choose to update your patched apps. You can be notified of patch releases in one of three ways:
+
+1. By "Watching" [inotia00's revanced-patches](https://github.com/inotia00/revanced-patches) repository for new releases. (You will get an email whenever there is public or dev patch release.)
+
+2. By joining the [ReVanced Extended Discord server](https://discord.com/invite/yMnc3EywRZ) and obtaining the role for patch release. (You will be pinged whenever there is public or dev patch release.) 
+
+3. By joining the [GitHub notifications Telegram channel](https://t.me/revanced_extended_repo). (You will be pinged whenever there is public or dev patch release in any of inotia00's repositories.)
+
+> [!IMPORTANT]
+>
+> **The version of your patched app is unrelated to whether it is up-to-date**. The suggested version may stay the same for months, while patches continue to be updated. Additionally, the suggested version is sometimes rolled-back, so if your app version is newer than the [currently suggested version](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup) it means that your app is not up-to-date.
+
+
+
+### **1b. How do I update a patched app?**
 
 To update a patched app, you must [patch](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/guide-for-beginners.md) a new APK and then install the newly patched APK as an update to the currently installed app. Installing it as an update will preserve your settings configuration. 
 
@@ -11,7 +27,7 @@ To update a patched app, you must [patch](https://github.com/ReVanced-Extended-C
 
 
 
-### **1b. What is the keystore?**
+### **1c. What is the keystore?**
 
 The keystore is a file that the RVX Manager (and any other ReVanced patcher) uses to sign a patched APK. If you have a patched app installed and want to update it, you'll need the updated APK to be signed with the same keystore. Otherwise, you'll need to uninstall your currently installed APK before installing the updated version.
 
@@ -19,7 +35,7 @@ If you uninstall or clear the app data of the RVX Manager the keystore file will
 
 
 
-### **1c. Exporting / Importing Settings for YouTube and YT Music**
+### **1d. Exporting / Importing Settings for YouTube and YT Music**
 
 You can export and import the RVX settings configuration from/to a YouTube RVX or YT Music RVX.
 
