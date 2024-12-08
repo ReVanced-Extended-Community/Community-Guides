@@ -2,7 +2,7 @@
 
 ### **1a. How do I update a patched app?**
 
-To update a patched app, you must patch a new APK and then install the newly patched APK as an update to the currently installed app. Installing it as an update will preserve your settings configuration. 
+To update a patched app, you must [patch](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/guide-for-beginners.md) a new APK and then install the newly patched APK as an update to the currently installed app. Installing it as an update will preserve your settings configuration. 
 
 > [!NOTE]
 > If the new APK and the currently installed app were not signed using the same keystore file, the new APK would conflict with the current installation, which will need to be uninstalled before the new APK can be installed. (Read below for an explanation of the keystore.)
