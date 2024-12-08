@@ -31,3 +31,10 @@ Refer to section 3 of the [setup guide](https://github.com/ReVanced-Extended-Com
 ### **4. Why can I only use the Radio feature?**
 
 Google has made it so that Canadian users who do not have YT Premium can only use the Radio feature within YouTube Music. To solve this, refer to section 3 of the [setup guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#3-yt-music-setup).
+
+
+
+
+### **5. Videos stop and buffer**
+
+Make sure your YT Music RVX is [up-to-date](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) with the `Spoof client` patch included. Then, open YT Music RVX and navigate to Settings > ReVanced Extended > Miscellaneous > Spoof client, **On**. Alternatively, you can spoof the app version by navigating to Settings > ReVanced Extended > General > Spoof app version, **On**. 
