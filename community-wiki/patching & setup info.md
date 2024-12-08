@@ -4,15 +4,7 @@
 
 Each time there is a new patch release you can choose to update your patched apps. You can be notified of patch releases in one of three ways:
 
-1. By "Watching" [inotia00's revanced-patches](https://github.com/inotia00/revanced-patches) repository for new releases. (You will get an email whenever there is public or dev patch release.)
-
->  <details>
->  <summary><strong>Demonstration for how to "Watch" a GitHub repository:</strong></summary>
->  <br>
->
-> <img src="https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/images/how_to_watch_github_repository.mp4" alt="How to Watch a GitHub repository"/>
->
->  <details>
+1. By "[Watching](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/images/how_to_watch_github_repository.mp4)" [inotia00's revanced-patches](https://github.com/inotia00/revanced-patches) repository for new releases. (You will get an email whenever there is public or dev patch release.)
 
 2. By joining the [ReVanced Extended Discord server](https://discord.com/invite/yMnc3EywRZ) and obtaining the role for patch release. (You will be pinged whenever there is public or dev patch release.) 
 
