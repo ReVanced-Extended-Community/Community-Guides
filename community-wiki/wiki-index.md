@@ -22,6 +22,8 @@ ___
 
 [RVX Telegram (announcements)](https://t.me/revanced_extended)
 
+[RVX Telegram (GitHub notifications)](https://t.me/revanced_extended_repo)
+
 [RVX Discord](https://discord.gg/yMnc3EywRZ)
 
 [RVX Crowdin (YouTube)](https://crowdin.com/project/revancedextended)
