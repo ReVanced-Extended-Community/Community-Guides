@@ -4,7 +4,7 @@
 
 [ReVanced](https://revanced.app/) is a free modular patcher for Android apps such as YouTube. It can be used to create applications that have extra features and customizability, similar to how a browser extension works, but for apps.
 
-ReVanced Extended (aka RVX) is a derivative project of ReVanced (not affiliated), consisting of patches made for YouTube, YT Music, and Reddit. It focuses on providing more features than the ReVanced patches. The founder of ReVanced Extended is [inotia00](https://github.com/inotia00), however there are several forks/adaptions of ReVanced Extended made by other developers.
+ReVanced Extended (aka RVX) is a derivative project of ReVanced (not affiliated), consisting of patches made for YouTube, YT Music, and Reddit. It focuses on providing more features than the ReVanced patches. The founder of ReVanced Extended is [inotia00](https://github.com/inotia00), however, there are several forks/adaptions of ReVanced Extended made by other developers.
 
 
 
@@ -26,9 +26,9 @@ GmsCore, official patching tools, and the patches are all open-source. You can r
 
 
 
-### **5. Is revancedextended.com or revanced.net legitimate?**
+### **5. Is `revancedextended.com` or `revanced.net` legitimate?**
 
-No. All sites that distribute pre-patched / ready-to-use ReVanced Extended APKs are unofficial. APKs downloaded from such sites may contain malware or be outdated. If you signed in to Google using an APK from revancedextended.com, revanced.net, or any similar site, we recommend that you change your password and remove any devices that are signed in.
+No. All sites that distribute pre-patched / ready-to-use ReVanced Extended APKs are unofficial. APKs downloaded from such sites may contain malware or be outdated. If you signed in to Google using an APK from `revancedextended.com`, `revanced.net`, or any similar site, we recommend that you change your password and remove any devices that are signed in.
 
 
 
