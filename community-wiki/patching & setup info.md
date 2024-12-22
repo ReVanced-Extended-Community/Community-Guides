@@ -132,7 +132,7 @@ Here's how to set it up:
 2. Open YT Music RVX and navigate to Settings > ReVanced Extended > General > Spoof app version, **On**. Fully close and restart the app.
 
 > [!NOTE]
-> You may need to navigate back to Settings > ReVanced Extended > Miscellaneous > Spoof app version target, and set it to `4.27.53`.
+> You may need to navigate back to Settings > ReVanced Extended > General > Spoof app version target, and set it to `4.27.53`.
 
 > [!TIP]
 > If this does not work you can use an [old version of Vanced Music](https://www.apkmirror.com/apk/team-vanced/vanced-youtube-music/vanced-youtube-music-4-27-50-release/vanced-youtube-music-4-27-50-android-apk-download/), or use a VPN to a different country to get around the radio-only restriction. If using the old version of Vanced Music, you will need to also install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest).
