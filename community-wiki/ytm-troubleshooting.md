@@ -45,4 +45,4 @@ There are two methods to fix this issue:
 
  > [!IMPORTANT]
  > 
- > Do not enable the "Spoof streaming data" and "Spoof client" toggles simultaneously.
+ > Do not have the "Spoof streaming data" and "Spoof client" toggles enabled simultaneously.
