@@ -46,7 +46,7 @@ ___
 
 Download and install the **RVX Manager** APK from [here](https://github.com/inotia00/revanced-manager/releases/latest). It is inotia00's fork of the official ReVanced Manager.
 
-> If you get an error saying *"App not installed as app isn't compatible with your device."* it means that your device is not supported by the RVX Manager. Refer to issue 1 in the [general troubleshooting guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/general-troubleshooting.md) for instructions.
+> If you get an error saying *"App not installed as app isn't compatible with your device."* it means that your device is not supported by the RVX Manager. Refer to the [general troubleshooting guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/general-troubleshooting.md) for instructions.
 
 
 
