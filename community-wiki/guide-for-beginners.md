@@ -17,16 +17,10 @@ ___
 ### **Things To Know Before You Begin**
 
 
-* This guide is intended as a detailed starting point for first-time users.
-
-
 * Read the [Frequently Asked Questions](https://www.reddit.com/r/revancedextended/wiki/faq/).
 
 
-* This guide is for non-root installs.
-
-
-* This guide will use the RVX Manager patching method. Check the [documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on the other patching methods.
+* This guide will use the RVX Manager patching method to do a non-root installation. Check the [documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on the other patching methods.
 
 
 * Check the [troubleshooting section](https://www.reddit.com/r/revancedextended/wiki/troubleshooting/) if you get stuck during this guide.
