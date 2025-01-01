@@ -1,18 +1,12 @@
-**Last updated on 28/SEP/2024.**
+**Last updated on Jan 1st, 2025.**
 
 
 
 ### [For more resources like this, check the complete subreddit wiki.](https://reddit.com/r/revancedextended/w/index)
 
----
-
-### Patches might be unstable for a while. If you're having issues check recent posts for similar situations.
-
----
+___
 
 **[Coming from ReVanced? Use the RVX Manager created specifically for ReVanced Extended patches!](https://github.com/inotia00/revanced-manager/releases/latest)**
-
-
 
 ___
 
@@ -23,28 +17,16 @@ ___
 ### **Things To Know Before You Begin**
 
 
-
 * This guide is intended as a detailed starting point for first-time users.
-
-
 
 
 * Read the [Frequently Asked Questions](https://www.reddit.com/r/revancedextended/wiki/faq/).
 
 
-
-
-
 * This guide is for non-root installs.
 
 
-
-
-
 * This guide will use the RVX Manager patching method. Check the [documentation](https://github.com/inotia00/revanced-documentation#revanced-extended-documentation) for info on the other patching methods.
-
-
-
 
 
 * Check the [troubleshooting section](https://www.reddit.com/r/revancedextended/wiki/troubleshooting/) if you get stuck during this guide.
@@ -53,23 +35,13 @@ ___
 
 
 
-
-
 # **1. Requirements:**
-
-
-
 
 
 * Your device must be running Android 8.0 or newer.
 
 
-
-
-
 * Your device's architecture must be arm64-v8a, armeabi-v7a, or x86-64. (You will find out if it is in a moment) 
-
-
 
 
 
@@ -81,7 +53,6 @@ ___
 Download and install the **RVX Manager** APK from [here](https://github.com/inotia00/revanced-manager/releases/latest). It is inotia00's fork of the official ReVanced Manager.
 
 > If you get an error saying *"App not installed as app isn't compatible with your device."* it means that your device is not supported by the RVX Manager. Refer to issue 1 in the [general troubleshooting guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/general-troubleshooting.md) for instructions.
-
 
 
 
@@ -100,16 +71,8 @@ Download, but do **not** install the APK you want to patch from apkmirror.com:
 
 
 
-
-
 If patching YouTube or YT Music:
 > **GmsCore** is needed for patched YouTube and YT Music to run. If you do not have GmsCore installed, download and install [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases/latest). (If you are using a Hauwei device, be sure to select the special download for your device.)
-
-
-
-
-
-
 
 
 
@@ -118,55 +81,29 @@ If patching YouTube or YT Music:
 # **2. Patching**
 
 
-
-
-
 Open the RVX Manager. Your device may open a settings page for choosing which apps of yours have permission to install unknown apps. Find the RVX Manager and give it the permission.
-
-
-
 
 
 Then in the Manager, go to Patcher > Select an application.
 
 
-
-
-
 Press "**Storage**" [as shown in this image](https://imgur.com/a/vx64z3S).
-
-
-
 
 
 Select the APK file that you just downloaded from APKMirror from your downloads folder.
 
 
-
-
-
 The application will be selected and if it is your first time patching the Default list of patches will be selected. If you want to make sure the Default patches are selected, tap on the selected patches and press the Default button at the top of the patches selection menu.
-
-
-
 
 
 If you don't want to use the Default selection you **must** at least include the `GmsCore Support` patch.
 
 
 
-
-
 > [Check out this repository to see what the patches do!](https://github.com/ReVanced-Extended-Community/Patches-Documentation#patches-documentation) (work-in-progress)
 
 
-
-
-
 When you are done selecting the patches press "**Done**" and then press "**Patch**".
-
-
-
 
 
 Wait for the patching to be complete. It usually takes 2-5 minutes. If you leave the app it may cancel. Make sure no errors occur during this step.
@@ -175,23 +112,13 @@ Wait for the patching to be complete. It usually takes 2-5 minutes. If you leave
 
 
 
-
-
 # **3. Installing**
-
-
-
 
 
 > When patching is finished you can save the APK as a file so that you have it for later in case you have trouble installing it or want to share it. To do this, tap save icon in the lower left corner of the screen as shown [here](https://imgur.com/a/FKD0okE).
 
 
-
-
-
 Press "Install" and wait for it to finish installing. You may get a message saying that the installation was blocked because it is an unknown app. Tap "**More details**" and then "**Install anyway**" as shown [here](https://imgur.com/a/iLP2m7l).
-
-
 
 
 
@@ -205,11 +132,7 @@ There's some additional setup you can do to make the patched app even better! Th
 
 **You are done!**
 
-
-
 ___
-
-
 
 
 
@@ -218,13 +141,7 @@ ___
 # **More Info/Troubleshooting**
 
 
-
-
-
 Check the [troubleshooting section](https://www.reddit.com/r/revancedextended/wiki/troubleshooting/) for help.
-
-
-
 
 
 Check out [this site](https://kazimmt.github.io/#revanced-extended-features) to see what all of the ReVanced Extended settings do! (Note that it is a work-in-progress)
