@@ -6,4 +6,4 @@ ___
 **https://reddit.com/r/revancedextended/wiki/yt-troubleshooting**
 ___
 
-#### Have you followed the steps in our 📌 [Pinned Beginner's Guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/_/) and used all the correct resources as provided there?
+#### Have you followed the steps in our 📌 [Pinned Beginner's Guide](https://www.reddit.com/r/revancedextended/comments/1hs3w12/revanced_extended_guide_for_beginners/) and used all the correct resources as provided there?

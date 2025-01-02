@@ -46,7 +46,7 @@ You'll need to patch on a different Android device or on PC. If you want to patc
 
 ### **2. "Feature not implemented: This application is a split APK and cannot be selected."**
 
-On non-root devices you must use a full (non-bundle) APK when patching. Refer to steps 1 and 2 in the [beginners guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners/) to download and select the full APK from storage.
+On non-root devices you must use a full (non-bundle) APK when patching. Refer to steps 1 and 2 in the [beginners guide](https://www.reddit.com/r/revancedextended/comments/1hs3w12/revanced_extended_guide_for_beginners/) to download and select the full APK from storage.
 
 
 
@@ -64,7 +64,7 @@ Make sure you are using the latest [RVX Manager](https://github.com/inotia00/rev
 
 **3)** Open the RVX Manager > Patcher > Select an application, and select the app from the app list.
 
-Continue from the middle of step 2 in the [beginners guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners/).
+Continue from the middle of step 2 in the [beginners guide](https://www.reddit.com/r/revancedextended/comments/1hs3w12/revanced_extended_guide_for_beginners/).
 
 
 
@@ -82,7 +82,7 @@ Continue from the middle of step 2 in the [beginners guide](https://www.reddit.c
 
 **a)** Make sure you are using the latest [RVX Manager](https://github.com/inotia00/revanced-manager/releases/latest).
 
-**b)** Make sure you are using the suggested APK version given in step 1 of the [beginners guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners/).
+**b)** Make sure you are using the suggested APK version given in step 1 of the [beginners guide](https://www.reddit.com/r/revancedextended/comments/1hs3w12/revanced_extended_guide_for_beginners/).
 
 **c)** If your device's language was set to a language that reads right-to-left when the failure occurred then set your device's language to English or any language that reads left-to-right. Then, fully close the Manager, and try again.
 
@@ -106,7 +106,7 @@ Make sure your device has enough storage space.
 Remove any existing installation of the app you are trying to install, even if it is in an alternate user profile or private folder.
 
 4. **Check The APK:**
-If you are trying to install the unpatched APK from APKMirror.com, note that it is simpler to avoid installing it before patching. Instead, follow step 2 in the [beginners guide](https://www.reddit.com/r/revancedextended/comments/12vxggr/revanced_extended_guide_for_beginners) to select and patch the APK without installing it beforehand.
+If you are trying to install the unpatched APK from APKMirror.com, note that it is simpler to avoid installing it before patching. Instead, follow step 2 in the [beginners guide](https://www.reddit.com/r/revancedextended/comments/1hs3w12/revanced_extended_guide_for_beginners/) to select and patch the APK without installing it beforehand.
 
 Youtube / YT Music:
 > 5. **Patch with `GmsCore support`:**
