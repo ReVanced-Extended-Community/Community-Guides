@@ -57,13 +57,14 @@ Open the [RVX Manager](https://github.com/inotia00/revanced-manager/releases/lat
 > [!TIP]
 > To see all of the supported versions, you can read the JSON format [here](https://github.com/inotia00/revanced-patches?tab=readme-ov-file#-json-format).
 
-Tap on the suggested version in the RVX Manager to open a search in your browser for the suggested APK (that is supported by your device). Find and open the result from apkmirror.com with the suggested version. 
+Tap on the suggested version in the RVX Manager to open a search in your browser for the suggested APK (with an architecture supported by your device). Find and open the result from apkmirror.com with the suggested version. 
 
 YouTube / Reddit:
-> On apkmirror.com there will likely be 2 variants of the APK. Make sure to download the `nodpi` variant, as shown [here](https://imgur.com/a/XE6yF80).
+> If the apkmirror.com search result isn't for the `nodpi` variant of the APK, make sure to download the `nodpi` variant, as shown [here](https://imgur.com/a/XE6yF80).
 
 YT Music:
-> On apkmirror.com there will likely be [2-4 variants](https://i.imgur.com/KRmvhWh.png) of the APK, each for a different CPU architecture. You can find the supported architecture(s) of your device at the bottom of the RVX Manager settings. (If you plan to install the patched APK on another device, download the variant that matches the architecture of that device. You can search online to see which architecture(s) the device supports, but 99% of the time it will be arm64-v8a or armeabi-v7a.)
+> If the apkmirror.com search result isn't for a specific architecture, you will likely see [2-4 variants](https://i.imgur.com/KRmvhWh.png) of the APK, each for a different CPU architecture. You can find the supported architecture(s) of your device at the bottom of the RVX Manager settings. (If you plan to install the patched APK on another device, download the variant that matches the architecture of that device. You can search online to see which architecture(s) the device supports, but 99% of the time it will be arm64-v8a or armeabi-v7a.)
+
 
 
 ### **2b. Open Links By Default**
