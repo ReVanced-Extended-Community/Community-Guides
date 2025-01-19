@@ -1,4 +1,4 @@
-**Terakhir diperbarui pada 28/SEP/2024.**
+**Terakhir diperbarui pada 18/JAN/2024.**
 
 
 
@@ -92,7 +92,7 @@ Unduh, tetapi **jangan** instal APK yang ingin Anda patch dari apkmirror.com:
 
 **YT Music**: [`v7.16.53` APK](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-7-16-53-release/#downloads). Akan ada [2-4 varian](https://i.imgur.com/KRmvhWh.png) APK, masing-masing untuk arsitektur yang berbeda. Untuk memilih APK yang benar, buka RVX Manager dan buka pengaturan. Di bagian bawah pengaturan akan mencantumkan arsitektur yang didukung perangkat Anda.
 
-**Reddit**: [`v2024.17.0` (`nodpi`) APK](https://www.apkmirror.com/apk/redditinc/reddit/reddit-2024-17-0-release/reddit-2024-17-0-2-android-apk-download/)
+**Reddit**: [`v2024.20.2` (`nodpi`) APK](https://www.apkmirror.com/apk/redditinc/reddit/reddit-2024-20-2-release/reddit-2024-20-2-2-android-apk-download/)
 
 
 
