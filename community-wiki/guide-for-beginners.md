@@ -1,4 +1,4 @@
-**Last updated on Jan 18th, 2025.**
+**Last updated on Jan 1st, 2025.**
 
 
 
@@ -58,7 +58,8 @@ Download, but do **not** install the APK you want to patch from apkmirror.com:
 
 **YT Music**: [`v7.16.53` APK](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-7-16-53-release/#downloads). There will be [2-4 variants](https://i.imgur.com/KRmvhWh.png) of the APK, each for a different architecture. To choose the correct APK, open the RVX Manager and go to the settings. At the bottom of the settings it will list the supported architecture(s) of your device.
 
-**Reddit**: [`v2024.20.2` (`nodpi`) APK](https://www.apkmirror.com/apk/redditinc/reddit/reddit-2024-20-2-release/reddit-2024-20-2-2-android-apk-download/)
+**Reddit**: [`v2024.17.0` (`nodpi`) APK](https://www.apkmirror.com/apk/redditinc/reddit/reddit-2024-17-0-release/reddit-2024-17-0-2-android-apk-download/)
+
 
 
 > If you want to learn more how to find the correct APK without relying on this guide, check section 2 of the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup).
@@ -88,8 +89,6 @@ Select the APK file that you just downloaded from APKMirror from your downloads 
 
 
 The application will be selected and if it is your first time patching the Default list of patches will be selected. If you want to make sure the Default patches are selected, tap on the selected patches and press the Default button at the top of the patches selection menu.
-
-> If patching Reddit 2024.20.2, exclude the `Remove subreddit dialog` patch until a bug is fixed.
 
 
 If you don't want to use the Default selection you **must** at least include the `GmsCore Support` patch.
