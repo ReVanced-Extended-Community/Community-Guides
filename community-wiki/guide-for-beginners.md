@@ -90,6 +90,7 @@ Select the APK file that you just downloaded from APKMirror from your downloads 
 
 The application will be selected and if it is your first time patching the Default list of patches will be selected. If you want to make sure the Default patches are selected, tap on the selected patches and press the Default button at the top of the patches selection menu.
 
+> If patching Reddit 2024.17.0, exclude the `Remove subreddit dialog` patch until [this bug](https://github.com/inotia00/ReVanced_Extended/issues/2688#issuecomment-2597473135)is fixed.
 
 If you don't want to use the Default selection you **must** at least include the `GmsCore Support` patch.
 
