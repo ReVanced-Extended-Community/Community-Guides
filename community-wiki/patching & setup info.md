@@ -107,9 +107,6 @@ The default downloader is [YTDLnis](https://github.com/deniscerri/ytdlnis/releas
 
 ### **3a.Android Auto Setup**
 
-> [!NOTE]
-> From my experience and from what I heard, the YT Music RVX home screen will not load on Android Auto. But you can start a song, playlist, or album from the app on your phone/tablet and you can then control it from Android Auto.
-
 Here's how to set it up:
 
 1. You need to include the `Certificate spoof` patch.
