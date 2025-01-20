@@ -102,7 +102,7 @@ Unduh, tetapi **jangan** instal APK yang ingin Anda patch dari apkmirror.com:
 
 
 
-Jika menambal YouTube atau YT Music: > **GmsCore** diperlukan agar YouTube dan YT Music yang di-patch dapat berjalan. Jika Anda belum menginstal GmsCore, unduh dan instal [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases/latest). (Jika Anda menggunakan perangkat Hauwei, pastikan untuk memilih unduhan khusus untuk perangkat Anda.)
+Jika menambal YouTube atau YT Music: > **GmsCore** diperlukan agar YouTube dan YT Music yang di-patch dapat berjalan. Jika Anda belum menginstal GmsCore, unduh dan instal [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases/latest). (Jika Anda menggunakan perangkat Huawei, pastikan untuk memilih unduhan khusus untuk perangkat Anda.)
 
 
 

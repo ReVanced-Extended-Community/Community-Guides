@@ -67,7 +67,7 @@ Download, but do **not** install the APK you want to patch from apkmirror.com:
 
 
 If patching YouTube or YT Music:
-> **GmsCore** is needed for patched YouTube and YT Music to run. If you do not have GmsCore installed, download and install [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases/latest). (If you are using a Hauwei device, be sure to select the special download for your device.)
+> **GmsCore** is needed for patched YouTube and YT Music to run. If you do not have GmsCore installed, download and install [ReVanced GmsCore](https://github.com/ReVanced/GmsCore/releases/latest). (If you are using a Huawei device, be sure to select the special download for your device.)
 
 
 
