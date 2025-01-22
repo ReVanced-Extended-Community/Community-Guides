@@ -4,15 +4,15 @@
 
 Each time there is a new [patch release](https://github.com/inotia00/revanced-patches/releases/) you can choose to update your patched apps. You can be notified of patch releases in one of three ways:
 
-1. By "Watching" [inotia00's revanced-patches](https://github.com/inotia00/revanced-patches) repository for new releases. (You will get an email whenever there is public or dev patch release.) (See [this video](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/images/how_to_watch_github_repository.mp4) if you need help with Watching a GitHub repository.)
+1. By "Watching" [inotia00's revanced-patches](https://github.com/inotia00/revanced-patches) repository for new releases. (You will get an email whenever there is a public or dev patch release.) (See [this video](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/images/how_to_watch_github_repository.mp4) if you need help with Watching a GitHub repository.)
 
-2. By joining the [ReVanced Extended Discord server](https://discord.com/invite/yMnc3EywRZ) and obtaining the role for patch releases. (You will be pinged whenever there is public or dev patch release.) 
+2. By joining the [ReVanced Extended Discord server](https://discord.com/invite/yMnc3EywRZ) and obtaining the role for patch releases. (You will be pinged whenever there is a public or dev patch release.) 
 
-3. By joining the [GitHub notifications Telegram channel](https://t.me/revanced_extended_repo). (You will be pinged whenever there is public or dev patch release in any of inotia00's repositories.)
+3. By joining the [GitHub notifications Telegram channel](https://t.me/revanced_extended_repo). (You will be pinged whenever there is a public or dev patch release in any of inotia00's repositories.)
 
 > [!IMPORTANT]
 >
-> **The version of your patched app is unrelated to whether it is up-to-date**. The suggested version may stay the same for months, while patches continue to be updated. Additionally, the suggested version is sometimes rolled-back, so if your app version is newer than the [currently suggested version](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup) it means that your app is not up-to-date.
+> **The version of your patched app is unrelated to whether it is up-to-date**. The suggested version may stay the same for months, while patches continue to be updated. Additionally, the suggested version is sometimes rolled back, so if your app version is newer than the [currently suggested version](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#2-general-info-for-patching-and-feature-setup) it means that your app is not up-to-date.
 
 
 
@@ -72,7 +72,7 @@ YT Music:
 Follow these steps so that when you open a YouTube / YT Music / Reddit link it will open in the ReVanced Extended app instead of the official app.
 
 > [!IMPORTANT]
-> If you are using MIUI, you may need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After you install it, open it and tap on "Manage applications". Then, continue with the steps below.
+> If you are using MIUI, you may need to use [Hidden Settings for MIUI](https://play.google.com/store/apps/details?id=com.ceyhan.sets). After installing it, open it and tap "Manage applications". Then, continue with the steps below.
 
 1. Go to the App info of the **unpatched** YouTube / YT Music / Reddit app and tap on "Set as default" / "Open by default" > Open supported links, **Off**.
    
@@ -94,7 +94,7 @@ YouTube:
 > The download button can be enabled by going into Settings > ReVanced Extended > Player > Player buttons > Show external download button, **On**. The download button will appear beside the fullscreen button in the video player.
 
 YT Music:
-> You need to include the `Hide action bar components` patch. (Note that on versions newer than 7.16.53, this patch does not support hooking the download button. You can still manually share the links of songs/albums/playlists to your external downlaoder.)
+> You need to include the `Hide action bar components` patch. (Note that on versions newer than 7.16.53, this patch does not support hooking the download button. You can still manually share the links of songs/albums/playlists to your external downloader.)
 >
 > To enable downloading, open the app and navigate to Settings > ReVanced Extended > Action Bar > Override download action button, **On**. Now when you press the [Download button **in the player**](https://imgur.com/a/phjYvbe) it will open the downloader.
 
