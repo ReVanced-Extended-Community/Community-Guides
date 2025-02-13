@@ -37,12 +37,8 @@ Google has made it so that Canadian users who do not have YT Premium can only us
 
 ### **5. Videos stop and buffer**
 
-There are two methods to fix this issue, but the second method should only he used if the first doesn't work for you:
+Make sure your YT Music RVX is [up-to-date](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) (preferably with 7.16.53 or an earlier supported version) with the `Spoof client` patch included. Then, open YT Music RVX and navigate to Settings > RVX > Miscellaneous > Spoof client, **On**.
 
-**Method 1)** Make sure your YT Music RVX is [up-to-date](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) with the `Spoof streaming data` patch included. Then, open YT Music RVX and navigate to Settings > RVX > Miscellaneous > Spoof streaming data, **On**.
-
-**Method 2)** Make sure your YT Music RVX is [up-to-date](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) with the `Spoof client` patch included. Then, open YT Music RVX and navigate to Settings > RVX > Miscellaneous > Spoof client, **On**.
-
- > [!IMPORTANT]
- > 
- > Do not have the "Spoof streaming data" and "Spoof client" toggles enabled simultaneously.
+> [!NOTE]
+>
+> If you still face playback issues refer to the workarounds outlined [here](https://github.com/inotia00/ReVanced_Extended/issues/2758).
