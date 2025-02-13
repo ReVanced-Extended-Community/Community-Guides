@@ -22,7 +22,7 @@ To understand and set up the download feature, refer to section 2 of the [setup 
 
 ### **3. Videos stop and buffer infinitely**
 
-Make sure your YT ReVanced Extended is [up-to-date](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) with the `Spoof streaming data` patch included. Then, open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Miscellaneous > Spoof streaming data > Spoof streaming data, **On**. 
+Make sure your YT ReVanced Extended is [up-to-date](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) with the `Spoof streaming data` patch included. Then, open YT ReVanced Extended and navigate to Settings > RVX > Miscellaneous > Spoof streaming data > Spoof streaming data, **On**. 
 
 > Note that there are several clients you can spoof to, and each has their own side-effects.
 
@@ -33,11 +33,11 @@ Make sure your YT ReVanced Extended is [up-to-date](https://github.com/ReVanced-
 
 **To hide/unhide Shorts in feeds:**
 
-You need to include the `Shorts components` patch. Then, open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Shorts > Hide shorts shelves, **On/Off**.
+You need to include the `Shorts components` patch. Then, open YT ReVanced Extended and navigate to Settings > RVX > Shorts > Hide shorts shelves, **On/Off**.
 
 **To hide/unhide the Shorts button:**
 
-You need to include the `Navigation bar components` patch. Then, open YT ReVanced Extended and navigate to Settings > ReVanced Extended > General > Navigation buttons > Hide shorts button, **On/Off**.
+You need to include the `Navigation bar components` patch. Then, open YT ReVanced Extended and navigate to Settings > RVX > General > Navigation buttons > Hide shorts button, **On/Off**.
 
 
 
@@ -58,11 +58,11 @@ This likely means that the SponsorBlock servers are down. You can check the serv
 
 ### **7. Watch history isn't being saved**
 
-Make sure your YT ReVanced Extended is [up-to-date](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) with the `Watch history` patch included. Then, open YT ReVanced Extended and navigate to Settings > ReVanced Extended > Miscellaneous > Watch history. At the bottom, the reasons for why watch history may not work will be listed. Here are the possible listed reasons and their respective solutions:
+Make sure your YT ReVanced Extended is [up-to-date](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) with the `Watch history` patch included. Then, open YT ReVanced Extended and navigate to Settings > RVX > Miscellaneous > Watch history. At the bottom, the reasons for why watch history may not work will be listed. Here are the possible listed reasons and their respective solutions:
 
 - **"Watch history may not work with a brand account."**: [Update](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) the app.
 
-    > If you don't want to update the app, navigate to Settings > ReVanced Extended > Miscellaneous > Spoof client. Set the spoof client option for all of the categories (General, Live streams, etc.) to a spoofing method other than "iOS". Read the side-effects of each of the spoofing methods in the "About" section (at the bottom of the Spoof client settings menu). 
+    > If you don't want to update the app, navigate to Settings > RVX > Miscellaneous > Spoof client. Set the spoof client option for all of the categories (General, Live streams, etc.) to a spoofing method other than "iOS". Read the side-effects of each of the spoofing methods in the "About" section (at the bottom of the Spoof client settings menu). 
 
 - **"Watch history may not work due to DNS or VPN."**: Change the `Watch history type` to "Replace domain". Alternatively, whitelist `s.youtube.com` in your ad-blocker, DNS-blocker, firewall, etc. 
 
