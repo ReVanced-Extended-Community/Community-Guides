@@ -33,11 +33,11 @@ Make sure your YT ReVanced Extended is [up-to-date](https://github.com/ReVanced-
 
 **To hide/unhide Shorts in feeds:**
 
-You need to include the `Shorts components` patch. Then, open YT ReVanced Extended and navigate to Settings > RVX > Shorts > Hide shorts shelves, **On/Off**.
+You need to include the `Shorts components` patch. Then, open YT ReVanced Extended and navigate to Settings > RVX > Shorts > Hide Shorts shelves, **On/Off**.
 
 **To hide/unhide the Shorts button:**
 
-You need to include the `Navigation bar components` patch. Then, open YT ReVanced Extended and navigate to Settings > RVX > General > Navigation buttons > Hide shorts button, **On/Off**.
+You need to include the `Navigation bar components` patch. Then, open YT ReVanced Extended and navigate to Settings > RVX > General > Navigation buttons > Hide Shorts button, **On/Off**.
 
 
 
