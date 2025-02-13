@@ -38,7 +38,7 @@ Below are links to resources and platforms of related projects by other develope
 
 • [GitHub](https://github.com/decipher3114/Revancify)
 
-• [Telegram](https://t.me/revancifychat)
+• [Telegram](https://t.me/decipher_projects)
 
 **anddea:**
 
