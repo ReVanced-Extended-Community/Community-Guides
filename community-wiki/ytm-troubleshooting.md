@@ -8,7 +8,7 @@
 
 Navigate to your device settings > Accounts > Manage accounts > Google ([blue icon](https://imgur.com/a/LXoLCV1)) > Remove account. You can sign in again if you want.
 
-> If that doesn't work you can uninstall GmsCore and then reinstall [GmsCore](https://github.com/ReVanced/GmsCore/releases/latest).
+> If that doesn't work you can clear the app data of GmsCore (aka microG) or uninstall and reinstall [GmsCore](https://github.com/ReVanced/GmsCore/releases/latest).
 
 
 
