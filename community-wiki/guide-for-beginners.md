@@ -29,7 +29,7 @@ ___
 
 
 
-# **1. Requirements:**
+# **1. Requirements**
 
 
 * Your device must be running Android 8.0 or newer.
@@ -41,7 +41,7 @@ ___
 
 
 
-#### **Downloading GmsCore, APK to patch, & the RVX Manager**
+# **2. Downloading GmsCore, APK to patch, & the RVX Manager**
 
 
 Download and install the **RVX Manager** APK from [here](https://github.com/inotia00/revanced-manager/releases/latest). It is inotia00's fork of the official ReVanced Manager.
@@ -76,7 +76,7 @@ If patching YouTube or YT Music:
 
 
 
-# **2. Patching**
+# **3. Patching**
 
 
 Open the RVX Manager and go to Patcher > Select an application.
@@ -108,7 +108,7 @@ Wait for the patching to be complete. It usually takes 2-5 minutes. If you leave
 
 
 
-# **3. Installing**
+# **4. Installing**
 
 
 > When patching is finished you can save the APK as a file so that you have it for later in case you have trouble installing it or want to share it. To do this, tap save icon in the lower left corner of the screen as shown [here](https://imgur.com/a/FKD0okE).
