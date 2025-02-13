@@ -30,7 +30,7 @@ Refer to section 3 of the [setup guide](https://github.com/ReVanced-Extended-Com
 
 ### **4. Why can I only use the Radio feature?**
 
-Google has made it so that Canadian users who do not have YT Premium can only use the Radio feature within YouTube Music. There was a workaround involving spoofing to an older version, but it has been [depracated](https://github.com/inotia00/ReVanced_Extended/issues/2743). Currently, the only solutions are to use a VPN to a different country or purchase YT Premium.
+Google has made it so that Canadian users who do not have YT Premium can only use the Radio feature within YouTube Music. There was a workaround involving spoofing to an older version, but it has been [deprecated](https://github.com/inotia00/ReVanced_Extended/issues/2743). Currently, the only solutions are to use a VPN to a different country or purchase YT Premium.
 
 
 
