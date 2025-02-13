@@ -61,8 +61,6 @@ Make sure your YT ReVanced Extended is [up-to-date](https://github.com/ReVanced-
 
 - **"Watch history may not work with a brand account."**: [Update](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) the app.
 
-    > If you don't want to update the app, navigate to Settings > RVX > Miscellaneous > Spoof client. Set the spoof client option for all of the categories (General, Live streams, etc.) to a spoofing method other than "iOS". Read the side-effects of each of the spoofing methods in the "About" section (at the bottom of the Spoof client settings menu). 
-
 - **"Watch history may not work due to DNS or VPN."**: Change the `Watch history type` to "Replace domain". Alternatively, whitelist `s.youtube.com` in your ad-blocker, DNS-blocker, firewall, etc. 
 
 - **"Watch history is blocked"**: Change the `Watch history type` to one other than "Block watch history".
