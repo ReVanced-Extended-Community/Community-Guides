@@ -37,7 +37,7 @@ Google has made it so that Canadian users who do not have YT Premium can only us
 
 ### **5. Videos stop and buffer**
 
-Make sure your YT Music RVX is [up-to-date](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) (preferably with 7.16.53 or an earlier supported version) with the `Spoof client` patch included. Then, open YT Music RVX and navigate to Settings > RVX > Miscellaneous > Spoof client, **On**. (If issues still occur, try changing the "Default client".)
+Make sure your YT Music RVX is [up-to-date](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) (preferably with 7.16.53 or an earlier [supported version](https://github.com/inotia00/revanced-patches?tab=readme-ov-file#-json-format)) with the `Spoof client` patch included. Then, open YT Music RVX and navigate to Settings > RVX > Miscellaneous > Spoof client, **On**. (If issues still occur, try changing the "Default client".)
 
 > Note that there are several clients you can spoof to, and each has their own side-effects.
 
