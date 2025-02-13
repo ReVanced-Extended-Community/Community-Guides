@@ -22,10 +22,9 @@ To understand and set up the download feature, refer to section 2 of the [setup 
 
 ### **3. Videos stop and buffer infinitely**
 
-Make sure your YT ReVanced Extended is [up-to-date](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) with the `Spoof streaming data` patch included. Then, open YT ReVanced Extended and navigate to Settings > RVX > Miscellaneous > Spoof streaming data > Spoof streaming data, **On**. 
+Make sure your YT ReVanced Extended is [up-to-date](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#1-info-for-updating-revanced-extended) with the `Spoof streaming data` patch included. Then, open YT ReVanced Extended and navigate to Settings > RVX > Miscellaneous > Spoof streaming data > Spoof streaming data, **On**. (If issues still occur, try changing the "Default client".)
 
 > Note that there are several clients you can spoof to, and each has their own side-effects.
-
 
 
 
