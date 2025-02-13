@@ -39,7 +39,7 @@ If you uninstall or clear the app data of the RVX Manager the keystore file will
 
 You can export and import the RVX settings configuration from/to a YouTube RVX or YT Music RVX.
 
-To export the settings, open the YouTube RVX / YT Music RVX app you want to export the settings from. Navigate to Settings > ReVanced Extended > Miscellaneous > Import / Export settings. Either export as a `.txt` file or copy the text directly and save it to your clipboard until you are ready to import it.
+To export the settings, open the YouTube RVX / YT Music RVX app you want to export the settings from. Navigate to Settings > RVX > Miscellaneous > Import / Export settings. Either export as a `.txt` file or copy the text directly and save it to your clipboard until you are ready to import it.
 
 To import the settings, open the YouTube RVX / YT Music RVX app you want to import the settings into. Navigate to the "Import / Export settings" option using the path above, and import the `.txt` file or replace the text with the text you copied.
 
@@ -91,12 +91,12 @@ The download feature in YouTube RVX / YT Music RVX is separate from the built-in
 YouTube:
 > You need to include the `Overlay buttons` patch.
 >
-> The download button can be enabled by going into Settings > ReVanced Extended > Player > Player buttons > Show external download button, **On**. The download button will appear beside the fullscreen button in the video player.
+> The download button can be enabled by going into Settings > RVX > Player > Player buttons > Show external download button, **On**. The download button will appear beside the fullscreen button in the video player.
 
 YT Music:
 > You need to include the `Hide action bar components` patch. (Note that on versions newer than 7.16.53, this patch does not support hooking the download button. You can still manually share the links of songs/albums/playlists to your external downloader.)
 >
-> To enable downloading, open the app and navigate to Settings > ReVanced Extended > Action Bar > Override download action button, **On**. Now when you press the [Download button **in the player**](https://imgur.com/a/phjYvbe) it will open the downloader.
+> To enable downloading, open the app and navigate to Settings > RVX > Action Bar > Override download action button, **On**. Now when you press the [Download button **in the player**](https://imgur.com/a/phjYvbe) it will open the downloader.
 
 The default downloader is [YTDLnis](https://github.com/deniscerri/ytdlnis/releases/latest), which must be installed on the device. To change it, navigate to the downloader settings (using the path above) and open the "External downloader package name" setting. Select the downloader you want to use from the list or enter the package name of the downloader, press "OK" and install it if prompted. You can check out [this post](https://www.reddit.com/r/revancedapp/comments/xft8vq) for the download links and info on several other downloaders you can use. 
 
@@ -127,10 +127,10 @@ Here's how to set it up:
 
 1. You need to include the `Spoof app version` patch.
 
-2. Open YT Music RVX and navigate to Settings > ReVanced Extended > General > Spoof app version, **On**. Fully close and restart the app.
+2. Open YT Music RVX and navigate to Settings > RVX > General > Spoof app version, **On**. Fully close and restart the app.
 
 > [!NOTE]
-> You may need to navigate back to Settings > ReVanced Extended > General > Spoof app version target, and set it to `4.27.53`.
+> You may need to navigate back to Settings > RVX > General > Spoof app version target, and set it to `4.27.53`.
 
 > [!TIP]
 > If this does not work you can use an [old version of Vanced Music](https://www.apkmirror.com/apk/team-vanced/vanced-youtube-music/vanced-youtube-music-4-27-50-release/vanced-youtube-music-4-27-50-android-apk-download/), or use a VPN to a different country to get around the radio-only restriction. If using the old version of Vanced Music, you will need to also install [Vanced MicroG](https://github.com/TeamVanced/VancedMicroG/releases/latest).
