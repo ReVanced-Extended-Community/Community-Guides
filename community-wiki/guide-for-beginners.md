@@ -49,7 +49,10 @@ Download and install the **RVX Manager** APK from [here](https://github.com/inot
 > If you get an error saying *"App not installed as app isn't compatible with your device."* it means that your device is not supported by the RVX Manager. Refer to the [general troubleshooting guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/general-troubleshooting.md) for instructions.
 
 
-Open the RVX Manager settings and disable the `Require suggested app version` toggle.
+Open the RVX Manager. Your device may open a settings page for choosing which apps of yours have permission to install unknown apps. Find the RVX Manager and give it the permission.
+
+
+Then, go to the RVX Manager settings and disable the `Require suggested app version` toggle.
 
 
 Download, but do **not** install the APK you want to patch from apkmirror.com:
@@ -76,10 +79,7 @@ If patching YouTube or YT Music:
 # **2. Patching**
 
 
-Open the RVX Manager. Your device may open a settings page for choosing which apps of yours have permission to install unknown apps. Find the RVX Manager and give it the permission.
-
-
-Then in the Manager, go to Patcher > Select an application.
+Open the RVX Manager and go to Patcher > Select an application.
 
 
 Press "**Storage**" [as shown in this image](https://imgur.com/a/vx64z3S).
