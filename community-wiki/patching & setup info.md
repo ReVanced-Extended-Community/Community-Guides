@@ -94,7 +94,7 @@ YouTube:
 > The download button can be enabled by going into Settings > RVX > Player > Player buttons > Show external download button, **On**. The download button will appear beside the fullscreen button in the video player.
 
 YT Music:
-> You need to include the `Hide action bar components` patch. (Note that on versions newer than 7.16.53, this patch does not support hooking the download button. You can still manually share the links of songs/albums/playlists to your external downloader.)
+> You need to include the `Hide action bar components` patch.
 >
 > To enable downloading, open the app and navigate to Settings > RVX > Action Bar > Override download action button, **On**. Now when you press the [Download button **in the player**](https://imgur.com/a/phjYvbe) it will open the downloader.
 
