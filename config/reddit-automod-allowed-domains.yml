@@ -1,0 +1,34 @@
+---
+
+# [TIP]
+# Use an LLM (gemini.google.com, chatgpt.com, chat.deepseek.com, etc) to easily edit these rules. Prompt carefully.
+
+---
+
+type: comment
+
+url+body+title (regex): '(https?://(?![^/\s]+\.(?-i:It[ ''‘’´`]))|www\.)(?![^/\s]*\b(?<!-)(apkmirror\.com|apkpure\.com|f-droid\.org|freeimage\.host|github\.com|github\.io|gitlab\.com|google\.com|imgur\.com|postimg\.cc|reddit\.com|rentry\.co|rentry\.org|toptal\.com|pastebin\.com|youtube\.com|youtu\.be|revanced\.app|grayjay\.app|redd\.it|githubusercontent\.com|imgbb\.com|ibb\.co|wolframalpha\.com|virustotal\.com|discord\.gg|discord\.com)\b(?!\.))[\w\.\-]+'
+
+message: |
+    Your comment was removed because it contains a link to an un-approved domain.
+
+    The approved domains are: apkmirror.com, apkpure.com, f-droid.org, freeimage.host, github.com, gitlab.com, google.com, imgur.com, postimg.cc, reddit.com, rentry.co, rentry.org, toptal.com, youtube.com, revanced.app, grayjay.app, redd.it, githubusercontent.com, imgbb.com, ibb.co, wolframalpha.com, virustotal.com, discord.gg, discord.com
+
+action: remove
+action_reason: "A comment with a link to a non-allowed domain ({{match}})"
+
+---
+
+type: submission
+
+url+body+title (regex): '(https?://(?![^/\s]+\.(?-i:It[ ''‘’´`]))|www\.)(?![^/\s]*\b(?<!-)(apkmirror\.com|apkpure\.com|f-droid\.org|freeimage\.host|github\.com|github\.io|gitlab\.com|google\.com|imgur\.com|postimg\.cc|reddit\.com|rentry\.co|rentry\.org|toptal\.com|pastebin\.com|youtube\.com|youtu\.be|revanced\.app|grayjay\.app|redd\.it|githubusercontent\.com|imgbb\.com|ibb\.co|wolframalpha\.com|virustotal\.com|discord\.gg|discord\.com)\b(?!\.))[\w\.\-]+'
+
+message: |
+    Your {{kind}} was removed because it contains a link to an un-approved domain.
+
+    The approved domains are: apkmirror.com, apkpure.com, f-droid.org, freeimage.host, github.com, github.io, gitlab.com, google.com, imgur.com, postimg.cc, reddit.com, rentry.co, rentry.org, toptal.com, pastebin.com, youtube.com, youtu.be, revanced.app, grayjay.app, redd.it, githubusercontent.com, imgbb.com, ibb.co, wolframalpha.com, virustotal.com, discord.gg, discord.com
+
+action: remove
+action_reason: "A {{kind}} with a link to a non-allowed domain ({{match}})"
+
+---
