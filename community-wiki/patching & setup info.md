@@ -59,7 +59,7 @@ Open the [RVX Manager](https://github.com/inotia00/revanced-manager/releases/lat
 
 Tap on the suggested version in the RVX Manager to open a search in your browser for the suggested APK (with an architecture supported by your device). Find and open the result from apkmirror.com with the suggested version. 
 
-YouTube / Reddit:
+YouTube / Reddit (≤ v2024.29.0):
 > If the apkmirror.com search result isn't for the `nodpi` variant of the APK, make sure to download the `nodpi` variant, as shown [here](https://imgur.com/a/XE6yF80).
 
 YT Music:
