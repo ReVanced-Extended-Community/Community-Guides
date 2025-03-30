@@ -1,4 +1,4 @@
-**Last updated on Feb 12th, 2025.**
+**Last updated on Mar 30th, 2025.**
 
 
 
@@ -57,7 +57,7 @@ Then, go to the RVX Manager settings and disable the `Require suggested app vers
 
 Download, but do **not** install the APK you want to patch from apkmirror.com:
 
-**YouTube**: [`v19.16.39` (`nodpi`) APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-16-39-release/youtube-19-16-39-android-apk-download/) (stable) or [`v19.44.39` (`nodpi`) APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-44-39-release/youtube-19-44-39-android-apk-download/) (newer, less stable)
+**YouTube**: [`v19.16.39` (`nodpi`) APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-16-39-release/youtube-19-16-39-android-apk-download/) (stable) or [`v19.47.53` (`nodpi`) APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-47-53-release/youtube-19-47-53-android-apk-download/) (newer, missing some things, possibly less stable)
 
 **YT Music**: [`v7.16.53` APK](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-7-16-53-release/#downloads). There will be [2-4 variants](https://i.imgur.com/KRmvhWh.png) of the APK, each for a different architecture. To choose the correct APK, open the RVX Manager and go to the settings. At the bottom of the settings it will list the supported architecture(s) of your device.
 
