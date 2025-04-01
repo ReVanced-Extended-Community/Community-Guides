@@ -26,6 +26,8 @@ Make sure your YT ReVanced Extended is [up-to-date](https://github.com/ReVanced-
 
 > Note that there are several clients you can spoof to, and each has their own side-effects.
 
+If issues still occur and you are using a YouTube version newer than 19.34.42, enable the "Skip Onesire response encryption" toggle.
+
 
 
 ### **4. YouTube Shorts are/aren't hidden**
