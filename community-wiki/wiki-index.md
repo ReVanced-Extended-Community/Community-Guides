@@ -42,7 +42,7 @@ Below are links to resources and platforms of related projects by other develope
 
 **anddea:**
 
-• [GitHub](https://github.com/anddea)
+• [GitHub](https://github.com/anddea/revanced-patches)
 
 • [Support TG](https://t.me/AnddeaChat)
 
@@ -50,7 +50,7 @@ Below are links to resources and platforms of related projects by other develope
 
 **YouTube RVX for Android 6-7 (kitadai31):**
 
-• [GitHub](https://github.com/kitadai31/revanced-patches-android6-7#readme)
+• [GitHub](https://github.com/kitadai31/revanced-patches-android6-7)
 
 • [Announcements TG](https://t.me/rvx_for_a6_7)
 
