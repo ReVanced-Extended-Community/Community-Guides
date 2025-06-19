@@ -1,4 +1,4 @@
-**Terakhir diperbarui pada 28/SEP/2024.**
+**Terakhir diperbarui pada 19/June/2025.**
 
 
 
