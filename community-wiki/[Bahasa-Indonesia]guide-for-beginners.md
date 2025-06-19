@@ -88,7 +88,7 @@ Unduh dan instal APK **RVX Manager** dari [di sini](https://github.com/inotia00/
 
 Unduh, tetapi **jangan** instal APK yang ingin Anda patch dari apkmirror.com:
 
-**YouTube**: [`v19.16.39` (`nodpi`) APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-16-39-release/youtube-19-16-39-android-apk-download/)
+**YouTube**: [`v19.47.53` (`nodpi`) APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-47-53-release/youtube-19-47-53-android-apk-download/)
 
 **YT Music**: [`v7.16.53` APK](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-7-16-53-release/#downloads). Akan ada [2-4 varian](https://i.imgur.com/KRmvhWh.png) APK, masing-masing untuk arsitektur yang berbeda. Untuk memilih APK yang benar, buka RVX Manager dan buka pengaturan. Di bagian bawah pengaturan akan mencantumkan arsitektur yang didukung perangkat Anda.
 
