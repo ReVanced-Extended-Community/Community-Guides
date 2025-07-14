@@ -6,12 +6,11 @@ Each time there is a new [patch release](https://github.com/inotia00/revanced-pa
 
 1. By "Watching" [inotia00's revanced-patches](https://github.com/inotia00/revanced-patches) repository for new releases. (You will get an email whenever there is a public or dev patch release.)
 
-<details>
-<summary><strong>How to "Watch" a GitHub repository:</strong></summary>
-<br>
-
-<img src="/images/watch-releases.gif" width="1200"/>
-</details>
+   <details>
+   <summary><strong>How to "Watch" a GitHub repository:</strong></summary>
+   <br>
+   <img src="/images/watch-releases.gif" width="1200"/>
+   </details>
 
 2. By joining the [ReVanced Extended Discord server](https://discord.com/invite/yMnc3EywRZ) and obtaining the role for patch releases. (You will be pinged whenever there is a public or dev patch release.) 
 
