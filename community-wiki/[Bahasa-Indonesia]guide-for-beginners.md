@@ -90,7 +90,7 @@ Unduh, tetapi **jangan** instal APK yang ingin Anda patch dari apkmirror.com:
 
 **YouTube**: [`v19.47.53` (`nodpi`) APK](https://www.apkmirror.com/apk/google-inc/youtube/youtube-19-47-53-release/youtube-19-47-53-android-apk-download/)
 
-**YT Music**: [`v7.16.53` APK](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-7-16-53-release/#downloads). Akan ada [2-4 varian](https://i.imgur.com/KRmvhWh.png) APK, masing-masing untuk arsitektur yang berbeda. Untuk memilih APK yang benar, buka RVX Manager dan buka pengaturan. Di bagian bawah pengaturan akan mencantumkan arsitektur yang didukung perangkat Anda.
+**YT Music**: [`v8.12.53` APK](https://www.apkmirror.com/apk/google-inc/youtube-music/youtube-music-8-12-53-release/#downloads). Akan ada [2-4 varian](https://i.imgur.com/KRmvhWh.png) APK, masing-masing untuk arsitektur yang berbeda. Untuk memilih APK yang benar, buka RVX Manager dan buka pengaturan. Di bagian bawah pengaturan akan mencantumkan arsitektur yang didukung perangkat Anda.
 
 **Reddit**: [`v2024.17.0` (`nodpi`) APK](https://www.apkmirror.com/apk/redditinc/reddit/reddit-2024-17-0-release/reddit-2024-17-0-2-android-apk-download/)
 
