@@ -40,7 +40,7 @@ It is illegal to distribute modified APKs. Anyone distributing pre-patched ReVan
 
 ### **7. What features are different between ReVanced Extended and ReVanced?**
 
-There are too many differences in features to have them documented individually, so the best way to answer this question is by patching and installing the ReVanced Extended app you want to compare and see the differences for yourself. Alternatively, you can compare the list of patches between the [ReVanced Extended GitHub](https://github.com/inotia00/revanced-patches/tree/revanced-extended#readme) and the [ReVanced site](https://revanced.app/patches), but many patches contain several features and options within, so just comparing the list of patches won't reveal much.
+The answer to this question is constantly evolving and there are too many differences in features to have them documented individually, so the best way to answer this question is by patching and installing the ReVanced Extended app you want to compare and see the differences for yourself. Alternatively, you can compare the list of patches between the [ReVanced Extended GitHub](https://github.com/inotia00/revanced-patches/tree/revanced-extended#readme) and the [ReVanced site](https://revanced.app/patches), but many patches contain several features and options within, so just comparing the list of patches won't reveal much.
 
 
 
