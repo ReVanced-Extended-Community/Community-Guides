@@ -125,4 +125,4 @@ Here's how to set it up:
 
 5. Tap the 3 dots in the upper-right corner of your screen and open the Developer settings.
 
-6. Scroll down and enable Unknown sources.
+6. Scroll down and enable "Unknown sources".
