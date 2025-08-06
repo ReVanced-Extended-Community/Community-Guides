@@ -4,4 +4,6 @@
 
 [inotia00's guides and documentation](https://github.com/inotia00/revanced-documentation#readme)
 
+[Additional information about updating, patching, and feature setup](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md)
+
 [Documentation for patching ReX](https://github.com/YT-Advanced/revanced-documentation)

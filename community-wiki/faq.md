@@ -62,4 +62,6 @@ Generally, you update by patching the currently suggested version of the app and
 
 
 
-**If your question is not on the list be sure to check the [troubleshooting section](https://www.reddit.com/r/revancedextended/wiki/troubleshooting/).**
+___
+
+**If your question is not on the list check the [troubleshooting section](https://www.reddit.com/r/revancedextended/wiki/troubleshooting/) and the [setup info guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md), which contains additional information about updating, patching, and setting up certain features.**
