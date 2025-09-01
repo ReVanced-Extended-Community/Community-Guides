@@ -111,7 +111,7 @@ The default downloader is [YTDLnis](https://github.com/deniscerri/ytdlnis/releas
 
 # **3. YT Music Setup**
 
-### **3a.Android Auto Setup**
+### **3a. Android Auto Setup**
 
 Here's how to set it up:
 
