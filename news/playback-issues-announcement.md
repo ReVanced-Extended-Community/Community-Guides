@@ -13,7 +13,7 @@ See the [v5.11.1 release notes](https://github.com/inotia00/revanced-patches/rel
 
 ### What does this mean for me?
 
-If you face playback issues in YouTube RVX, you should switch to using the `TV Simply` JavaScript client. Ideally this is done while using the latest patches, but it can also be done with patches newer than v5.9.1 patches.
+If you face playback issues in YouTube RVX, you should switch to using the `TV Simply` JavaScript client. Ideally this is done while using the latest patches, but it should still work as long as you are using patches v5.9.1 or newer.
 
 To use the `TV Simply` JavaScript client, open YouTube RVX and navigate to Settings > RVX > Miscellaneous > Spoof streaming data. Enable each of these settings in the following order. Restart the app each time you are prompted to:
 
