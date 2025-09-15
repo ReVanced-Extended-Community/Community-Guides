@@ -1,3 +1,5 @@
+- Note: This announcement has been edited after the v5.11.1 patches have been released.
+
 There are some notable updates regarding spoofing for playback in YouTube and YT Music.
 
 # YouTube
