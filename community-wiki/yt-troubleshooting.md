@@ -26,6 +26,7 @@ Refer to [this announcement](https://github.com/ReVanced-Extended-Community/Comm
 
 
 
+
 ### **4. YouTube Shorts are/aren't hidden**
 
 **To hide/unhide Shorts in feeds:**

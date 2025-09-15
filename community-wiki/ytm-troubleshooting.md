@@ -22,7 +22,6 @@ To understand and set up the download feature, refer to section 2 of the [setup 
 
 ### **3. How do I get YT Music RVX on Android Auto?**
 
-
 Refer to section 3 of the [setup guide](https://github.com/ReVanced-Extended-Community/Community-Guides/blob/main/community-wiki/patching%20%26%20setup%20info.md#3-yt-music-setup).
 
 
