@@ -8,7 +8,7 @@ In the recent patch release (v5.11.1), the following changes have been made:
 
 - The `Android TV`, `iOS TV`, and `Android VR (Auth)` clients have been removed. See [this bug report](https://github.com/inotia00/ReVanced_Extended/issues/3166) for more information.
 
-- The `Android Studio` and `visionOS` clients have been added.
+- The `Android Studio`, `ipadOS`, and `visionOS` clients have been added.
 
 See the [v5.11.1 release notes](https://github.com/inotia00/revanced-patches/releases/tag/v5.11.1) for the full list of changes.
 
