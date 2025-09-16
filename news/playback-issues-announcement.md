@@ -1,17 +1,21 @@
+- Note: This announcement has been edited after the v5.11.1 patches have been released.
+
 There are some notable updates regarding spoofing for playback in YouTube and YT Music.
 
 # YouTube
 
-In the upcoming patch release (v5.11.1), the following changes will be made:
+In the recent patch release (v5.11.1), the following changes have been made:
 
-- The `Android TV`, `iOS TV`, and `Android VR (Auth)` clients will be removed. See [this bug report](https://github.com/inotia00/ReVanced_Extended/issues/3166) for more information.
+- The `Android TV`, `iOS TV`, and `Android VR (Auth)` clients have been removed. See [this bug report](https://github.com/inotia00/ReVanced_Extended/issues/3166) for more information.
 
-- The `Android Studio` and `visionOS` clients will be added.
+- The `Android Studio`, `ipadOS`, and `visionOS` clients have been added.
+
+See the [v5.11.1 release notes](https://github.com/inotia00/revanced-patches/releases/tag/v5.11.1) for the full list of changes.
 
 
 ### What does this mean for me?
 
-If you face playback issues in YouTube RVX, you should switch to using the `TV Simply` JavaScript client. This is true for those using the v5.9.1 patches or newer, including those in the future that use the upcoming patches.
+If you face playback issues in YouTube RVX, you should switch to using the `TV Simply` JavaScript client. Ideally this is done while using the latest patches, but it should still work as long as you are using patches v5.9.1 or newer.
 
 To use the `TV Simply` JavaScript client, open YouTube RVX and navigate to Settings > RVX > Miscellaneous > Spoof streaming data. Enable each of these settings in the following order. Restart the app each time you are prompted to:
 
@@ -27,29 +31,24 @@ Now if a video is taking a while to start or playback issues occur, simply press
 
 `TV Simply` is recommended because it allows the 'Audio track' and 'Stable volume' options to be shown in the player flyout menu.
 
-In the upcoming patch release, the 'Audio track' option will not appear in the player flyout menu when using the `Android Studio`, `Android VR (No Auth)`, `visionOS`, or `Mobile Web` clients. However, with the exception of `Android Studio`, the 'Disable forced auto audio track' setting will be functional, as well as the 'Show audio track button' (which is a dedicated overlay button in the video player). Regarding the 'Stable volume' option, it will only be supported by the `TV Simply`, `TV`, and `visionOS` clients.
+With the v5.11.1 patches, the 'Audio track' option does not appear in the player flyout menu when using the `Android Studio`, `Android VR (No Auth)`, `visionOS`, or `Mobile Web` clients. However, with the exception of `Android Studio`, the 'Disable forced auto audio track' setting is functional, as well as the 'Show audio track button' (which is a dedicated overlay button in the video player). Regarding the 'Stable volume' option, it is only supported by the `TV Simply`, `TV`, and `visionOS` clients.
 
 
 
 # YT Music
 
-In the upcoming patch release (v5.11.1), the following changes will be made:
+In the recent patch release (v5.11.1), the following changes have been made:
 
-- The `Fix playback` patch will be removed, and a new in-app option (associated with the `GmsCore support` patch) named 'Spoof streaming data' will be added to prevent playback issues. See [this bug report](https://github.com/inotia00/ReVanced_Extended/issues/3167) for more information.
+- The `Fix playback` patch has been removed, and a new in-app option (associated with the `GmsCore support` patch) named 'Spoof streaming data' has been added to prevent playback issues. See [this bug report](https://github.com/inotia00/ReVanced_Extended/issues/3167) for more information.
+
+See the [v5.11.1 release notes](https://github.com/inotia00/revanced-patches/releases/tag/v5.11.1) for the full list of changes.
 
 
 ### What does this mean for me?
 
-Once the v5.11.1 patches release, if you update your YT Music RVX, you should not have any playback issues, since the 'Spoof streaming data' option will be enabled by default.
+If you face playback issues in YT Music RVX, update the app. The 'Spoof streaming data' option will be enabled by default, so playback issues should not occur.
 
-Note: Users with YT Premium or an intact GmsCore/microG installation from before March 2024 will need to disable the 'Spoof streaming data' option.
-
-
-### How do I resolve playback issues right now?
-
-If you face playback issues in YT Music RVX, patch YT Music with the v5.10.1 patches and include the `Fix playback` patch. After the app is patched and installed, open it and navigate to Settings > RVX > Miscellaneous. Make sure that the 'Spoof client' setting is OFF and that the 'Spoof video streams' setting is ON. 
-
-Additionally, depending on your network, you may need to set a Private DNS provider in your device settings. Follow the instructions laid out on [this page](https://developers.google.com/speed/public-dns/docs/using?hl=en#android) to set up Private DNS. (This is only needed temporarily until you update to the v5.11.1 patches and use the 'Spoof streaming data' option.)
+Note: Users with YT Premium or an intact GmsCore/microG installation from before March 2024 need to disable the 'Spoof streaming data' option (by opening YT Music RVX and navigating to Settings > RVX > Miscellaneous).
 
 
 
