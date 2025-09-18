@@ -31,7 +31,7 @@ Now if a video is taking a while to start or playback issues occur, simply press
 
 `TV Simply` is recommended because it allows the 'Audio track' and 'Stable volume' options to be shown in the player flyout menu.
 
-With the v5.11.1 patches, the 'Audio track' option does not appear in the player flyout menu when using the `Android Studio`, `Android VR (No Auth)`, `visionOS`, or `Mobile Web` clients. Nevertheless, with the exception of `Android Studio`, the 'Disable forced auto audio track' setting is functional, as well as the 'Show audio track button' (which is a dedicated overlay button in the video player). Regarding the 'Stable volume' option, it is only supported by the `TV Simply`, `TV`, `ipadOS`, and `visionOS` clients.
+With the v5.11.1 patches, the 'Audio track' option does not appear in the player flyout menu when using the `Android Studio`, `Android VR (No Auth)`, `visionOS`, or `Mobile Web` clients. Nevertheless, with the exception of `Android Studio`, the 'Disable forced auto audio track' setting is functional, as well as the 'Show audio track button' (which is a dedicated overlay button in the video player). Regarding the 'Stable volume' option, it is only supported by the `TV Simply`, `TV`, `ipadOS`, and `visionOS` clients. In addition to the issues some clients have with the 'Audio track' and 'Stable volume' options, the `Android VR`, `visionOS`, `iPadOS`, and `Mobile Web` clients are not available in some regions, including India.
 
 
 
