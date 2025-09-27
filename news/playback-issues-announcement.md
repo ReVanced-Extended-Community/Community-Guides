@@ -15,23 +15,23 @@ See the [v5.11.1 release notes](https://github.com/inotia00/revanced-patches/rel
 
 ### What does this mean for me?
 
-If you face playback issues in YouTube RVX, you should switch to using the `TV Simply` JavaScript client. Ideally this is done while using the latest patches, but it should still work as long as you are using patches v5.9.1 or newer.
+If you face playback issues in YouTube RVX, you should switch to using the `TV` JavaScript client. Ideally this is done while using the latest patches, but it should still work as long as you are using patches v5.9.1 or newer.
 
-To use the `TV Simply` JavaScript client, open YouTube RVX and navigate to Settings > RVX > Miscellaneous > Spoof streaming data. Enable each of these settings in the following order. Restart the app each time you are prompted to:
+To use the `TV` JavaScript client, open YouTube RVX and navigate to Settings > RVX > Miscellaneous > Spoof streaming data. Enable each of these settings in the following order. Restart the app each time you are prompted to:
 
 1. Enable 'Spoof streaming data' (if disabled).
 2. Enable 'Use JavaScript client' (and read the popup when enabling it).
-3. Set the 'Default client' to `TV Simply`.
+3. Set the 'Default client' to `TV`.
 4. Enable 'Always show reload video button'. ('Show reload button' also needs to be enabled.)
 
 Now if a video is taking a while to start or playback issues occur, simply press the 'Reload video button' in the video player.
 
 
-### Why is the TV Simply client recommended?
+### Why is the TV client recommended?
 
-`TV Simply` is recommended because it allows the 'Audio track' and 'Stable volume' options to be shown in the player flyout menu.
+`TV` is recommended because it allows the 'Audio track' and 'Stable volume' options to be shown in the player flyout menu. (Note: The `TV Simply` client has been deprecated.)
 
-With the v5.11.1 patches, the 'Audio track' option does not appear in the player flyout menu when using the `Android Studio`, `Android VR (No Auth)`, `visionOS`, or `Mobile Web` clients. Nevertheless, with the exception of `Android Studio`, the 'Disable forced auto audio track' setting is functional, as well as the 'Show audio track button' (which is a dedicated overlay button in the video player). Regarding the 'Stable volume' option, it is only supported by the `TV Simply`, `TV`, `ipadOS`, and `visionOS` clients. In addition to the issues some clients have with the 'Audio track' and 'Stable volume' options, the `Android VR`, `visionOS`, `iPadOS`, and `Mobile Web` clients are not available in some regions, including India.
+With the v5.11.1 patches, the 'Audio track' option does not appear in the player flyout menu when using the `Android Studio`, `Android VR (No Auth)`, `visionOS`, or `Mobile Web` clients. Nevertheless, with the exception of `Android Studio`, the 'Disable forced auto audio track' setting is functional, as well as the 'Show audio track button' (which is a dedicated overlay button in the video player). Regarding the 'Stable volume' option, it is only supported by the `TV`, `TV Simply` (deprecated), `ipadOS`, and `visionOS` clients. In addition to the issues some clients have with the 'Audio track' and 'Stable volume' options, the `Android VR`, `visionOS`, `iPadOS`, and `Mobile Web` clients are not available in some regions, including India.
 
 
 
