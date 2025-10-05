@@ -32,11 +32,11 @@ Now if a video is taking a while to start or playback issues occur, simply press
 `TV` is recommended because it allows the 'Audio track' and 'Stable volume' options to be shown in the player flyout menu and it is available in all regions. The `TV Simply (No PoToken)` client is similar, but may not be as reliable as the `TV` client.
 
 > More details:
->
+> 
 > The 'Audio track' option in the player flyout menu is only shown when using the `TV`, `TV Simply (No PoToken)`, and `iPadOS` clients. But the 'Show audio track button' and 'Disable forced auto audio track' settings are still functional when using the `Android VR (No Auth)`, `visionOS`, and `Mobile Web` clients. ('Show audio track button' creates a dedicated overlay button in the video player).
 > 
 > The 'Stable volume' option in the player flyout menu, it is only supported by the `TV`, `TV Simply (No PoToken)`, `ipadOS`, and `visionOS` clients. 
->
+> 
 > Additionally, in some regions (such as India,) only the `TV`, `TV Simply (No PoToken)`, `Android VR (Auth)`, and `Android Studio` clients are available.
 
 
