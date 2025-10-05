@@ -1,16 +1,16 @@
-- Note: This announcement has been edited after the v5.11.1 patches have been released.
+- Note: This announcement has been edited after the v5.12.1 patches have been released.
 
 There are some notable updates regarding spoofing for playback in YouTube and YT Music.
 
 # YouTube
 
-In the recent patch release (v5.11.1), the following changes have been made:
+In the recent patch releases (v5.11.1 and v5.12.1), the following relevant changes have been made:
 
-- The `Android TV`, `iOS TV`, and `Android VR (Auth)` clients have been removed. See [this bug report](https://github.com/inotia00/ReVanced_Extended/issues/3166) for more information.
+- The `Android TV` and `iOS TV` clients have been removed.
 
 - The `Android Studio`, `ipadOS`, and `visionOS` clients have been added.
 
-See the [v5.11.1 release notes](https://github.com/inotia00/revanced-patches/releases/tag/v5.11.1) for the full list of changes.
+See the [v5.11.1](https://github.com/inotia00/revanced-patches/releases/tag/v5.11.1) and [v5.12.1](https://github.com/inotia00/revanced-patches/releases/tag/v5.12.1) release notes for the full list of changes.
 
 
 ### What does this mean for me?
@@ -29,15 +29,21 @@ Now if a video is taking a while to start or playback issues occur, simply press
 
 ### Why is the TV client recommended?
 
-`TV` is recommended because it allows the 'Audio track' and 'Stable volume' options to be shown in the player flyout menu. (Note: The `TV Simply` client has been deprecated.)
+`TV` is recommended because it allows the 'Audio track' and 'Stable volume' options to be shown in the player flyout menu and it is available in all regions. The `TV Simply (No PoToken)` client is similar, but may not be as reliable as the `TV` client.
 
-With the v5.11.1 patches, the 'Audio track' option does not appear in the player flyout menu when using the `Android Studio`, `Android VR (No Auth)`, `visionOS`, or `Mobile Web` clients. Nevertheless, with the exception of `Android Studio`, the 'Disable forced auto audio track' setting is functional, as well as the 'Show audio track button' (which is a dedicated overlay button in the video player). Regarding the 'Stable volume' option, it is only supported by the `TV`, `TV Simply` (deprecated), `ipadOS`, and `visionOS` clients. In addition to the issues some clients have with the 'Audio track' and 'Stable volume' options, the `Android VR`, `visionOS`, `iPadOS`, and `Mobile Web` clients are not available in some regions, including India.
+> More details:
+>
+> The 'Audio track' option in the player flyout menu is only shown when using the `TV`, `TV Simply (No PoToken)`, and `iPadOS` clients. But the 'Show audio track button' and 'Disable forced auto audio track' settings are still functional when using the `Android VR (No Auth)`, `visionOS`, and `Mobile Web` clients. ('Show audio track button' creates a dedicated overlay button in the video player).
+> 
+> The 'Stable volume' option in the player flyout menu, it is only supported by the `TV`, `TV Simply (No PoToken)`, `ipadOS`, and `visionOS` clients. 
+>
+> Additionally, in some regions (such as India,) only the `TV`, `TV Simply (No PoToken)`, `Android VR (Auth)`, and `Android Studio` clients are available.
 
 
 
 # YT Music
 
-In the recent patch release (v5.11.1), the following changes have been made:
+In the recent patch release (v5.11.1), the following relevant changes have been made:
 
 - The `Fix playback` patch has been removed, and a new in-app option (associated with the `GmsCore support` patch) named 'Spoof streaming data' has been added to prevent playback issues. See [this bug report](https://github.com/inotia00/ReVanced_Extended/issues/3167) for more information.
 
