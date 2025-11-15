@@ -35,7 +35,7 @@ Now if a video is taking a while to start or playback issues occur, simply press
 > 
 > The 'Audio track' option in the player flyout menu is only shown when using the `TV`, `TV Simply (No PoToken)`, and `iPadOS` clients. But the 'Disable forced auto audio track' setting is still functional when using the `Android VR (No Auth)` and `visionOS` clients.
 > 
-> The 'Stable volume' option in the player flyout menu, it is only supported by the `TV`, `TV Simply (No PoToken)`, `ipadOS`, and `visionOS` clients. 
+> The 'Stable volume' option in the player flyout menu is only supported by the `TV`, `TV Simply (No PoToken)`, `ipadOS`, and `visionOS` clients. 
 > 
 > Additionally, in some regions (such as India,) only the `TV`, `TV Simply (No PoToken)`, `Android VR (Auth)`, and `Android Studio` clients are available.
 
