@@ -28,7 +28,7 @@ Now if a video is taking a while to start or playback issues occur, simply press
 > 
 > The 'Stable volume' option in the player flyout menu is only supported by the `TV`, `TV Simply (No PoToken)`, `TV (Legacy)`, `Android (No SDK)`, `iPadOS`, and `visionOS` clients. 
 > 
-> Additionally, in some regions (such as India), only the `TV`, `TV Simply (No PoToken)`, `TV (Legacy)`, `Android VR (Auth)`, `Android Studio`, and `Android (No SDK)` clients are available.
+> Additionally, in some regions (such as India), only the `TV`, `TV Simply (No PoToken)`, `TV (Legacy)`, `Android VR (Auth)`, and `Android Studio` clients are available.
 
 
 
