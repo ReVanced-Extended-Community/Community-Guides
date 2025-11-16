@@ -1,17 +1,8 @@
-- Note: This announcement has been edited after the v5.12.1 patches have been released.
-
-There are some notable updates regarding spoofing for playback in YouTube and YT Music.
+- Note: This announcement has been edited after the [v5.13.1](https://github.com/inotia00/revanced-patches/releases/tag/v5.13.1) patches have been released.
 
 # YouTube
 
-In the recent patch releases (v5.11.1 and v5.12.1), the following relevant changes have been made:
-
-- The `Android TV` and `iOS TV` clients have been removed.
-
-- The `Android Studio`, `ipadOS`, and `visionOS` clients have been added.
-
-See the [v5.11.1](https://github.com/inotia00/revanced-patches/releases/tag/v5.11.1) and [v5.12.1](https://github.com/inotia00/revanced-patches/releases/tag/v5.12.1) release notes for the full list of changes.
-
+Over the past few patch releases there were notable changes regarding spoofing for playback in YouTube.
 
 ### What does this mean for me?
 
@@ -43,12 +34,7 @@ Now if a video is taking a while to start or playback issues occur, simply press
 
 # YT Music
 
-In the recent patch release (v5.11.1), the following relevant changes have been made:
-
-- The `Fix playback` patch has been removed, and a new in-app option (associated with the `GmsCore support` patch) named 'Spoof streaming data' has been added to prevent playback issues. See [this bug report](https://github.com/inotia00/ReVanced_Extended/issues/3167) for more information.
-
-See the [v5.11.1 release notes](https://github.com/inotia00/revanced-patches/releases/tag/v5.11.1) for the full list of changes.
-
+Over the past few patch releases there were notable changes regarding spoofing for playback in YT Music.
 
 ### What does this mean for me?
 
