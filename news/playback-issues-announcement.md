@@ -29,15 +29,15 @@ Now if a video is taking a while to start or playback issues occur, simply press
 
 ### Why is the TV client recommended?
 
-`TV` is recommended because it allows the 'Audio track' and 'Stable volume' options to be shown in the player flyout menu and it is available in all regions. The `TV Simply (No PoToken)` client is similar, but may not be as reliable as the `TV` client.
+`TV` is recommended because it allows the 'Audio track' and 'Stable volume' options to be shown in the player flyout menu and it is available in all regions. The `TV Simply (No PoToken)` and `TV (Legacy)` clients are similar, but may not be as reliable as the `TV` client.
 
 > More details:
 > 
-> The 'Audio track' option in the player flyout menu is only shown when using the `TV`, `TV Simply (No PoToken)`, and `iPadOS` clients. But the 'Disable forced auto audio track' setting is still functional when using the `Android VR (No Auth)` and `visionOS` clients.
+> The 'Audio track' option in the player flyout menu is only shown when using the `TV`, `TV Simply (No PoToken)`, `TV (Legacy)`, `Android (No SDK)`, and `iPadOS` clients. But the 'Disable forced auto audio track' setting is still functional when using the `Android VR (No Auth)` and `visionOS` clients.
 > 
-> The 'Stable volume' option in the player flyout menu is only supported by the `TV`, `TV Simply (No PoToken)`, `ipadOS`, and `visionOS` clients. 
+> The 'Stable volume' option in the player flyout menu is only supported by the `TV`, `TV Simply (No PoToken)`, `TV (Legacy)`, `Android (No SDK)`, `iPadOS`, and `visionOS` clients. 
 > 
-> Additionally, in some regions (such as India,) only the `TV`, `TV Simply (No PoToken)`, `Android VR (Auth)`, and `Android Studio` clients are available.
+> Additionally, in some regions (such as India), only the `TV`, `TV Simply (No PoToken)`, `TV (Legacy)`, `Android VR (Auth)`, `Android Studio`, and `Android (No SDK)` clients are available.
 
 
 
