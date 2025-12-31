@@ -8,10 +8,11 @@ If you face playback issues in YouTube RVX, you should switch to using the `TV S
 
 To use the `TV Simply` JavaScript client, open YouTube RVX and navigate to Settings > RVX > Miscellaneous > Spoof streaming data. Enable each of these settings in the following order. Restart the app each time you are prompted to:
 
-1. Enable 'Spoof streaming data' (if disabled).
+1. Enable 'Spoof streaming data'.
 2. Enable 'Use JavaScript client' (and read the popup when enabling it).
 3. Set the 'Default client' to `TV Simply`.
-4. Enable 'Always show reload video button'. ('Show reload button' also needs to be enabled.)
+4. Enable 'Show reload button'.
+5. Enable 'Always show reload video button'.
 
 Now if a video is taking a while to start or playback issues occur, simply press the 'Reload video button' in the video player.
 
@@ -22,7 +23,7 @@ Now if a video is taking a while to start or playback issues occur, simply press
 
 > More details:
 > 
-> The 'Audio track' option in the player flyout menu is only shown when using the `TV`, `TV Simply`, `TV (Legacy)`, and `Android (No SDK)`. But the 'Disable forced auto audio track' setting is still functional when using the `Android VR (No Auth)` client.
+> The 'Audio track' option in the player flyout menu is only shown when using the `TV`, `TV Simply`, `TV (Legacy)`, and `Android (No SDK)` clients. But the 'Disable forced auto audio track' setting is still functional when using the `Android VR (No Auth)` client.
 > 
 > The 'Stable volume' option in the player flyout menu is only supported by the `TV`, `TV Simply`, `TV (Legacy)`, `Android (No SDK)`, and `visionOS` clients. 
 > 
