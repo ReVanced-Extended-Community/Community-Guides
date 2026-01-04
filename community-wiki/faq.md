@@ -10,7 +10,7 @@ ReVanced Extended (aka RVX) is a derivative project of ReVanced (not affiliated)
 
 ### **2. Is ReVanced Extended discontinued?**
 
-Not currently. It has been in the past, but inotia00 is actively maintaining it at the moment.
+Yes. See inotia00's announcement [here](https://github.com/inotia00/ReVanced_Extended/issues/3334).
 
 
 
